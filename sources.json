@@ -1,0 +1,15 @@
+{
+  "user_agent": "srcwatch/1.0 (+https://github.com/anpon10/srcwatch)",
+  "timeout_seconds": 20,
+  "sources": [
+    {"name": "財務省 外国為替平衡操作（月次）", "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html", "note": "介入額の月次公表。毎月末更新"},
+    {"name": "財務省 外貨準備等の状況", "url": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.html", "note": "毎月上旬更新"},
+    {"name": "日銀 外国為替市況（日次一覧）", "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm", "note": "毎営業日・17時レート"},
+    {"name": "日銀 金融政策決定会合", "url": "https://www.boj.or.jp/mopo/mpmdeci/index.htm", "note": "会合結果・声明"},
+    {"name": "金融庁 報道発表", "url": "https://www.fsa.go.jp/news/index.html", "note": "規制・監督の発表"},
+    {"name": "米SEC プレスリリース", "url": "https://www.sec.gov/newsroom/press-releases", "note": "規則案・採択"},
+    {"name": "BIS FSI Briefs", "url": "https://www.bis.org/fsi/fsibriefs.htm", "note": "金融安定研究所の短報"},
+    {"name": "米財務省 プレスリリース", "url": "https://home.treasury.gov/news/press-releases", "note": "GENIUS法の規則・為替報告"},
+    {"name": "MAS メディアリリース", "url": "https://www.mas.gov.sg/news", "note": "ボット遮断の可能性あり＝失敗なら実ブラウザで"}
+  ]
+}
