@@ -1,0 +1,99 @@
+{
+  "generated_at": "2026-09-07 16:35:54",
+  "summary": {
+    "same": 9
+  },
+  "items": [
+    {
+      "name": "財務省 外国為替平衡操作（月次）",
+      "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html",
+      "note": "介入額の月次公表。毎月末更新",
+      "result": "same",
+      "status": 200,
+      "checked_at": "2026-09-07 16:35:54",
+      "changed_at": "2026-09-07 16:35:42",
+      "line_count": 119
+    },
+    {
+      "name": "財務省 外貨準備等の状況",
+      "url": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm",
+      "note": "毎月上旬更新",
+      "result": "same",
+      "status": 200,
+      "checked_at": "2026-09-07 16:35:54",
+      "changed_at": "2026-09-07 16:35:42",
+      "line_count": 123
+    },
+    {
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "note": "毎営業日・17時レート",
+      "result": "same",
+      "status": 200,
+      "checked_at": "2026-09-07 16:35:54",
+      "changed_at": "2026-09-07 16:35:42",
+      "line_count": 406
+    },
+    {
+      "name": "日銀 金融政策決定会合",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/index.htm",
+      "note": "会合結果・声明",
+      "result": "same",
+      "status": 200,
+      "checked_at": "2026-09-07 16:35:54",
+      "changed_at": "2026-09-07 16:35:42",
+      "line_count": 261
+    },
+    {
+      "name": "金融庁 報道発表",
+      "url": "https://www.fsa.go.jp/news/index.html",
+      "note": "規制・監督の発表",
+      "result": "same",
+      "status": 200,
+      "checked_at": "2026-09-07 16:35:54",
+      "changed_at": "2026-09-07 16:35:42",
+      "line_count": 383
+    },
+    {
+      "name": "米SEC プレスリリース",
+      "url": "https://www.sec.gov/news/pressreleases.rss",
+      "note": "規則案・採択（HTMLは403のためRSS）",
+      "result": "same",
+      "status": 200,
+      "checked_at": "2026-09-07 16:35:54",
+      "changed_at": "2026-09-07 16:35:42",
+      "line_count": 129
+    },
+    {
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "note": "BISの刊行物一覧（FSI Briefsを含む）",
+      "result": "same",
+      "status": 200,
+      "checked_at": "2026-09-07 16:35:54",
+      "changed_at": "2026-09-07 16:35:42",
+      "line_count": 2944
+    },
+    {
+      "name": "米財務省 プレスリリース",
+      "url": "https://home.treasury.gov/news/press-releases",
+      "note": "GENIUS法の規則・為替報告",
+      "result": "same",
+      "status": 200,
+      "checked_at": "2026-09-07 16:35:54",
+      "changed_at": "2026-09-07 16:35:42",
+      "line_count": 380
+    },
+    {
+      "name": "MAS メディアリリース",
+      "url": "https://www.mas.gov.sg/news",
+      "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
+      "result": "same",
+      "status": 200,
+      "checked_at": "2026-09-07 16:35:54",
+      "changed_at": "2026-09-07 16:35:42",
+      "line_count": 0
+    }
+  ],
+  "history": null
+}

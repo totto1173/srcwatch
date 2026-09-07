@@ -1,0 +1,29 @@
+name: srcwatch daily
+
+on:
+  schedule:
+    - cron: "0 22 * * *"   # 毎日 07:00 JST（UTC 22:00）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.22"
+      - name: build
+        run: go build -o srcwatch .
+      - name: run (変化ありは exit 1 だが失敗扱いにしない)
+        run: ./srcwatch -state docs/state.json -out docs/data.json -diff=false || true
+      - name: commit results
+        run: |
+          git config user.name "srcwatch-bot"
+          git config user.email "srcwatch-bot@users.noreply.github.com"
+          git add docs/state.json docs/data.json
+          git diff --cached --quiet || git commit -m "watch: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
