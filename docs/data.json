@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-08 09:06:07",
+  "generated_at": "2026-09-09 08:57:28",
   "summary": {
-    "changed": 2,
-    "same": 7
+    "changed": 3,
+    "same": 6
   },
   "items": [
     {
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-08 09:06:07",
+      "checked_at": "2026-09-09 08:57:28",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-08 09:06:07",
+      "checked_at": "2026-09-09 08:57:28",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 123
     },
@@ -29,11 +29,19 @@
       "name": "日銀 外国為替市況（日次一覧）",
       "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
       "note": "毎営業日・17時レート",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-08 09:06:07",
-      "changed_at": "2026-09-07 17:55:39",
-      "line_count": 406
+      "checked_at": "2026-09-09 08:57:28",
+      "changed_at": "2026-09-09 08:57:28",
+      "line_count": 406,
+      "added": [
+        "2026年 9月 8日",
+        "外国為替市況（9月8日） [PDF 62KB]"
+      ],
+      "removed": [
+        "2026年 9月 1日",
+        "外国為替市況（9月1日） [PDF 61KB]"
+      ]
     },
     {
       "name": "日銀 金融政策決定会合",
@@ -41,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-08 09:06:07",
+      "checked_at": "2026-09-09 08:57:28",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -49,15 +57,11 @@
       "name": "金融庁 報道発表",
       "url": "https://www.fsa.go.jp/news/index.html",
       "note": "規制・監督の発表",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-09-08 09:06:07",
+      "checked_at": "2026-09-09 08:57:28",
       "changed_at": "2026-09-08 09:06:07",
-      "line_count": 385,
-      "added": [
-        "令和８年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置の公表",
-        "令和８年９月７日"
-      ]
+      "line_count": 385
     },
     {
       "name": "米SEC プレスリリース",
@@ -65,7 +69,7 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-08 09:06:07",
+      "checked_at": "2026-09-09 08:57:28",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 129
     },
@@ -75,52 +79,89 @@
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-08 09:06:07",
-      "changed_at": "2026-09-08 09:06:07",
-      "line_count": 2945,
+      "checked_at": "2026-09-09 08:57:28",
+      "changed_at": "2026-09-09 08:57:28",
+      "line_count": 2937,
       "added": [
-        "07 Sep 2026",
-        "BIS Working Paper (1385)",
-        "Denise Hansson (1)",
-        "Displaying 1-10 of 4955",
-        "E41 (12)",
-        "E52 (229)",
-        "E58 (233)",
-        "G21 (284)",
-        "Kumar Rishabh (6)",
-        "Mathias Drehmann (33)",
-        "No 1376",
-        "Per Asberg-Sommar (1)",
-        "Per Asberg-Sommar , Mathias Drehmann , Denise Hansson and Vatsala Shreeti",
-        "Vatsala Shreeti (16)",
-        "What determines banks' excess demand for reserves?"
-      ],
-      "removed": [
-        "24 Aug 2026",
-        "BIS Working Paper (1384)",
-        "Displaying 1-10 of 4954",
-        "E41 (11)",
+        "08 Sep 2026",
+        "08 Sep 2026",
+        "31 Aug 2026",
+        "Annual Report (27)",
+        "BIS Innovation Hub (56)",
+        "BIS Paper (173)",
+        "Bank for International Settlements (2840)",
+        "CPMI (280)",
+        "Consultative (2)",
+        "Cyber resilience toolkit: practical considerations for FMIs – consultative report",
+        "David Archer (1)",
+        "Displaying 1-10 of 4958",
+        "E42 (78)",
         "E52 (228)",
         "E58 (232)",
-        "G21 (283)",
-        "Hard to shift, easy to reshape: central bank reserve demand and frictions",
-        "How far can central banks shrink their balance sheets? The answer sets the limits to quantitative tightening (QT), and depends critically on the demand for rese…",
-        "Kumar Rishabh (2)",
-        "Mathias Drehmann (32)",
-        "Mathias Drehmann and Xuewen Fu",
-        "No 1372",
-        "Vatsala Shreeti (15)"
+        "FMIs’ reliance on third-party service providers: challenges and risks – discussion paper",
+        "G01 (96)",
+        "G18 (44)",
+        "G38 (22)",
+        "Jaime Caruana (10)",
+        "N20 (5)",
+        "O16 (24)",
+        "Paul Moser-Boehm (2)",
+        "Statement of account",
+        "Statement of account (245)",
+        "Statement of account as at 31 August 2026",
+        "This document is an overview of the Bank's assets, liabilities and equity as at 31 August 2026."
+      ],
+      "removed": [
+        "25 Aug 2026",
+        "26 Aug 2026",
+        "Annual Report (26)",
+        "BIS Bulletin",
+        "BIS Innovation Hub (55)",
+        "BIS Paper (174)",
+        "Bank for International Settlements (2837)",
+        "CPMI (278)",
+        "David Archer (2)",
+        "Displaying 1-10 of 4955",
+        "E42 (79)",
+        "E52 (229)",
+        "E58 (233)",
+        "Effective resolution strategies and plans for insurers - Executive Summary",
+        "FSI Executive Summaries",
+        "Fernando Perez-Cruz , Kumar Rishabh and Ayush Uchil",
+        "Freddy Cepeda-Lopéz , Fredy Gamboa and Javier Miguelez-Márquez",
+        "G01 (97)",
+        "G18 (45)",
+        "G38 (23)",
+        "Jaime Caruana (9)",
+        "N20 (6)",
+        "No 134",
+        "No 1373",
+        "O16 (25)",
+        "Paul Moser-Boehm (3)",
+        "Settlement liquidity in the Colombian large-value payment system: the role of reserve requirements",
+        "Statement of account (247)",
+        "Supervisory screening with large language models: finding divergences",
+        "The Key Attributes of Effective Resolution Regimes for Financial Institutions (Key Attributes) of the Financial Stability Board (FSB) require resolution plans t…",
+        "This paper analyzes the intraday timing of transactions in Colombia's large-value payment system (CUD) from 2018 to 2025, focusing on how changes in reserve req…",
+        "We develop a procedure based on large language models to help supervisors review prospectuses against capital rules. This procedure ranks potential divergences …"
       ]
     },
     {
       "name": "米財務省 プレスリリース",
       "url": "https://home.treasury.gov/news/press-releases",
       "note": "GENIUS法の規則・為替報告",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-08 09:06:07",
-      "changed_at": "2026-09-07 16:35:42",
-      "line_count": 380
+      "checked_at": "2026-09-09 08:57:28",
+      "changed_at": "2026-09-09 08:57:28",
+      "line_count": 380,
+      "added": [
+        "September 8, 2026",
+        "Treasury Grounds Iranian Airlines with Sweeping Sanctions Action"
+      ],
+      "removed": [
+        "Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day"
+      ]
     },
     {
       "name": "MAS メディアリリース",
@@ -128,12 +169,105 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-08 09:06:07",
+      "checked_at": "2026-09-09 08:57:28",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-09-09 08:57:28",
+      "name": "米財務省 プレスリリース",
+      "url": "https://home.treasury.gov/news/press-releases",
+      "added": [
+        "September 8, 2026",
+        "Treasury Grounds Iranian Airlines with Sweeping Sanctions Action"
+      ],
+      "removed": [
+        "Treasury Launches Unprecedented Campaign Against Iranian Regime on Economic D-Day"
+      ]
+    },
+    {
+      "at": "2026-09-09 08:57:28",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "08 Sep 2026",
+        "08 Sep 2026",
+        "31 Aug 2026",
+        "Annual Report (27)",
+        "BIS Innovation Hub (56)",
+        "BIS Paper (173)",
+        "Bank for International Settlements (2840)",
+        "CPMI (280)",
+        "Consultative (2)",
+        "Cyber resilience toolkit: practical considerations for FMIs – consultative report",
+        "David Archer (1)",
+        "Displaying 1-10 of 4958",
+        "E42 (78)",
+        "E52 (228)",
+        "E58 (232)",
+        "FMIs’ reliance on third-party service providers: challenges and risks – discussion paper",
+        "G01 (96)",
+        "G18 (44)",
+        "G38 (22)",
+        "Jaime Caruana (10)",
+        "N20 (5)",
+        "O16 (24)",
+        "Paul Moser-Boehm (2)",
+        "Statement of account",
+        "Statement of account (245)",
+        "Statement of account as at 31 August 2026",
+        "This document is an overview of the Bank's assets, liabilities and equity as at 31 August 2026."
+      ],
+      "removed": [
+        "25 Aug 2026",
+        "26 Aug 2026",
+        "Annual Report (26)",
+        "BIS Bulletin",
+        "BIS Innovation Hub (55)",
+        "BIS Paper (174)",
+        "Bank for International Settlements (2837)",
+        "CPMI (278)",
+        "David Archer (2)",
+        "Displaying 1-10 of 4955",
+        "E42 (79)",
+        "E52 (229)",
+        "E58 (233)",
+        "Effective resolution strategies and plans for insurers - Executive Summary",
+        "FSI Executive Summaries",
+        "Fernando Perez-Cruz , Kumar Rishabh and Ayush Uchil",
+        "Freddy Cepeda-Lopéz , Fredy Gamboa and Javier Miguelez-Márquez",
+        "G01 (97)",
+        "G18 (45)",
+        "G38 (23)",
+        "Jaime Caruana (9)",
+        "N20 (6)",
+        "No 134",
+        "No 1373",
+        "O16 (25)",
+        "Paul Moser-Boehm (3)",
+        "Settlement liquidity in the Colombian large-value payment system: the role of reserve requirements",
+        "Statement of account (247)",
+        "Supervisory screening with large language models: finding divergences",
+        "The Key Attributes of Effective Resolution Regimes for Financial Institutions (Key Attributes) of the Financial Stability Board (FSB) require resolution plans t…",
+        "This paper analyzes the intraday timing of transactions in Colombia's large-value payment system (CUD) from 2018 to 2025, focusing on how changes in reserve req…",
+        "We develop a procedure based on large language models to help supervisors review prospectuses against capital rules. This procedure ranks potential divergences …"
+      ]
+    },
+    {
+      "at": "2026-09-09 08:57:28",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年 9月 8日",
+        "外国為替市況（9月8日） [PDF 62KB]"
+      ],
+      "removed": [
+        "2026年 9月 1日",
+        "外国為替市況（9月1日） [PDF 61KB]"
+      ]
+    },
     {
       "at": "2026-09-08 09:06:07",
       "name": "BIS FSI Briefs",
