@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-07 17:55:39",
+  "generated_at": "2026-09-08 09:06:07",
   "summary": {
-    "changed": 1,
-    "same": 8
+    "changed": 2,
+    "same": 7
   },
   "items": [
     {
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-07 17:55:39",
+      "checked_at": "2026-09-08 09:06:07",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-07 17:55:39",
+      "checked_at": "2026-09-08 09:06:07",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 123
     },
@@ -29,19 +29,11 @@
       "name": "日銀 外国為替市況（日次一覧）",
       "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
       "note": "毎営業日・17時レート",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-09-07 17:55:39",
+      "checked_at": "2026-09-08 09:06:07",
       "changed_at": "2026-09-07 17:55:39",
-      "line_count": 406,
-      "added": [
-        "2026年 9月 7日",
-        "外国為替市況（9月7日） [PDF 61KB]"
-      ],
-      "removed": [
-        "2026年 8月31日",
-        "外国為替市況（8月31日） [PDF 61KB]"
-      ]
+      "line_count": 406
     },
     {
       "name": "日銀 金融政策決定会合",
@@ -49,7 +41,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-07 17:55:39",
+      "checked_at": "2026-09-08 09:06:07",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -57,11 +49,15 @@
       "name": "金融庁 報道発表",
       "url": "https://www.fsa.go.jp/news/index.html",
       "note": "規制・監督の発表",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-07 17:55:39",
-      "changed_at": "2026-09-07 16:35:42",
-      "line_count": 383
+      "checked_at": "2026-09-08 09:06:07",
+      "changed_at": "2026-09-08 09:06:07",
+      "line_count": 385,
+      "added": [
+        "令和８年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置の公表",
+        "令和８年９月７日"
+      ]
     },
     {
       "name": "米SEC プレスリリース",
@@ -69,7 +65,7 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-07 17:55:39",
+      "checked_at": "2026-09-08 09:06:07",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 129
     },
@@ -77,11 +73,44 @@
       "name": "BIS FSI Briefs",
       "url": "https://www.bis.org/publications/",
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-07 17:55:39",
-      "changed_at": "2026-09-07 16:35:42",
-      "line_count": 2944
+      "checked_at": "2026-09-08 09:06:07",
+      "changed_at": "2026-09-08 09:06:07",
+      "line_count": 2945,
+      "added": [
+        "07 Sep 2026",
+        "BIS Working Paper (1385)",
+        "Denise Hansson (1)",
+        "Displaying 1-10 of 4955",
+        "E41 (12)",
+        "E52 (229)",
+        "E58 (233)",
+        "G21 (284)",
+        "Kumar Rishabh (6)",
+        "Mathias Drehmann (33)",
+        "No 1376",
+        "Per Asberg-Sommar (1)",
+        "Per Asberg-Sommar , Mathias Drehmann , Denise Hansson and Vatsala Shreeti",
+        "Vatsala Shreeti (16)",
+        "What determines banks' excess demand for reserves?"
+      ],
+      "removed": [
+        "24 Aug 2026",
+        "BIS Working Paper (1384)",
+        "Displaying 1-10 of 4954",
+        "E41 (11)",
+        "E52 (228)",
+        "E58 (232)",
+        "G21 (283)",
+        "Hard to shift, easy to reshape: central bank reserve demand and frictions",
+        "How far can central banks shrink their balance sheets? The answer sets the limits to quantitative tightening (QT), and depends critically on the demand for rese…",
+        "Kumar Rishabh (2)",
+        "Mathias Drehmann (32)",
+        "Mathias Drehmann and Xuewen Fu",
+        "No 1372",
+        "Vatsala Shreeti (15)"
+      ]
     },
     {
       "name": "米財務省 プレスリリース",
@@ -89,7 +118,7 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-07 17:55:39",
+      "checked_at": "2026-09-08 09:06:07",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 380
     },
@@ -99,12 +128,59 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-07 17:55:39",
+      "checked_at": "2026-09-08 09:06:07",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-09-08 09:06:07",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "07 Sep 2026",
+        "BIS Working Paper (1385)",
+        "Denise Hansson (1)",
+        "Displaying 1-10 of 4955",
+        "E41 (12)",
+        "E52 (229)",
+        "E58 (233)",
+        "G21 (284)",
+        "Kumar Rishabh (6)",
+        "Mathias Drehmann (33)",
+        "No 1376",
+        "Per Asberg-Sommar (1)",
+        "Per Asberg-Sommar , Mathias Drehmann , Denise Hansson and Vatsala Shreeti",
+        "Vatsala Shreeti (16)",
+        "What determines banks' excess demand for reserves?"
+      ],
+      "removed": [
+        "24 Aug 2026",
+        "BIS Working Paper (1384)",
+        "Displaying 1-10 of 4954",
+        "E41 (11)",
+        "E52 (228)",
+        "E58 (232)",
+        "G21 (283)",
+        "Hard to shift, easy to reshape: central bank reserve demand and frictions",
+        "How far can central banks shrink their balance sheets? The answer sets the limits to quantitative tightening (QT), and depends critically on the demand for rese…",
+        "Kumar Rishabh (2)",
+        "Mathias Drehmann (32)",
+        "Mathias Drehmann and Xuewen Fu",
+        "No 1372",
+        "Vatsala Shreeti (15)"
+      ]
+    },
+    {
+      "at": "2026-09-08 09:06:07",
+      "name": "金融庁 報道発表",
+      "url": "https://www.fsa.go.jp/news/index.html",
+      "added": [
+        "令和８年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置の公表",
+        "令和８年９月７日"
+      ]
+    },
     {
       "at": "2026-09-07 17:55:39",
       "name": "日銀 外国為替市況（日次一覧）",
