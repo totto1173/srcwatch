@@ -1,8 +1,8 @@
 {
   "https://home.treasury.gov/news/press-releases": {
-    "hash": "f093b146e51251b54840dced853e293c7ee6c614f70990acc065f49297ef5535",
-    "checked_at": "2026-09-11 08:53:26",
-    "changed_at": "2026-09-11 08:53:26",
+    "hash": "cbcd32cc68328ecda7107b84b6370a713f5e6ec0c464dda49e337c2ce936fb0a",
+    "checked_at": "2026-09-12 09:00:06",
+    "changed_at": "2026-09-12 09:00:06",
     "lines": [
       "Press Releases | U.S. Department of the Treasury",
       "Skip to main content",
@@ -305,6 +305,8 @@
       "Webcasts",
       "Press Contacts",
       "Press Releases",
+      "September 11, 2026",
+      "Treasury Welcomes the Revised GloBE Information Return Implementing President Trump’s Day One Executive Order",
       "September 10, 2026",
       "U.S. Mint Commemorates 25th Anniversary of September 11 with Half Dollar",
       "September 10, 2026",
@@ -323,9 +325,6 @@
       "G20 Chair’s Statement",
       "August 31, 2026",
       "Preliminary Annual Report on U.S. Portfolio Holdings of Foreign Securities at Year-End 2025",
-      "August 30, 2026",
-      "Readouts",
-      "READOUT: Secretary of the Treasury Scott Bessent's Meeting with Bank of Japan Governor Kazuo Ueda",
       "Pagination",
       "Current page 1",
       "Page 2",
@@ -387,9 +386,9 @@
     "status": 200
   },
   "https://www.bis.org/publications/": {
-    "hash": "462c441d6f9c5382d3676f0745db1f475b15e92654ea55fc0df9673609a9ba2b",
-    "checked_at": "2026-09-11 08:53:26",
-    "changed_at": "2026-09-11 08:53:26",
+    "hash": "8d77c3285872aa90994b80b3884b8fe8c2f75fe92eb4e747c1cef57a2426f83d",
+    "checked_at": "2026-09-12 09:00:06",
+    "changed_at": "2026-09-12 09:00:06",
     "lines": [
       "Publications | Bank for International Settlements",
       "Skip to main content",
@@ -3148,7 +3147,7 @@
       "Source",
       "Americas office (153)",
       "Asia Office (184)",
-      "Bank for International Settlements (2832)",
+      "Bank for International Settlements (2833)",
       "BCBS (801)",
       "BIS Innovation Hub (56)",
       "CBGF (4)",
@@ -3238,7 +3237,7 @@
       "Regulatory capital requirements (1)",
       "Resolution and deposit insurance (9)",
       "Supervisory cooperation (70)",
-      "Displaying 1-10 of 4960",
+      "Displaying 1-10 of 4961",
       "Publication",
       "FSI Occasional Papers",
       "No 28",
@@ -3261,6 +3260,7 @@
       "No 1376",
       "07 Sep 2026",
       "What determines banks' excess demand for reserves?",
+      "The amount of central bank reserves to supply has become a highly contentious policy issue for many central banks that shrink their balance sheets which were built up during quantitative easing.",
       "Authors:",
       "Per Asberg-Sommar , Mathias Drehmann , Denise Hansson and Vatsala Shreeti",
       "Publication",
@@ -3296,18 +3296,13 @@
       "Sustainability data issues and central banks' experience",
       "Proceedings of the IFC Satellite Seminar on \"Sustainability data issues and central banks' experience\", co-organised by De Nederlandsche Bank and the Irving Fisher Committee (IFC) in Amsterdam, Netherlands, on 4 October 2025.",
       "Publication",
+      "01 Sep 2026",
+      "The BIS",
+      "Publication",
       "Statement of account",
       "31 Aug 2026",
       "Statement of account as at 31 August 2026",
       "This document is an overview of the Bank's assets, liabilities and equity as at 31 August 2026.",
-      "Publication",
-      "FSI Briefs",
-      "No 33",
-      "27 Aug 2026",
-      "Regulating stablecoin issuance: permissible entities and activities",
-      "Regulatory approaches for stablecoin issuance differ significantly, particularly in terms of the types of entities allowed to issue them and the scope of activities permitted beyond core issuance. These differences are important since additional…",
-      "Authors:",
-      "Adrien Currat , Johannes Ehrentraud and Denise Garcia Ocampo",
       "Current page",
       "Page",
       "Page",
@@ -3348,7 +3343,7 @@
   },
   "https://www.boj.or.jp/mopo/mpmdeci/index.htm": {
     "hash": "602b4d245e765c49a9f314b7449e86e3fca98d29835f8c2b38770158fe4569f9",
-    "checked_at": "2026-09-11 08:53:26",
+    "checked_at": "2026-09-12 09:00:06",
     "changed_at": "2026-09-07 16:35:42",
     "lines": [
       "金融政策に関する決定事項等 : 日本銀行 Bank of Japan",
@@ -3616,9 +3611,9 @@
     "status": 200
   },
   "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm": {
-    "hash": "b2c1b655372b5067280e4d3957e03a251b04b91f1f487f857dc8f37f8b8d7f25",
-    "checked_at": "2026-09-11 08:53:26",
-    "changed_at": "2026-09-11 08:53:26",
+    "hash": "ad8bf1711e617d0b976c531d9a387b5be5a9d87bb35b35e0f7e3daad5872d377",
+    "checked_at": "2026-09-12 09:00:06",
+    "changed_at": "2026-09-12 09:00:06",
     "lines": [
       "外国為替市況（日次） : 日本銀行 Bank of Japan",
       "このページの本文へ移動",
@@ -3868,6 +3863,8 @@
       "表 公表データ",
       "掲載日",
       "データ",
+      "2026年 9月11日",
+      "外国為替市況（9月11日） [PDF 61KB]",
       "2026年 9月10日",
       "外国為替市況（9月10日） [PDF 61KB]",
       "2026年 9月 9日",
@@ -3876,8 +3873,6 @@
       "外国為替市況（9月8日） [PDF 62KB]",
       "2026年 9月 7日",
       "外国為替市況（9月7日） [PDF 61KB]",
-      "2026年 9月 4日",
-      "外国為替市況（9月4日） [PDF 61KB]",
       "外国為替市況（日次）一覧",
       "参考計数（東京外為市場における取引状況）",
       "表 参考計数（東京外為市場における取引状況）",
@@ -4030,9 +4025,9 @@
     "status": 200
   },
   "https://www.fsa.go.jp/news/index.html": {
-    "hash": "f3060bd07b3ce855512ffb5020b523c7ebf24862c5d65708d1135dbfd4054979",
-    "checked_at": "2026-09-11 08:53:26",
-    "changed_at": "2026-09-10 08:57:01",
+    "hash": "cd0520fe5b38bfe3b2ab4a8860f806a0f5fabf603e27a72e97d7d7e6f167f5e8",
+    "checked_at": "2026-09-12 09:00:06",
+    "changed_at": "2026-09-12 09:00:06",
     "lines": [
       "--\u003e",
       "報道発表資料 ： 金融庁",
@@ -4133,6 +4128,11 @@
       "Tweet",
       "報道発表資料",
       "令和８年７月～令和９年６月",
+      "令和８年９月11日",
+      "無登録で貸金業を行っている者等（Bit Hills Inc.）に対する警告書の発出の公表",
+      "「保険会社向けの総合的な監督指針」の一部改正（案）の公表",
+      "令和８年熊本地震による金融機関等の報告の提出期限等に係る措置に関する公表",
+      "「金融サービス利用者相談室」における相談等の受付状況等（期間：令和８年４月１日～同年６月30日）の公表",
       "令和８年９月９日",
       "令和８年台風第24号及び前線による大雨に伴う災害等に対する金融上の措置の更新",
       "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第１回）の開催",
@@ -4428,14 +4428,14 @@
   },
   "https://www.mas.gov.sg/news": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "checked_at": "2026-09-11 08:53:26",
+    "checked_at": "2026-09-12 09:00:06",
     "changed_at": "2026-09-07 16:35:42",
     "lines": null,
     "status": 200
   },
   "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html": {
     "hash": "3547ce6c8b0d7d595773218da6cf5903e42687409ad53b6849c2721cdd2cf4b6",
-    "checked_at": "2026-09-11 08:53:26",
+    "checked_at": "2026-09-12 09:00:06",
     "changed_at": "2026-09-07 16:35:42",
     "lines": [
       "﻿",
@@ -4562,7 +4562,7 @@
   },
   "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm": {
     "hash": "7288a268e358d4937f39859d03d64bb157341ee75e066c3751ff749e68a107fe",
-    "checked_at": "2026-09-11 08:53:26",
+    "checked_at": "2026-09-12 09:00:06",
     "changed_at": "2026-09-07 16:35:42",
     "lines": [
       "﻿",
@@ -4692,14 +4692,19 @@
     "status": 200
   },
   "https://www.sec.gov/news/pressreleases.rss": {
-    "hash": "2e46dedc6594db526bfe85db54a45f06f8899f6e0e2ea4acb21b9ec19cc04c15",
-    "checked_at": "2026-09-11 08:53:26",
-    "changed_at": "2026-09-11 08:53:26",
+    "hash": "b60ec3a316ba77cfb66c392c452a2c4c561687e26bc81f72aa82b850f214f64d",
+    "checked_at": "2026-09-12 09:00:06",
+    "changed_at": "2026-09-12 09:00:06",
     "lines": [
       "Press Releases",
       "https://www.sec.gov/",
       "Official announcements highlighting recent actions taken by the SEC and other newsworthy information.",
       "en",
+      "Joint Readout of Principals’ Meeting of U.S. and UK Authorities Regarding Central Counterparty Resolution",
+      "https://www.sec.gov/newsroom/press-releases/2026-87-joint-readout-principals-meeting-us-uk-authorities-regarding-central-counterparty-resolution",
+      "Senior officials from the Securities and Exchange Commission, Federal Deposit Insurance Corporation, Commodity Futures Trading Commission, Federal Reserve Board, and Bank of England convened for a tabletop exercise on Sept. 3, 2026, to discuss certain…",
+      "Fri, 11 Sep 2026 11:00:00 -0400",
+      "937571b2-423b-4228-905f-4034e7af3766",
       "SEC Charges Founder and His Two New Jersey-Based Companies in Alleged $16 Million Ponzi Scheme",
       "https://www.sec.gov/newsroom/press-releases/2026-86-sec-charges-founder-his-two-new-jersey-based-companies-alleged-16-million-ponzi-scheme",
       "The Securities and Exchange Commission today charged Ernest Ossei Boateng and two New Jersey-based companies he controls, Intercontinental Wealth Network LLC and I Wealth Network LP, for allegedly raising approximately $16 million from more than 200…",
@@ -4819,12 +4824,7 @@
       "https://www.sec.gov/newsroom/press-releases/2026-63-sec-forms-new-retail-fraud-working-group",
       "The Securities and Exchange Commission today announced the creation of the Retail Fraud Working Group designed to strengthen the Division of Enforcement’s efforts to identify and combat fraud targeting everyday investors.The Retail Fraud Working Group…",
       "Tue, 07 Jul 2026 10:39:57 -0400",
-      "3388fa23-2d0f-4c22-be8d-e186f08fd964",
-      "SEC Names Paul Knight as Chief Operating Officer",
-      "https://www.sec.gov/newsroom/press-releases/2026-62-sec-names-paul-knight-chief-operating-officer",
-      "The Securities and Exchange Commission today announced that Paul Knight has been named as the agency’s Chief Operating Officer (COO).As COO, Mr. Knight will oversee the SEC's operational and administrative functions, including the agency's Office of…",
-      "Mon, 06 Jul 2026 15:10:00 -0400",
-      "98aba654-0cbf-40d1-ae3f-3963adf94318"
+      "3388fa23-2d0f-4c22-be8d-e186f08fd964"
     ],
     "status": 200
   }
