@@ -1,8 +1,7 @@
 {
-  "generated_at": "2026-09-12 09:00:06",
+  "generated_at": "2026-09-13 08:52:54",
   "summary": {
-    "changed": 5,
-    "same": 4
+    "same": 9
   },
   "items": [
     {
@@ -11,7 +10,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-12 09:00:06",
+      "checked_at": "2026-09-13 08:52:54",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 119
     },
@@ -21,7 +20,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-12 09:00:06",
+      "checked_at": "2026-09-13 08:52:54",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 123
     },
@@ -29,19 +28,11 @@
       "name": "日銀 外国為替市況（日次一覧）",
       "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
       "note": "毎営業日・17時レート",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-09-12 09:00:06",
+      "checked_at": "2026-09-13 08:52:54",
       "changed_at": "2026-09-12 09:00:06",
-      "line_count": 406,
-      "added": [
-        "2026年 9月11日",
-        "外国為替市況（9月11日） [PDF 61KB]"
-      ],
-      "removed": [
-        "2026年 9月 4日",
-        "外国為替市況（9月4日） [PDF 61KB]"
-      ]
+      "line_count": 406
     },
     {
       "name": "日銀 金融政策決定会合",
@@ -49,7 +40,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-12 09:00:06",
+      "checked_at": "2026-09-13 08:52:54",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -57,86 +48,41 @@
       "name": "金融庁 報道発表",
       "url": "https://www.fsa.go.jp/news/index.html",
       "note": "規制・監督の発表",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-09-12 09:00:06",
+      "checked_at": "2026-09-13 08:52:54",
       "changed_at": "2026-09-12 09:00:06",
-      "line_count": 394,
-      "added": [
-        "「保険会社向けの総合的な監督指針」の一部改正（案）の公表",
-        "「金融サービス利用者相談室」における相談等の受付状況等（期間：令和８年４月１日～同年６月30日）の公表",
-        "令和８年熊本地震による金融機関等の報告の提出期限等に係る措置に関する公表",
-        "令和８年９月11日",
-        "無登録で貸金業を行っている者等（Bit Hills Inc.）に対する警告書の発出の公表"
-      ]
+      "line_count": 394
     },
     {
       "name": "米SEC プレスリリース",
       "url": "https://www.sec.gov/news/pressreleases.rss",
       "note": "規則案・採択（HTMLは403のためRSS）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-09-12 09:00:06",
+      "checked_at": "2026-09-13 08:52:54",
       "changed_at": "2026-09-12 09:00:06",
-      "line_count": 129,
-      "added": [
-        "937571b2-423b-4228-905f-4034e7af3766",
-        "Fri, 11 Sep 2026 11:00:00 -0400",
-        "Joint Readout of Principals’ Meeting of U.S. and UK Authorities Regarding Central Counterparty Resolution",
-        "Senior officials from the Securities and Exchange Commission, Federal Deposit Insurance Corporation, Commodity Futures Trading Commission, Federal Reserve Board…",
-        "https://www.sec.gov/newsroom/press-releases/2026-87-joint-readout-principals-meeting-us-uk-authorities-regarding-central-counterparty-resolution"
-      ],
-      "removed": [
-        "98aba654-0cbf-40d1-ae3f-3963adf94318",
-        "Mon, 06 Jul 2026 15:10:00 -0400",
-        "SEC Names Paul Knight as Chief Operating Officer",
-        "The Securities and Exchange Commission today announced that Paul Knight has been named as the agency’s Chief Operating Officer (COO).As COO, Mr. Knight will o…",
-        "https://www.sec.gov/newsroom/press-releases/2026-62-sec-names-paul-knight-chief-operating-officer"
-      ]
+      "line_count": 129
     },
     {
       "name": "BIS FSI Briefs",
       "url": "https://www.bis.org/publications/",
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-09-12 09:00:06",
+      "checked_at": "2026-09-13 08:52:54",
       "changed_at": "2026-09-12 09:00:06",
-      "line_count": 2948,
-      "added": [
-        "Bank for International Settlements (2833)",
-        "Displaying 1-10 of 4961",
-        "The BIS",
-        "The amount of central bank reserves to supply has become a highly contentious policy issue for many central banks that shrink their balance sheets which were bu…"
-      ],
-      "removed": [
-        "27 Aug 2026",
-        "Adrien Currat , Johannes Ehrentraud and Denise Garcia Ocampo",
-        "Bank for International Settlements (2832)",
-        "Displaying 1-10 of 4960",
-        "FSI Briefs",
-        "No 33",
-        "Regulating stablecoin issuance: permissible entities and activities",
-        "Regulatory approaches for stablecoin issuance differ significantly, particularly in terms of the types of entities allowed to issue them and the scope of activi…"
-      ]
+      "line_count": 2948
     },
     {
       "name": "米財務省 プレスリリース",
       "url": "https://home.treasury.gov/news/press-releases",
       "note": "GENIUS法の規則・為替報告",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-09-12 09:00:06",
+      "checked_at": "2026-09-13 08:52:54",
       "changed_at": "2026-09-12 09:00:06",
-      "line_count": 378,
-      "added": [
-        "September 11, 2026",
-        "Treasury Welcomes the Revised GloBE Information Return Implementing President Trump’s Day One Executive Order"
-      ],
-      "removed": [
-        "August 30, 2026",
-        "READOUT: Secretary of the Treasury Scott Bessent's Meeting with Bank of Japan Governor Kazuo Ueda"
-      ]
+      "line_count": 378
     },
     {
       "name": "MAS メディアリリース",
@@ -144,7 +90,7 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-12 09:00:06",
+      "checked_at": "2026-09-13 08:52:54",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
