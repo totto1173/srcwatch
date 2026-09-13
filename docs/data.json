@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13 08:52:54",
+  "generated_at": "2026-09-14 08:59:36",
   "summary": {
     "same": 9
   },
@@ -10,7 +10,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-13 08:52:54",
+      "checked_at": "2026-09-14 08:59:36",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 119
     },
@@ -20,7 +20,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-13 08:52:54",
+      "checked_at": "2026-09-14 08:59:36",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 123
     },
@@ -30,7 +30,7 @@
       "note": "毎営業日・17時レート",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-13 08:52:54",
+      "checked_at": "2026-09-14 08:59:36",
       "changed_at": "2026-09-12 09:00:06",
       "line_count": 406
     },
@@ -40,7 +40,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-13 08:52:54",
+      "checked_at": "2026-09-14 08:59:36",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -50,7 +50,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-13 08:52:54",
+      "checked_at": "2026-09-14 08:59:36",
       "changed_at": "2026-09-12 09:00:06",
       "line_count": 394
     },
@@ -60,7 +60,7 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-13 08:52:54",
+      "checked_at": "2026-09-14 08:59:36",
       "changed_at": "2026-09-12 09:00:06",
       "line_count": 129
     },
@@ -70,7 +70,7 @@
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-13 08:52:54",
+      "checked_at": "2026-09-14 08:59:36",
       "changed_at": "2026-09-12 09:00:06",
       "line_count": 2948
     },
@@ -80,7 +80,7 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-13 08:52:54",
+      "checked_at": "2026-09-14 08:59:36",
       "changed_at": "2026-09-12 09:00:06",
       "line_count": 378
     },
@@ -90,7 +90,7 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-13 08:52:54",
+      "checked_at": "2026-09-14 08:59:36",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
