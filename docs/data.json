@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15 09:25:07",
+  "generated_at": "2026-09-16 09:04:16",
   "summary": {
     "changed": 4,
     "same": 5
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-15 09:25:07",
+      "checked_at": "2026-09-16 09:04:16",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-15 09:25:07",
+      "checked_at": "2026-09-16 09:04:16",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 123
     },
@@ -31,16 +31,16 @@
       "note": "毎営業日・17時レート",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-15 09:25:07",
-      "changed_at": "2026-09-15 09:25:07",
+      "checked_at": "2026-09-16 09:04:16",
+      "changed_at": "2026-09-16 09:04:16",
       "line_count": 406,
       "added": [
-        "2026年 9月14日",
-        "外国為替市況（9月14日） [PDF 61KB]"
+        "2026年 9月15日",
+        "外国為替市況（9月15日） [PDF 62KB]"
       ],
       "removed": [
-        "2026年 9月 7日",
-        "外国為替市況（9月7日） [PDF 61KB]"
+        "2026年 9月 8日",
+        "外国為替市況（9月8日） [PDF 62KB]"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-15 09:25:07",
+      "checked_at": "2026-09-16 09:04:16",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -57,35 +57,29 @@
       "name": "金融庁 報道発表",
       "url": "https://www.fsa.go.jp/news/index.html",
       "note": "規制・監督の発表",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-15 09:25:07",
-      "changed_at": "2026-09-12 09:00:06",
-      "line_count": 394
+      "checked_at": "2026-09-16 09:04:16",
+      "changed_at": "2026-09-16 09:04:16",
+      "line_count": 400,
+      "added": [
+        "2026事務年度金融行政方針の公表",
+        "「企業内容等の開示に関する内閣府令第十九条の九第五項に規定するサステナビリティ開示基準を指定する件の一部を\ufffd…",
+        "「財務諸表等の用語、様式及び作成方法に関する規則等の一部を改正する内閣府令（案）」等に対するパブリックコメ\ufffd…",
+        "「金融商品取引法第二条に規定する定義に関する内閣府令の一部を改正する内閣府令」等の公布及びパブリックコメン\ufffd…",
+        "令和８年９月15日",
+        "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第１回）議事次第の公表"
+      ]
     },
     {
       "name": "米SEC プレスリリース",
       "url": "https://www.sec.gov/news/pressreleases.rss",
       "note": "規則案・採択（HTMLは403のためRSS）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-09-15 09:25:07",
+      "checked_at": "2026-09-16 09:04:16",
       "changed_at": "2026-09-15 09:25:07",
-      "line_count": 129,
-      "added": [
-        "Mon, 14 Sep 2026 12:47:00 -0400",
-        "SEC Grants Exemptive Relief from Certain Inline XBRL Filing or Submission Requirements",
-        "The Securities and Exchange Commission issued an order granting exemptive relief from certain Inline XBRL requirements adopted on Dec. 16, 2024. More specifical…",
-        "e311a18a-b7e8-4bad-8c06-c8e60e484bcc",
-        "https://www.sec.gov/newsroom/press-releases/2026-88-sec-grants-exemptive-relief-certain-inline-xbrl-filing-or-submission-requirements"
-      ],
-      "removed": [
-        "3388fa23-2d0f-4c22-be8d-e186f08fd964",
-        "SEC Forms New Retail Fraud Working Group",
-        "The Securities and Exchange Commission today announced the creation of the Retail Fraud Working Group designed to strengthen the Division of Enforcement’s eff…",
-        "Tue, 07 Jul 2026 10:39:57 -0400",
-        "https://www.sec.gov/newsroom/press-releases/2026-63-sec-forms-new-retail-fraud-working-group"
-      ]
+      "line_count": 129
     },
     {
       "name": "BIS FSI Briefs",
@@ -93,89 +87,44 @@
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-15 09:25:07",
-      "changed_at": "2026-09-15 09:25:07",
-      "line_count": 2940,
+      "checked_at": "2026-09-16 09:04:16",
+      "changed_at": "2026-09-16 09:04:16",
+      "line_count": 2943,
       "added": [
-        "14 Sep 2026",
-        "14 Sep 2026",
-        "14 Sep 2026",
-        "14 Sep 2026",
-        "14 Sep 2026",
-        "14 Sep 2026",
-        "Alejandrina Salcedo (3)",
-        "BIS Quarterly Review, September 2026",
-        "Bank executive compensation and risk-taking",
-        "Bank for International Settlements (2838)",
-        "Bertrand Rime (2)",
-        "Bryan Hardy (35)",
-        "Bryan Hardy , Swapan-Kumar Pradhan and Előd Takáts",
-        "Central banks have increased mentions of core inflation and the variety of its metrics to better gauge underlying price pressures.",
-        "Core inflation communication in practice",
-        "Deferring executive pay reduces risk, but the 2023 banking turmoil showed how weak governance can amplify risks even with deferrals.",
-        "Displaying 1-10 of 4968",
-        "Eduardo Amaral (5)",
-        "Eduardo Amaral , Alejandrina Salcedo , Ilhyock Shim and Mark Wynne",
-        "Előd Takáts (28)",
-        "Financing the digital economy: the role of private credit",
-        "Gaston Gelos (6)",
-        "Gaston Gelos , Bertrand Rime and Kevin Tracol",
-        "Ilhyock Shim (43)",
-        "International credit to Africa",
-        "International credit to Africa has grown rapidly, driven by new lenders, borrowers and bond markets.",
-        "Iñaki Aldasoro (62)",
-        "Kevin Tracol (2)",
-        "Mark Wynne (1)",
-        "Private credit helped finance the post-2020 shift to the digital economy by lending against cash flows and intangible assets.",
-        "Puriya Abbassi , Iñaki Aldasoro and Sebastian Doerr",
-        "Quarterly Review (119)",
-        "Sebastian Doerr (53)",
-        "Swapan-Kumar Pradhan (11)",
-        "Yields climb, yet risk appetite holds firm"
+        "15 Sep 2026",
+        "BIS Working Paper (1386)",
+        "C81 (6)",
+        "Decentralised finance data presents a distinctive paradox: while every data point is publicly recorded and accessible, deriving meaningful insights is obscured …",
+        "E42 (86)",
+        "G15 (128)",
+        "G23 (120)",
+        "Hidden by complexity? Measuring stablecoin, crypto and decentralised finance ecosystems",
+        "Innovation and fintech",
+        "Innovation and fintech (7)",
+        "Jan Paulick (4)",
+        "Kevin Warsh (1)",
+        "No 1377",
+        "Ronald Heijmans (2)",
+        "Timothy Aerts (1)",
+        "Timothy Aerts , Ronald Heijmans , Jan Paulick and Violeta Vuletic",
+        "Violeta Vuletic (1)"
       ],
       "removed": [
-        "01 Sep 2026",
-        "01 Sep 2026",
-        "02 Sep 2026",
-        "03 Sep 2026",
-        "03 Sep 2026",
-        "31 Aug 2026",
-        "Alejandrina Salcedo (2)",
-        "Bank for International Settlements (2833)",
-        "Bertrand Rime (1)",
-        "Boris Hofmann , Xiaoxi Liu and Ilhyock Shim",
-        "Bryan Hardy (34)",
-        "Displaying 1-10 of 4961",
-        "Eduardo Amaral (4)",
-        "Előd Takáts (27)",
-        "FSI Insights",
-        "Gaston Gelos (5)",
-        "IFC Bulletin",
-        "Ilhyock Shim (42)",
-        "Inflation",
-        "Innovation and fintech",
-        "International organisations including the Bank for International Settlements (BIS) have adopted SDMx (Statistical Data and Metadata) as the standard for exchang…",
-        "Iñaki Aldasoro (61)",
-        "Jonathan Beissinger , Rodrigo Coelho and Raihan Zamil",
-        "Kevin Tracol (1)",
-        "Mario Rusev , Rafael Schmidt , Edward Lambe , Christian Schmieder and Glenn Philip Tice",
-        "No 1374",
-        "No 1375",
-        "No 68",
-        "No 78",
-        "Proceedings of the IFC Satellite Seminar on \"Sustainability data issues and central banks' experience\", co-organised by De Nederlandsche Bank and the Irving Fis…",
-        "Quarterly Review (118)",
-        "Sebastian Doerr (52)",
-        "Simple, resilient and proportional: revisiting regulation for small banks",
-        "Small banks are the backbone of local economies but have distinct business models and risk profiles compared to larger banks. Recognising these differences, the…",
-        "Statement of account",
-        "Statement of account as at 31 August 2026",
-        "Sustainability data issues and central banks' experience",
-        "Swapan-Kumar Pradhan (10)",
-        "The BIS",
-        "This document is an overview of the Bank's assets, liabilities and equity as at 31 August 2026."
-      ],
-      "removed_more": 3
+        "07 Sep 2026",
+        "BIS Working Paper (1385)",
+        "C81 (5)",
+        "E42 (85)",
+        "G15 (127)",
+        "G23 (119)",
+        "Innovation and fintech (6)",
+        "Jan Paulick (3)",
+        "Kevin M Warsh (1)",
+        "No 1376",
+        "Per Asberg-Sommar , Mathias Drehmann , Denise Hansson and Vatsala Shreeti",
+        "Ronald Heijmans (1)",
+        "The amount of central bank reserves to supply has become a highly contentious policy issue for many central banks that shrink their balance sheets which were bu…",
+        "What determines banks' excess demand for reserves?"
+      ]
     },
     {
       "name": "米財務省 プレスリリース",
@@ -183,16 +132,16 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-15 09:25:07",
-      "changed_at": "2026-09-15 09:25:07",
-      "line_count": 378,
+      "checked_at": "2026-09-16 09:04:16",
+      "changed_at": "2026-09-16 09:04:16",
+      "line_count": 379,
       "added": [
-        "Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions",
-        "September 14, 2026"
+        "September 15, 2026",
+        "Statement from Secretary of the Treasury Scott Bessent Before the United States House Committee on Financial Services"
       ],
       "removed": [
-        "August 31, 2026",
-        "Preliminary Annual Report on U.S. Portfolio Holdings of Foreign Securities at Year-End 2025"
+        "G20 Chair’s Statement",
+        "September 1, 2026"
       ]
     },
     {
@@ -201,12 +150,91 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-15 09:25:07",
+      "checked_at": "2026-09-16 09:04:16",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-09-16 09:04:16",
+      "name": "米財務省 プレスリリース",
+      "url": "https://home.treasury.gov/news/press-releases",
+      "added": [
+        "September 15, 2026",
+        "Statement from Secretary of the Treasury Scott Bessent Before the United States House Committee on Financial Services"
+      ],
+      "removed": [
+        "G20 Chair’s Statement",
+        "September 1, 2026"
+      ]
+    },
+    {
+      "at": "2026-09-16 09:04:16",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "15 Sep 2026",
+        "BIS Working Paper (1386)",
+        "C81 (6)",
+        "Decentralised finance data presents a distinctive paradox: while every data point is publicly recorded and accessible, deriving meaningful insights is obscured …",
+        "E42 (86)",
+        "G15 (128)",
+        "G23 (120)",
+        "Hidden by complexity? Measuring stablecoin, crypto and decentralised finance ecosystems",
+        "Innovation and fintech",
+        "Innovation and fintech (7)",
+        "Jan Paulick (4)",
+        "Kevin Warsh (1)",
+        "No 1377",
+        "Ronald Heijmans (2)",
+        "Timothy Aerts (1)",
+        "Timothy Aerts , Ronald Heijmans , Jan Paulick and Violeta Vuletic",
+        "Violeta Vuletic (1)"
+      ],
+      "removed": [
+        "07 Sep 2026",
+        "BIS Working Paper (1385)",
+        "C81 (5)",
+        "E42 (85)",
+        "G15 (127)",
+        "G23 (119)",
+        "Innovation and fintech (6)",
+        "Jan Paulick (3)",
+        "Kevin M Warsh (1)",
+        "No 1376",
+        "Per Asberg-Sommar , Mathias Drehmann , Denise Hansson and Vatsala Shreeti",
+        "Ronald Heijmans (1)",
+        "The amount of central bank reserves to supply has become a highly contentious policy issue for many central banks that shrink their balance sheets which were bu…",
+        "What determines banks' excess demand for reserves?"
+      ]
+    },
+    {
+      "at": "2026-09-16 09:04:16",
+      "name": "金融庁 報道発表",
+      "url": "https://www.fsa.go.jp/news/index.html",
+      "added": [
+        "2026事務年度金融行政方針の公表",
+        "「企業内容等の開示に関する内閣府令第十九条の九第五項に規定するサステナビリティ開示基準を指定する件の一部を\ufffd…",
+        "「財務諸表等の用語、様式及び作成方法に関する規則等の一部を改正する内閣府令（案）」等に対するパブリックコメ\ufffd…",
+        "「金融商品取引法第二条に規定する定義に関する内閣府令の一部を改正する内閣府令」等の公布及びパブリックコメン\ufffd…",
+        "令和８年９月15日",
+        "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第１回）議事次第の公表"
+      ]
+    },
+    {
+      "at": "2026-09-16 09:04:16",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年 9月15日",
+        "外国為替市況（9月15日） [PDF 62KB]"
+      ],
+      "removed": [
+        "2026年 9月 8日",
+        "外国為替市況（9月8日） [PDF 62KB]"
+      ]
+    },
     {
       "at": "2026-09-15 09:25:07",
       "name": "米財務省 プレスリリース",
