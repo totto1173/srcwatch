@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-16 09:04:16",
+  "generated_at": "2026-09-17 09:14:23",
   "summary": {
-    "changed": 4,
-    "same": 5
+    "changed": 5,
+    "same": 4
   },
   "items": [
     {
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-16 09:04:16",
+      "checked_at": "2026-09-17 09:14:23",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-16 09:04:16",
+      "checked_at": "2026-09-17 09:14:23",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 123
     },
@@ -31,16 +31,16 @@
       "note": "毎営業日・17時レート",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-16 09:04:16",
-      "changed_at": "2026-09-16 09:04:16",
+      "checked_at": "2026-09-17 09:14:23",
+      "changed_at": "2026-09-17 09:14:23",
       "line_count": 406,
       "added": [
-        "2026年 9月15日",
-        "外国為替市況（9月15日） [PDF 62KB]"
+        "2026年 9月16日",
+        "外国為替市況（9月16日） [PDF 61KB]"
       ],
       "removed": [
-        "2026年 9月 8日",
-        "外国為替市況（9月8日） [PDF 62KB]"
+        "2026年 9月 9日",
+        "外国為替市況（9月9日） [PDF 61KB]"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-16 09:04:16",
+      "checked_at": "2026-09-17 09:14:23",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -59,27 +59,37 @@
       "note": "規制・監督の発表",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-16 09:04:16",
-      "changed_at": "2026-09-16 09:04:16",
-      "line_count": 400,
+      "checked_at": "2026-09-17 09:14:23",
+      "changed_at": "2026-09-17 09:14:23",
+      "line_count": 403,
       "added": [
-        "2026事務年度金融行政方針の公表",
-        "「企業内容等の開示に関する内閣府令第十九条の九第五項に規定するサステナビリティ開示基準を指定する件の一部を\ufffd…",
-        "「財務諸表等の用語、様式及び作成方法に関する規則等の一部を改正する内閣府令（案）」等に対するパブリックコメ\ufffd…",
-        "「金融商品取引法第二条に規定する定義に関する内閣府令の一部を改正する内閣府令」等の公布及びパブリックコメン\ufffd…",
-        "令和８年９月15日",
-        "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第１回）議事次第の公表"
+        "令和５年金融商品取引法等改正及び社債、株式等の振替に関する法律等改正（３年６月以内施行）に係る内閣府令の公\ufffd…",
+        "令和８年９月16日"
       ]
     },
     {
       "name": "米SEC プレスリリース",
       "url": "https://www.sec.gov/news/pressreleases.rss",
       "note": "規則案・採択（HTMLは403のためRSS）",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-16 09:04:16",
-      "changed_at": "2026-09-15 09:25:07",
-      "line_count": 129
+      "checked_at": "2026-09-17 09:14:23",
+      "changed_at": "2026-09-17 09:14:23",
+      "line_count": 129,
+      "added": [
+        "SEC Proposes Rescission of Shareholder Proposal Rule and Reforms to Proxy Solicitation Process",
+        "The Securities and Exchange Commission today proposed to rescind Rule 14a-8 under the Securities Exchange Act of 1934, which exceeds the scope of the Commission…",
+        "Wed, 16 Sep 2026 10:00:00 -0400",
+        "b3074906-964e-4cc4-81f3-1162a1036f7e",
+        "https://www.sec.gov/newsroom/press-releases/2026-89-sec-proposes-rescission-shareholder-proposal-rule-reforms-proxy-solicitation-process"
+      ],
+      "removed": [
+        "SEC Small Business Advisory Committee to Explore Modernizing Market Access",
+        "The\u0026nbsp;Securities and Exchange Commission’s\u0026nbsp;Small Business Capital Formation Advisory Committee announced that it will hold a meeting on Tuesday, July\u0026…",
+        "Wed, 08 Jul 2026 09:01:01 -0400",
+        "e5d5fa52-28e4-4225-934c-4bdd94093e65",
+        "https://www.sec.gov/newsroom/press-releases/2026-64-sec-small-business-advisory-committee-explore-modernizing-market-access"
+      ]
     },
     {
       "name": "BIS FSI Briefs",
@@ -87,43 +97,48 @@
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-16 09:04:16",
-      "changed_at": "2026-09-16 09:04:16",
+      "checked_at": "2026-09-17 09:14:23",
+      "changed_at": "2026-09-17 09:14:23",
       "line_count": 2943,
       "added": [
-        "15 Sep 2026",
-        "BIS Working Paper (1386)",
-        "C81 (6)",
-        "Decentralised finance data presents a distinctive paradox: while every data point is publicly recorded and accessible, deriving meaningful insights is obscured …",
-        "E42 (86)",
-        "G15 (128)",
-        "G23 (120)",
-        "Hidden by complexity? Measuring stablecoin, crypto and decentralised finance ecosystems",
-        "Innovation and fintech",
-        "Innovation and fintech (7)",
-        "Jan Paulick (4)",
-        "Kevin Warsh (1)",
-        "No 1377",
-        "Ronald Heijmans (2)",
-        "Timothy Aerts (1)",
-        "Timothy Aerts , Ronald Heijmans , Jan Paulick and Violeta Vuletic",
-        "Violeta Vuletic (1)"
+        "16 Sep 2026",
+        "16 Sep 2026",
+        "Andreas Barth (2)",
+        "BIS Paper (174)",
+        "BIS Research Fellowship Programme",
+        "BIS Working Paper (1385)",
+        "Bank for International Settlements (2841)",
+        "Central Bank Research Fellowship Programme",
+        "Displaying 1-10 of 4974",
+        "E51 (78)",
+        "G21 (296)",
+        "G28 (201)",
+        "G32 (53)",
+        "Iñaki Aldasoro (61)",
+        "Laura Comino Suarez (1)",
+        "Markets Committee (26)",
+        "Quarterly Review (120)",
+        "Research for the Americas"
       ],
       "removed": [
-        "07 Sep 2026",
-        "BIS Working Paper (1385)",
-        "C81 (5)",
-        "E42 (85)",
-        "G15 (127)",
-        "G23 (119)",
-        "Innovation and fintech (6)",
-        "Jan Paulick (3)",
-        "Kevin M Warsh (1)",
-        "No 1376",
-        "Per Asberg-Sommar , Mathias Drehmann , Denise Hansson and Vatsala Shreeti",
-        "Ronald Heijmans (1)",
-        "The amount of central bank reserves to supply has become a highly contentious policy issue for many central banks that shrink their balance sheets which were bu…",
-        "What determines banks' excess demand for reserves?"
+        "08 Sep 2026",
+        "08 Sep 2026",
+        "Andreas Barth (3)",
+        "BIS Paper (173)",
+        "BIS Working Paper (1386)",
+        "Bank for International Settlements (2838)",
+        "Cyber resilience toolkit: practical considerations for FMIs – consultative report",
+        "Displaying 1-10 of 4968",
+        "E51 (79)",
+        "FMIs’ reliance on third-party service providers: challenges and risks – discussion paper",
+        "G21 (297)",
+        "G28 (202)",
+        "G32 (54)",
+        "Iñaki Aldasoro (62)",
+        "Laura Comino Suarez (2)",
+        "Markets Committee (24)",
+        "Quarterly Review (119)",
+        "Research networks"
       ]
     },
     {
@@ -132,16 +147,16 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-16 09:04:16",
-      "changed_at": "2026-09-16 09:04:16",
+      "checked_at": "2026-09-17 09:14:23",
+      "changed_at": "2026-09-17 09:14:23",
       "line_count": 379,
       "added": [
-        "September 15, 2026",
-        "Statement from Secretary of the Treasury Scott Bessent Before the United States House Committee on Financial Services"
+        "September 16, 2026",
+        "Treasury International Capital Data for July 2026"
       ],
       "removed": [
-        "G20 Chair’s Statement",
-        "September 1, 2026"
+        "September 3, 2026",
+        "Treasury, IRS Move to End Tax-Exempt Status for Discriminatory Practices in Private Schools"
       ]
     },
     {
@@ -150,12 +165,111 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-16 09:04:16",
+      "checked_at": "2026-09-17 09:14:23",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-09-17 09:14:23",
+      "name": "米財務省 プレスリリース",
+      "url": "https://home.treasury.gov/news/press-releases",
+      "added": [
+        "September 16, 2026",
+        "Treasury International Capital Data for July 2026"
+      ],
+      "removed": [
+        "September 3, 2026",
+        "Treasury, IRS Move to End Tax-Exempt Status for Discriminatory Practices in Private Schools"
+      ]
+    },
+    {
+      "at": "2026-09-17 09:14:23",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "16 Sep 2026",
+        "16 Sep 2026",
+        "Andreas Barth (2)",
+        "BIS Paper (174)",
+        "BIS Research Fellowship Programme",
+        "BIS Working Paper (1385)",
+        "Bank for International Settlements (2841)",
+        "Central Bank Research Fellowship Programme",
+        "Displaying 1-10 of 4974",
+        "E51 (78)",
+        "G21 (296)",
+        "G28 (201)",
+        "G32 (53)",
+        "Iñaki Aldasoro (61)",
+        "Laura Comino Suarez (1)",
+        "Markets Committee (26)",
+        "Quarterly Review (120)",
+        "Research for the Americas"
+      ],
+      "removed": [
+        "08 Sep 2026",
+        "08 Sep 2026",
+        "Andreas Barth (3)",
+        "BIS Paper (173)",
+        "BIS Working Paper (1386)",
+        "Bank for International Settlements (2838)",
+        "Cyber resilience toolkit: practical considerations for FMIs – consultative report",
+        "Displaying 1-10 of 4968",
+        "E51 (79)",
+        "FMIs’ reliance on third-party service providers: challenges and risks – discussion paper",
+        "G21 (297)",
+        "G28 (202)",
+        "G32 (54)",
+        "Iñaki Aldasoro (62)",
+        "Laura Comino Suarez (2)",
+        "Markets Committee (24)",
+        "Quarterly Review (119)",
+        "Research networks"
+      ]
+    },
+    {
+      "at": "2026-09-17 09:14:23",
+      "name": "米SEC プレスリリース",
+      "url": "https://www.sec.gov/news/pressreleases.rss",
+      "added": [
+        "SEC Proposes Rescission of Shareholder Proposal Rule and Reforms to Proxy Solicitation Process",
+        "The Securities and Exchange Commission today proposed to rescind Rule 14a-8 under the Securities Exchange Act of 1934, which exceeds the scope of the Commission…",
+        "Wed, 16 Sep 2026 10:00:00 -0400",
+        "b3074906-964e-4cc4-81f3-1162a1036f7e",
+        "https://www.sec.gov/newsroom/press-releases/2026-89-sec-proposes-rescission-shareholder-proposal-rule-reforms-proxy-solicitation-process"
+      ],
+      "removed": [
+        "SEC Small Business Advisory Committee to Explore Modernizing Market Access",
+        "The\u0026nbsp;Securities and Exchange Commission’s\u0026nbsp;Small Business Capital Formation Advisory Committee announced that it will hold a meeting on Tuesday, July\u0026…",
+        "Wed, 08 Jul 2026 09:01:01 -0400",
+        "e5d5fa52-28e4-4225-934c-4bdd94093e65",
+        "https://www.sec.gov/newsroom/press-releases/2026-64-sec-small-business-advisory-committee-explore-modernizing-market-access"
+      ]
+    },
+    {
+      "at": "2026-09-17 09:14:23",
+      "name": "金融庁 報道発表",
+      "url": "https://www.fsa.go.jp/news/index.html",
+      "added": [
+        "令和５年金融商品取引法等改正及び社債、株式等の振替に関する法律等改正（３年６月以内施行）に係る内閣府令の公\ufffd…",
+        "令和８年９月16日"
+      ]
+    },
+    {
+      "at": "2026-09-17 09:14:23",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年 9月16日",
+        "外国為替市況（9月16日） [PDF 61KB]"
+      ],
+      "removed": [
+        "2026年 9月 9日",
+        "外国為替市況（9月9日） [PDF 61KB]"
+      ]
+    },
     {
       "at": "2026-09-16 09:04:16",
       "name": "米財務省 プレスリリース",
@@ -215,9 +329,9 @@
       "url": "https://www.fsa.go.jp/news/index.html",
       "added": [
         "2026事務年度金融行政方針の公表",
-        "「企業内容等の開示に関する内閣府令第十九条の九第五項に規定するサステナビリティ開示基準を指定する件の一部を\ufffd…",
-        "「財務諸表等の用語、様式及び作成方法に関する規則等の一部を改正する内閣府令（案）」等に対するパブリックコメ\ufffd…",
-        "「金融商品取引法第二条に規定する定義に関する内閣府令の一部を改正する内閣府令」等の公布及びパブリックコメン\ufffd…",
+        "「企業内容等の開示に関する内閣府令第十九条の九第五項に規定するサステナビリティ開示基準を指定する件の一部を�…",
+        "「財務諸表等の用語、様式及び作成方法に関する規則等の一部を改正する内閣府令（案）」等に対するパブリックコメ�…",
+        "「金融商品取引法第二条に規定する定義に関する内閣府令の一部を改正する内閣府令」等の公布及びパブリックコメン�…",
         "令和８年９月15日",
         "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第１回）議事次第の公表"
       ]
