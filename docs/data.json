@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-17 09:14:23",
+  "generated_at": "2026-09-18 09:00:35",
   "summary": {
-    "changed": 5,
-    "same": 4
+    "changed": 4,
+    "same": 5
   },
   "items": [
     {
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-17 09:14:23",
+      "checked_at": "2026-09-18 09:00:35",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-17 09:14:23",
+      "checked_at": "2026-09-18 09:00:35",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 123
     },
@@ -31,16 +31,16 @@
       "note": "毎営業日・17時レート",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-17 09:14:23",
-      "changed_at": "2026-09-17 09:14:23",
+      "checked_at": "2026-09-18 09:00:35",
+      "changed_at": "2026-09-18 09:00:35",
       "line_count": 406,
       "added": [
-        "2026年 9月16日",
-        "外国為替市況（9月16日） [PDF 61KB]"
+        "2026年 9月17日",
+        "外国為替市況（9月17日） [PDF 61KB]"
       ],
       "removed": [
-        "2026年 9月 9日",
-        "外国為替市況（9月9日） [PDF 61KB]"
+        "2026年 9月10日",
+        "外国為替市況（9月10日） [PDF 61KB]"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-17 09:14:23",
+      "checked_at": "2026-09-18 09:00:35",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -59,12 +59,15 @@
       "note": "規制・監督の発表",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-17 09:14:23",
-      "changed_at": "2026-09-17 09:14:23",
-      "line_count": 403,
+      "checked_at": "2026-09-18 09:00:35",
+      "changed_at": "2026-09-18 09:00:35",
+      "line_count": 408,
       "added": [
-        "令和５年金融商品取引法等改正及び社債、株式等の振替に関する法律等改正（３年６月以内施行）に係る内閣府令の公\ufffd…",
-        "令和８年９月16日"
+        "ベースフード（株）株式外２銘柄に係る相場操縦に対する課徴金納付命令の決定",
+        "令和８年９月17日",
+        "公開買付け等に係る株式発行者役員からの情報受領者による（株）グッドスピード株式に係る内部者取引に対する課徴\ufffd…",
+        "（株）Ｉ－ｎｅにおける有価証券報告書の不記載に対する課徴金納付命令の決定",
+        "ＥＮＥＣＨＡＮＧＥ（株）における四半期報告書等の虚偽記載に対する課徴金納付命令の決定"
       ]
     },
     {
@@ -73,73 +76,33 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-17 09:14:23",
-      "changed_at": "2026-09-17 09:14:23",
+      "checked_at": "2026-09-18 09:00:35",
+      "changed_at": "2026-09-18 09:00:35",
       "line_count": 129,
       "added": [
-        "SEC Proposes Rescission of Shareholder Proposal Rule and Reforms to Proxy Solicitation Process",
-        "The Securities and Exchange Commission today proposed to rescind Rule 14a-8 under the Securities Exchange Act of 1934, which exceeds the scope of the Commission…",
-        "Wed, 16 Sep 2026 10:00:00 -0400",
-        "b3074906-964e-4cc4-81f3-1162a1036f7e",
-        "https://www.sec.gov/newsroom/press-releases/2026-89-sec-proposes-rescission-shareholder-proposal-rule-reforms-proxy-solicitation-process"
+        "29d9b3fa-0eed-432e-850c-0978c0f4c49b",
+        "SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment",
+        "The Securities and Exchange Commission today issued an order granting temporary, conditional exemptive relief to Tokenized Securities Venues each a “TSV” fr…",
+        "Thu, 17 Sep 2026 08:55:00 -0400",
+        "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"
       ],
       "removed": [
-        "SEC Small Business Advisory Committee to Explore Modernizing Market Access",
-        "The\u0026nbsp;Securities and Exchange Commission’s\u0026nbsp;Small Business Capital Formation Advisory Committee announced that it will hold a meeting on Tuesday, July\u0026…",
-        "Wed, 08 Jul 2026 09:01:01 -0400",
-        "e5d5fa52-28e4-4225-934c-4bdd94093e65",
-        "https://www.sec.gov/newsroom/press-releases/2026-64-sec-small-business-advisory-committee-explore-modernizing-market-access"
+        "9e170181-d0ad-4ef0-b393-72cba97dd35e",
+        "SEC to Host Virtual Roundtable on Modernizing IPOs and Expanding Access to Public Markets",
+        "The Securities and Exchange Commission’s\u0026nbsp;Office of the Advocate for Small Business Capital Formation\u0026nbsp;and the\u0026nbsp;Division of Corporation Finance\u0026nb…",
+        "Wed, 08 Jul 2026 13:54:26 -0400",
+        "https://www.sec.gov/newsroom/press-releases/2026-65-sec-host-virtual-roundtable-modernizing-ipos-expanding-access-public-markets"
       ]
     },
     {
       "name": "BIS FSI Briefs",
       "url": "https://www.bis.org/publications/",
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-09-17 09:14:23",
+      "checked_at": "2026-09-18 09:00:35",
       "changed_at": "2026-09-17 09:14:23",
-      "line_count": 2943,
-      "added": [
-        "16 Sep 2026",
-        "16 Sep 2026",
-        "Andreas Barth (2)",
-        "BIS Paper (174)",
-        "BIS Research Fellowship Programme",
-        "BIS Working Paper (1385)",
-        "Bank for International Settlements (2841)",
-        "Central Bank Research Fellowship Programme",
-        "Displaying 1-10 of 4974",
-        "E51 (78)",
-        "G21 (296)",
-        "G28 (201)",
-        "G32 (53)",
-        "Iñaki Aldasoro (61)",
-        "Laura Comino Suarez (1)",
-        "Markets Committee (26)",
-        "Quarterly Review (120)",
-        "Research for the Americas"
-      ],
-      "removed": [
-        "08 Sep 2026",
-        "08 Sep 2026",
-        "Andreas Barth (3)",
-        "BIS Paper (173)",
-        "BIS Working Paper (1386)",
-        "Bank for International Settlements (2838)",
-        "Cyber resilience toolkit: practical considerations for FMIs – consultative report",
-        "Displaying 1-10 of 4968",
-        "E51 (79)",
-        "FMIs’ reliance on third-party service providers: challenges and risks – discussion paper",
-        "G21 (297)",
-        "G28 (202)",
-        "G32 (54)",
-        "Iñaki Aldasoro (62)",
-        "Laura Comino Suarez (2)",
-        "Markets Committee (24)",
-        "Quarterly Review (119)",
-        "Research networks"
-      ]
+      "line_count": 2943
     },
     {
       "name": "米財務省 プレスリリース",
@@ -147,16 +110,16 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-17 09:14:23",
-      "changed_at": "2026-09-17 09:14:23",
+      "checked_at": "2026-09-18 09:00:35",
+      "changed_at": "2026-09-18 09:00:35",
       "line_count": 379,
       "added": [
-        "September 16, 2026",
-        "Treasury International Capital Data for July 2026"
+        "Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime",
+        "September 17, 2026"
       ],
       "removed": [
-        "September 3, 2026",
-        "Treasury, IRS Move to End Tax-Exempt Status for Discriminatory Practices in Private Schools"
+        "September 4, 2026",
+        "Treasury Severs Iranian Regime’s Financial Lifelines in Türkiye"
       ]
     },
     {
@@ -165,12 +128,69 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-17 09:14:23",
+      "checked_at": "2026-09-18 09:00:35",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-09-18 09:00:35",
+      "name": "米財務省 プレスリリース",
+      "url": "https://home.treasury.gov/news/press-releases",
+      "added": [
+        "Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime",
+        "September 17, 2026"
+      ],
+      "removed": [
+        "September 4, 2026",
+        "Treasury Severs Iranian Regime’s Financial Lifelines in Türkiye"
+      ]
+    },
+    {
+      "at": "2026-09-18 09:00:35",
+      "name": "米SEC プレスリリース",
+      "url": "https://www.sec.gov/news/pressreleases.rss",
+      "added": [
+        "29d9b3fa-0eed-432e-850c-0978c0f4c49b",
+        "SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment",
+        "The Securities and Exchange Commission today issued an order granting temporary, conditional exemptive relief to Tokenized Securities Venues each a “TSV” fr…",
+        "Thu, 17 Sep 2026 08:55:00 -0400",
+        "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"
+      ],
+      "removed": [
+        "9e170181-d0ad-4ef0-b393-72cba97dd35e",
+        "SEC to Host Virtual Roundtable on Modernizing IPOs and Expanding Access to Public Markets",
+        "The Securities and Exchange Commission’s\u0026nbsp;Office of the Advocate for Small Business Capital Formation\u0026nbsp;and the\u0026nbsp;Division of Corporation Finance\u0026nb…",
+        "Wed, 08 Jul 2026 13:54:26 -0400",
+        "https://www.sec.gov/newsroom/press-releases/2026-65-sec-host-virtual-roundtable-modernizing-ipos-expanding-access-public-markets"
+      ]
+    },
+    {
+      "at": "2026-09-18 09:00:35",
+      "name": "金融庁 報道発表",
+      "url": "https://www.fsa.go.jp/news/index.html",
+      "added": [
+        "ベースフード（株）株式外２銘柄に係る相場操縦に対する課徴金納付命令の決定",
+        "令和８年９月17日",
+        "公開買付け等に係る株式発行者役員からの情報受領者による（株）グッドスピード株式に係る内部者取引に対する課徴\ufffd…",
+        "（株）Ｉ－ｎｅにおける有価証券報告書の不記載に対する課徴金納付命令の決定",
+        "ＥＮＥＣＨＡＮＧＥ（株）における四半期報告書等の虚偽記載に対する課徴金納付命令の決定"
+      ]
+    },
+    {
+      "at": "2026-09-18 09:00:35",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年 9月17日",
+        "外国為替市況（9月17日） [PDF 61KB]"
+      ],
+      "removed": [
+        "2026年 9月10日",
+        "外国為替市況（9月10日） [PDF 61KB]"
+      ]
+    },
     {
       "at": "2026-09-17 09:14:23",
       "name": "米財務省 プレスリリース",
@@ -253,7 +273,7 @@
       "name": "金融庁 報道発表",
       "url": "https://www.fsa.go.jp/news/index.html",
       "added": [
-        "令和５年金融商品取引法等改正及び社債、株式等の振替に関する法律等改正（３年６月以内施行）に係る内閣府令の公\ufffd…",
+        "令和５年金融商品取引法等改正及び社債、株式等の振替に関する法律等改正（３年６月以内施行）に係る内閣府令の公�…",
         "令和８年９月16日"
       ]
     },

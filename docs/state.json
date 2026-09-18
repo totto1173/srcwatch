@@ -1,8 +1,8 @@
 {
   "https://home.treasury.gov/news/press-releases": {
-    "hash": "83f6ea7a874b3057f8cabdf19998bf97f00765034f077cb63b4bbe6d4f513f72",
-    "checked_at": "2026-09-17 09:14:23",
-    "changed_at": "2026-09-17 09:14:23",
+    "hash": "5d3781f0a2decab64a8d2083f29a6a10786f8c1b1d0193a07af5c4a9e765a363",
+    "checked_at": "2026-09-18 09:00:35",
+    "changed_at": "2026-09-18 09:00:35",
     "lines": [
       "Press Releases | U.S. Department of the Treasury",
       "Skip to main content",
@@ -305,6 +305,8 @@
       "Webcasts",
       "Press Contacts",
       "Press Releases",
+      "September 17, 2026",
+      "Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime",
       "September 16, 2026",
       "Treasury International Capital Data for July 2026",
       "September 15, 2026",
@@ -324,8 +326,6 @@
       "Treasury Cracks Down on Transnational Criminal Organization Behind Cyber Scam Operations Targeting Americans",
       "September 8, 2026",
       "Treasury Grounds Iranian Airlines with Sweeping Sanctions Action",
-      "September 4, 2026",
-      "Treasury Severs Iranian Regime’s Financial Lifelines in Türkiye",
       "Pagination",
       "Current page 1",
       "Page 2",
@@ -388,7 +388,7 @@
   },
   "https://www.bis.org/publications/": {
     "hash": "e8cb5f7067da046413e23b3516d99fe38e9314126daf88e722ddbda223fcf4d1",
-    "checked_at": "2026-09-17 09:14:23",
+    "checked_at": "2026-09-18 09:00:35",
     "changed_at": "2026-09-17 09:14:23",
     "lines": [
       "Publications | Bank for International Settlements",
@@ -3339,7 +3339,7 @@
   },
   "https://www.boj.or.jp/mopo/mpmdeci/index.htm": {
     "hash": "602b4d245e765c49a9f314b7449e86e3fca98d29835f8c2b38770158fe4569f9",
-    "checked_at": "2026-09-17 09:14:23",
+    "checked_at": "2026-09-18 09:00:35",
     "changed_at": "2026-09-07 16:35:42",
     "lines": [
       "金融政策に関する決定事項等 : 日本銀行 Bank of Japan",
@@ -3607,9 +3607,9 @@
     "status": 200
   },
   "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm": {
-    "hash": "7068be83b97f0debfa62f6146b9e6f6001e0bee7e3700f3247f82d35d57f4d44",
-    "checked_at": "2026-09-17 09:14:23",
-    "changed_at": "2026-09-17 09:14:23",
+    "hash": "04eb820baf08179a1bf688aeb110502c9ff7d194078e38697d8419a7a9480531",
+    "checked_at": "2026-09-18 09:00:35",
+    "changed_at": "2026-09-18 09:00:35",
     "lines": [
       "外国為替市況（日次） : 日本銀行 Bank of Japan",
       "このページの本文へ移動",
@@ -3859,6 +3859,8 @@
       "表 公表データ",
       "掲載日",
       "データ",
+      "2026年 9月17日",
+      "外国為替市況（9月17日） [PDF 61KB]",
       "2026年 9月16日",
       "外国為替市況（9月16日） [PDF 61KB]",
       "2026年 9月15日",
@@ -3867,8 +3869,6 @@
       "外国為替市況（9月14日） [PDF 61KB]",
       "2026年 9月11日",
       "外国為替市況（9月11日） [PDF 61KB]",
-      "2026年 9月10日",
-      "外国為替市況（9月10日） [PDF 61KB]",
       "外国為替市況（日次）一覧",
       "参考計数（東京外為市場における取引状況）",
       "表 参考計数（東京外為市場における取引状況）",
@@ -4021,9 +4021,9 @@
     "status": 200
   },
   "https://www.fsa.go.jp/news/index.html": {
-    "hash": "71ad8dc88f22be8b46e1eb99a361b34ff770475883f1c7f641c5c36546851a49",
-    "checked_at": "2026-09-17 09:14:23",
-    "changed_at": "2026-09-17 09:14:23",
+    "hash": "df676c254a865db8b8343d5aa755b8369bb5b48bd18f0f3d70533e86e0422e9f",
+    "checked_at": "2026-09-18 09:00:35",
+    "changed_at": "2026-09-18 09:00:35",
     "lines": [
       "--\u003e",
       "報道発表資料 ： 金融庁",
@@ -4124,6 +4124,11 @@
       "Tweet",
       "報道発表資料",
       "令和８年７月～令和９年６月",
+      "令和８年９月17日",
+      "公開買付け等に係る株式発行者役員からの情報受領者による（株）グッドスピード株式に係る内部者取引に対する課徴金納付命令の決定",
+      "ＥＮＥＣＨＡＮＧＥ（株）における四半期報告書等の虚偽記載に対する課徴金納付命令の決定",
+      "（株）Ｉ－ｎｅにおける有価証券報告書の不記載に対する課徴金納付命令の決定",
+      "ベースフード（株）株式外２銘柄に係る相場操縦に対する課徴金納付命令の決定",
       "令和８年９月16日",
       "令和５年金融商品取引法等改正及び社債、株式等の振替に関する法律等改正（３年６月以内施行）に係る内閣府令の公布及びパブリックコメントの結果等の公表",
       "「金融商品取引業者等向けの総合的な監督指針」の一部改正（案）に対するパブリックコメントの結果等の公表",
@@ -4433,14 +4438,14 @@
   },
   "https://www.mas.gov.sg/news": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "checked_at": "2026-09-17 09:14:23",
+    "checked_at": "2026-09-18 09:00:35",
     "changed_at": "2026-09-07 16:35:42",
     "lines": null,
     "status": 200
   },
   "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html": {
     "hash": "3547ce6c8b0d7d595773218da6cf5903e42687409ad53b6849c2721cdd2cf4b6",
-    "checked_at": "2026-09-17 09:14:23",
+    "checked_at": "2026-09-18 09:00:35",
     "changed_at": "2026-09-07 16:35:42",
     "lines": [
       "﻿",
@@ -4567,7 +4572,7 @@
   },
   "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm": {
     "hash": "7288a268e358d4937f39859d03d64bb157341ee75e066c3751ff749e68a107fe",
-    "checked_at": "2026-09-17 09:14:23",
+    "checked_at": "2026-09-18 09:00:35",
     "changed_at": "2026-09-07 16:35:42",
     "lines": [
       "﻿",
@@ -4697,14 +4702,19 @@
     "status": 200
   },
   "https://www.sec.gov/news/pressreleases.rss": {
-    "hash": "3853919002958c7fe06a781d034cca653e612819eb70f2f64ba5c20a041de366",
-    "checked_at": "2026-09-17 09:14:23",
-    "changed_at": "2026-09-17 09:14:23",
+    "hash": "f10c397dc752fd11ca3226a428954a099f328ec5063379afd0e3195fb4d453f7",
+    "checked_at": "2026-09-18 09:00:35",
+    "changed_at": "2026-09-18 09:00:35",
     "lines": [
       "Press Releases",
       "https://www.sec.gov/",
       "Official announcements highlighting recent actions taken by the SEC and other newsworthy information.",
       "en",
+      "SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment",
+      "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+      "The Securities and Exchange Commission today issued an order granting temporary, conditional exemptive relief to Tokenized Securities Venues each a “TSV” from the definition of “exchange” in the Securities Exchange Act of 1934 (Exchange Act) to trade…",
+      "Thu, 17 Sep 2026 08:55:00 -0400",
+      "29d9b3fa-0eed-432e-850c-0978c0f4c49b",
       "SEC Proposes Rescission of Shareholder Proposal Rule and Reforms to Proxy Solicitation Process",
       "https://www.sec.gov/newsroom/press-releases/2026-89-sec-proposes-rescission-shareholder-proposal-rule-reforms-proxy-solicitation-process",
       "The Securities and Exchange Commission today proposed to rescind Rule 14a-8 under the Securities Exchange Act of 1934, which exceeds the scope of the Commission's statutory authority and intrudes into matters of state law.The Commission outlined…",
@@ -4824,12 +4834,7 @@
       "https://www.sec.gov/newsroom/press-releases/2026-66-sec-office-municipal-securities-updates-faqs-registration-municipal-advisors",
       "The Securities and Exchange Commission’s Office of Municipal Securities today announced it has updated its Registration of Municipal Advisors FAQs webpage to offer more clarity on municipal advisor registration and recordkeeping requirements.\u0026nbsp;The…",
       "Fri, 10 Jul 2026 12:00:32 -0400",
-      "c7c7a4d6-a90a-42e7-b0f3-4854c15efe00",
-      "SEC to Host Virtual Roundtable on Modernizing IPOs and Expanding Access to Public Markets",
-      "https://www.sec.gov/newsroom/press-releases/2026-65-sec-host-virtual-roundtable-modernizing-ipos-expanding-access-public-markets",
-      "The Securities and Exchange Commission’s\u0026nbsp;Office of the Advocate for Small Business Capital Formation\u0026nbsp;and the\u0026nbsp;Division of Corporation Finance\u0026nbsp;will co-host a livestreamed discussion on Monday, July 13, 2026, at 2 p.m.\u0026nbsp;to re-examine…",
-      "Wed, 08 Jul 2026 13:54:26 -0400",
-      "9e170181-d0ad-4ef0-b393-72cba97dd35e"
+      "c7c7a4d6-a90a-42e7-b0f3-4854c15efe00"
     ],
     "status": 200
   }
