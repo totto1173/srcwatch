@@ -1,8 +1,7 @@
 {
-  "generated_at": "2026-09-19 09:02:23",
+  "generated_at": "2026-09-20 08:59:01",
   "summary": {
-    "changed": 4,
-    "same": 5
+    "same": 9
   },
   "items": [
     {
@@ -11,7 +10,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-19 09:02:23",
+      "checked_at": "2026-09-20 08:59:01",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 119
     },
@@ -21,7 +20,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-19 09:02:23",
+      "checked_at": "2026-09-20 08:59:01",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 123
     },
@@ -29,19 +28,11 @@
       "name": "日銀 外国為替市況（日次一覧）",
       "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
       "note": "毎営業日・17時レート",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-09-19 09:02:23",
+      "checked_at": "2026-09-20 08:59:01",
       "changed_at": "2026-09-19 09:02:23",
-      "line_count": 406,
-      "added": [
-        "2026年 9月18日",
-        "外国為替市況（9月18日） [PDF 61KB]"
-      ],
-      "removed": [
-        "2026年 9月11日",
-        "外国為替市況（9月11日） [PDF 61KB]"
-      ]
+      "line_count": 406
     },
     {
       "name": "日銀 金融政策決定会合",
@@ -49,7 +40,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-19 09:02:23",
+      "checked_at": "2026-09-20 08:59:01",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -57,84 +48,31 @@
       "name": "金融庁 報道発表",
       "url": "https://www.fsa.go.jp/news/index.html",
       "note": "規制・監督の発表",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-09-19 09:02:23",
+      "checked_at": "2026-09-20 08:59:01",
       "changed_at": "2026-09-19 09:02:23",
-      "line_count": 414,
-      "added": [
-        "「主要行等向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等の公表",
-        "「投資信託及び投資法人に関する法律施行規則の一部を改正する内閣府令」の公布及びパブリックコメントの結果の公\ufffd…",
-        "人事異動（令和８年９月17日付幹部名簿の更新）の公表",
-        "令和８年９月18日",
-        "金融事業者リスト（令和８年９月18日公表）、投資信託・外貨建保険の共通ＫＰＩに関する分析結果（令和８年３月末\ufffd\ufffd…",
-        "金融経済教育推進機構（J-FLEC）「家計の見える化検討会議」報告書の公表"
-      ]
+      "line_count": 414
     },
     {
       "name": "米SEC プレスリリース",
       "url": "https://www.sec.gov/news/pressreleases.rss",
       "note": "規則案・採択（HTMLは403のためRSS）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-09-19 09:02:23",
+      "checked_at": "2026-09-20 08:59:01",
       "changed_at": "2026-09-19 09:02:23",
-      "line_count": 129,
-      "added": [
-        "The SEC is taking a significant step forward, within its statutory authority, to bring America’s capital markets into the digital age by facilitating onchain …"
-      ],
-      "removed": [
-        "The Securities and Exchange Commission today issued an order granting temporary, conditional exemptive relief to Tokenized Securities Venues each a “TSV” fr…"
-      ]
+      "line_count": 129
     },
     {
       "name": "BIS FSI Briefs",
       "url": "https://www.bis.org/publications/",
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-09-19 09:02:23",
+      "checked_at": "2026-09-20 08:59:01",
       "changed_at": "2026-09-19 09:02:23",
-      "line_count": 2940,
-      "added": [
-        "17 Sep 2026",
-        "Author:",
-        "BIS Working Paper (1386)",
-        "Bank for International Settlements (2842)",
-        "Displaying 1-10 of 4975",
-        "E23 (12)",
-        "E24 (15)",
-        "E31 (109)",
-        "E32 (89)",
-        "E52 (254)",
-        "Enisse Kharroubi",
-        "Enisse Kharroubi (33)",
-        "J64 (5)",
-        "Maritime chokepoints and the global economy: evidence from the Strait of Hormuz",
-        "No 1378",
-        "The conflict in the Middle East and the subsequent disruption of traffic in the Strait of Hormuz have triggered an unprecedented shock to the global economy. Us…"
-      ],
-      "removed": [
-        "09 Sep 2026",
-        "BIS Working Paper (1385)",
-        "Bank for International Settlements (2841)",
-        "Banking",
-        "Displaying 1-10 of 4974",
-        "E23 (11)",
-        "E24 (14)",
-        "E31 (108)",
-        "E32 (88)",
-        "E52 (253)",
-        "Enisse Kharroubi (32)",
-        "FSI Occasional Papers",
-        "Frontier artificial intelligence (AI) models are a game changer in the cyber threat landscape. Unlike earlier generations of AI models, they can autonomously id…",
-        "Insurance",
-        "J64 (4)",
-        "Juan Carlos Crisanto , Adrien Currat and Jeffery Yong",
-        "No 28",
-        "Operational resilience",
-        "When machines attack: frontier AI cyber threats and policy responses in the financial sector"
-      ]
+      "line_count": 2940
     },
     {
       "name": "米財務省 プレスリリース",
@@ -142,7 +80,7 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-19 09:02:23",
+      "checked_at": "2026-09-20 08:59:01",
       "changed_at": "2026-09-18 09:00:35",
       "line_count": 379
     },
@@ -152,7 +90,7 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-19 09:02:23",
+      "checked_at": "2026-09-20 08:59:01",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
@@ -219,10 +157,10 @@
       "url": "https://www.fsa.go.jp/news/index.html",
       "added": [
         "「主要行等向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等の公表",
-        "「投資信託及び投資法人に関する法律施行規則の一部を改正する内閣府令」の公布及びパブリックコメントの結果の公\ufffd…",
+        "「投資信託及び投資法人に関する法律施行規則の一部を改正する内閣府令」の公布及びパブリックコメントの結果の公�…",
         "人事異動（令和８年９月17日付幹部名簿の更新）の公表",
         "令和８年９月18日",
-        "金融事業者リスト（令和８年９月18日公表）、投資信託・外貨建保険の共通ＫＰＩに関する分析結果（令和８年３月末\ufffd\ufffd…",
+        "金融事業者リスト（令和８年９月18日公表）、投資信託・外貨建保険の共通ＫＰＩに関する分析結果（令和８年３月末��…",
         "金融経済教育推進機構（J-FLEC）「家計の見える化検討会議」報告書の公表"
       ]
     },
