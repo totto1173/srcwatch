@@ -1,7 +1,8 @@
 {
-  "generated_at": "2026-09-22 09:40:04",
+  "generated_at": "2026-09-23 09:11:32",
   "summary": {
-    "same": 9
+    "changed": 2,
+    "same": 7
   },
   "items": [
     {
@@ -10,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-22 09:40:04",
+      "checked_at": "2026-09-23 09:11:32",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 119
     },
@@ -20,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-22 09:40:04",
+      "checked_at": "2026-09-23 09:11:32",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 123
     },
@@ -30,7 +31,7 @@
       "note": "毎営業日・17時レート",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-22 09:40:04",
+      "checked_at": "2026-09-23 09:11:32",
       "changed_at": "2026-09-19 09:02:23",
       "line_count": 406
     },
@@ -40,7 +41,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-22 09:40:04",
+      "checked_at": "2026-09-23 09:11:32",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -50,7 +51,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-22 09:40:04",
+      "checked_at": "2026-09-23 09:11:32",
       "changed_at": "2026-09-19 09:02:23",
       "line_count": 414
     },
@@ -58,11 +59,25 @@
       "name": "米SEC プレスリリース",
       "url": "https://www.sec.gov/news/pressreleases.rss",
       "note": "規則案・採択（HTMLは403のためRSS）",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-22 09:40:04",
-      "changed_at": "2026-09-19 09:02:23",
-      "line_count": 129
+      "checked_at": "2026-09-23 09:11:32",
+      "changed_at": "2026-09-23 09:11:32",
+      "line_count": 129,
+      "added": [
+        "18593a6f-56eb-420e-9422-c536d03eaae1",
+        "SEC Censures OTC Link LLC for Repeated Compliance Failures Related to Regulation SCI",
+        "The Securities and Exchange Commission today censured New York-based broker dealer OTC Link LLC and ordered it to pay a $575,000 civil penalty for longstanding …",
+        "Tue, 22 Sep 2026 12:41:11 -0400",
+        "https://www.sec.gov/newsroom/press-releases/2026-91-sec-censures-otc-link-llc-repeated-compliance-failures-related-regulation-sci"
+      ],
+      "removed": [
+        "Fri, 10 Jul 2026 12:00:32 -0400",
+        "SEC Office of Municipal Securities Updates FAQs for Registration of Municipal Advisors",
+        "The Securities and Exchange Commission’s Office of Municipal Securities today announced it has updated its Registration of Municipal Advisors FAQs webpage to …",
+        "c7c7a4d6-a90a-42e7-b0f3-4854c15efe00",
+        "https://www.sec.gov/newsroom/press-releases/2026-66-sec-office-municipal-securities-updates-faqs-registration-municipal-advisors"
+      ]
     },
     {
       "name": "BIS FSI Briefs",
@@ -70,7 +85,7 @@
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-22 09:40:04",
+      "checked_at": "2026-09-23 09:11:32",
       "changed_at": "2026-09-19 09:02:23",
       "line_count": 2940
     },
@@ -78,11 +93,19 @@
       "name": "米財務省 プレスリリース",
       "url": "https://home.treasury.gov/news/press-releases",
       "note": "GENIUS法の規則・為替報告",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-22 09:40:04",
-      "changed_at": "2026-09-18 09:00:35",
-      "line_count": 379
+      "checked_at": "2026-09-23 09:11:32",
+      "changed_at": "2026-09-23 09:11:32",
+      "line_count": 380,
+      "added": [
+        "Remarks by Deputy Secretary of the Treasury Francis Brooke before the Treasury Market Conference",
+        "September 22, 2026"
+      ],
+      "removed": [
+        "September 8, 2026",
+        "Treasury Grounds Iranian Airlines with Sweeping Sanctions Action"
+      ]
     },
     {
       "name": "MAS メディアリリース",
@@ -90,12 +113,44 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-22 09:40:04",
+      "checked_at": "2026-09-23 09:11:32",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-09-23 09:11:32",
+      "name": "米財務省 プレスリリース",
+      "url": "https://home.treasury.gov/news/press-releases",
+      "added": [
+        "Remarks by Deputy Secretary of the Treasury Francis Brooke before the Treasury Market Conference",
+        "September 22, 2026"
+      ],
+      "removed": [
+        "September 8, 2026",
+        "Treasury Grounds Iranian Airlines with Sweeping Sanctions Action"
+      ]
+    },
+    {
+      "at": "2026-09-23 09:11:32",
+      "name": "米SEC プレスリリース",
+      "url": "https://www.sec.gov/news/pressreleases.rss",
+      "added": [
+        "18593a6f-56eb-420e-9422-c536d03eaae1",
+        "SEC Censures OTC Link LLC for Repeated Compliance Failures Related to Regulation SCI",
+        "The Securities and Exchange Commission today censured New York-based broker dealer OTC Link LLC and ordered it to pay a $575,000 civil penalty for longstanding …",
+        "Tue, 22 Sep 2026 12:41:11 -0400",
+        "https://www.sec.gov/newsroom/press-releases/2026-91-sec-censures-otc-link-llc-repeated-compliance-failures-related-regulation-sci"
+      ],
+      "removed": [
+        "Fri, 10 Jul 2026 12:00:32 -0400",
+        "SEC Office of Municipal Securities Updates FAQs for Registration of Municipal Advisors",
+        "The Securities and Exchange Commission’s Office of Municipal Securities today announced it has updated its Registration of Municipal Advisors FAQs webpage to …",
+        "c7c7a4d6-a90a-42e7-b0f3-4854c15efe00",
+        "https://www.sec.gov/newsroom/press-releases/2026-66-sec-office-municipal-securities-updates-faqs-registration-municipal-advisors"
+      ]
+    },
     {
       "at": "2026-09-19 09:02:23",
       "name": "BIS FSI Briefs",
