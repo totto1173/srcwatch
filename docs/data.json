@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-24 09:20:40",
+  "generated_at": "2026-09-25 09:22:43",
   "summary": {
-    "changed": 2,
-    "same": 7
+    "changed": 3,
+    "same": 6
   },
   "items": [
     {
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-24 09:20:40",
+      "checked_at": "2026-09-25 09:22:43",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-24 09:20:40",
+      "checked_at": "2026-09-25 09:22:43",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 123
     },
@@ -29,11 +29,19 @@
       "name": "日銀 外国為替市況（日次一覧）",
       "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
       "note": "毎営業日・17時レート",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-24 09:20:40",
-      "changed_at": "2026-09-19 09:02:23",
-      "line_count": 406
+      "checked_at": "2026-09-25 09:22:43",
+      "changed_at": "2026-09-25 09:22:43",
+      "line_count": 406,
+      "added": [
+        "2026年 9月24日",
+        "外国為替市況（9月24日） [PDF 62KB]"
+      ],
+      "removed": [
+        "2026年 9月14日",
+        "外国為替市況（9月14日） [PDF 61KB]"
+      ]
     },
     {
       "name": "日銀 金融政策決定会合",
@@ -41,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-24 09:20:40",
+      "checked_at": "2026-09-25 09:22:43",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -49,45 +57,28 @@
       "name": "金融庁 報道発表",
       "url": "https://www.fsa.go.jp/news/index.html",
       "note": "規制・監督の発表",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-24 09:20:40",
-      "changed_at": "2026-09-19 09:02:23",
-      "line_count": 414
+      "checked_at": "2026-09-25 09:22:43",
+      "changed_at": "2026-09-25 09:22:43",
+      "line_count": 419,
+      "added": [
+        "MUデジタルバンク設立準備株式会社に対する銀行業の免許の付与の公表",
+        "人事異動（令和８年９月18日付幹部名簿の更新）の公表",
+        "令和８年台風第25号に伴う災害等に対する金融上の措置の公表",
+        "令和８年９月24日",
+        "金融審議会「保険制度ワーキング・グループ」（第１回）の開催の公表"
+      ]
     },
     {
       "name": "米SEC プレスリリース",
       "url": "https://www.sec.gov/news/pressreleases.rss",
       "note": "規則案・採択（HTMLは403のためRSS）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-09-24 09:20:40",
+      "checked_at": "2026-09-25 09:22:43",
       "changed_at": "2026-09-24 09:20:40",
-      "line_count": 129,
-      "added": [
-        "6cc659ac-93f2-4e3b-87d1-ebfbb4f2421f",
-        "SEC Charges South Florida Resident and His Company for Alleged Investment Scheme Defrauding Law Enforcement",
-        "SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised",
-        "The Securities and Exchange Commission today charged CMI Capital LLC and its founder and manager, Michael D. Williams, for an alleged fraudulent investment sche…",
-        "The Securities and Exchange Commission’s Division of Economic and Risk Analysis (DERA) published updated statistics and data visualizations covering key segme…",
-        "Wed, 23 Sep 2026 12:00:00 -0400",
-        "Wed, 23 Sep 2026 14:27:00 -0400",
-        "fb47e924-a7a1-41a4-92c3-a177cb83af75",
-        "https://www.sec.gov/newsroom/press-releases/2026-92-sec-charges-south-florida-resident-his-company-alleged-investment-scheme-defrauding-law-enforcement",
-        "https://www.sec.gov/newsroom/press-releases/2026-93-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised"
-      ],
-      "removed": [
-        "1cba3a68-748d-4949-a422-89805543be57",
-        "SEC Announces Departure of Principal Deputy Director of Enforcement Sam Waldon",
-        "SEC Proposes New E-Delivery Approach to Make Information More Readily Accessible and Useful for Investors",
-        "The Securities and Exchange Commission today announced that Sam Waldon, Principal Deputy Director of the Division of Enforcement, will depart the agency on July…",
-        "The Securities and Exchange Commission today\u0026nbsp;proposed Regulation E-Delivery, a new rule that would expand the ability of issuers, broker-dealers, investmen…",
-        "Thu, 16 Jul 2026 08:57:00 -0400",
-        "Wed, 22 Jul 2026 09:45:25 -0400",
-        "faef21cd-fd8b-472b-95f2-7559ed5be292",
-        "https://www.sec.gov/newsroom/press-releases/2026-67-sec-proposes-new-e-delivery-approach-make-information-more-readily-accessible-useful-investors",
-        "https://www.sec.gov/newsroom/press-releases/2026-68-sec-announces-departure-principal-deputy-director-enforcement-sam-waldon"
-      ]
+      "line_count": 129
     },
     {
       "name": "BIS FSI Briefs",
@@ -95,61 +86,54 @@
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-24 09:20:40",
-      "changed_at": "2026-09-24 09:20:40",
-      "line_count": 2944,
+      "checked_at": "2026-09-25 09:22:43",
+      "changed_at": "2026-09-25 09:22:43",
+      "line_count": 2945,
       "added": [
-        "23 Sep 2026",
-        "23 Sep 2026",
-        "Annual Report (90)",
-        "BCBS (802)",
-        "BIS Working Paper (1387)",
-        "Bank for International Settlements (2844)",
-        "Basel III monitoring report",
-        "CCA report (6)",
-        "Conference Paper (10)",
-        "Displaying 1-10 of 5042",
-        "F1 (7)",
-        "F3 (31)",
-        "F4 (20)",
-        "G15 (129)",
-        "IFC Annual Report (14)",
-        "Kristin J Forbes (2)",
-        "Marjorie Santos (3)",
-        "No 1379",
-        "QIS",
-        "QIS (48)",
-        "Stefan Avdjiev (37)",
-        "Stefan Avdjiev , Kristin J Forbes , Tsvetelina Nenova and Marjorie Santos",
-        "Superseded (222)",
-        "This paper analyses the evolution and drivers of the stock of global imbalances in order to assess associated vulnerabilities and potential adjustment scenarios…",
-        "This report summarises the results of the Basel III monitoring exercise as of 31 December 2025.",
-        "Tsvetelina Nenova (3)",
-        "Unraveling the cobweb of global imbalances: drivers, vulnerabilities, and adjustment scenarios"
+        "24 Sep 2026",
+        "Asia Office (183)",
+        "BIS Bulletin",
+        "BIS Bulletin (135)",
+        "BIS Innovation Hub (62)",
+        "Bank for International Settlements (2845)",
+        "CGFS (81)",
+        "Daniel Rees (29)",
+        "Displaying 1-10 of 5046",
+        "F21 (14)",
+        "F32 (47)",
+        "F36 (46)",
+        "G15 (130)",
+        "G2 (23)",
+        "G21 (297)",
+        "G23 (121)",
+        "G28 (202)",
+        "Iñaki Aldasoro (62)",
+        "Iñaki Aldasoro , Sebastian Doerr and Daniel Rees",
+        "No 135",
+        "Old workers, young machines: can AI and automation offset population ageing?",
+        "Sebastian Doerr (54)"
       ],
       "removed": [
-        "Annual Report (27)",
-        "BCBS (801)",
-        "BIS Working Paper (1386)",
-        "Bank for International Settlements (2842)",
-        "CCA report (5)",
-        "Central banks have increased mentions of core inflation and the variety of its metrics to better gauge underlying price pressures.",
-        "Conference Paper (9)",
-        "Core inflation communication in practice",
-        "Displaying 1-10 of 4975",
-        "Eduardo Amaral , Alejandrina Salcedo , Ilhyock Shim and Mark Wynne",
-        "F1 (6)",
-        "F3 (30)",
-        "F4 (19)",
-        "G15 (128)",
-        "IFC Annual Report (13)",
-        "Kristin J Forbes (1)",
-        "Marjorie Santos (2)",
-        "QIS (47)",
-        "Stefan Avdjiev (36)",
-        "Superseded (221)",
-        "Tsvetelina Nenova (2)",
-        "Yields climb, yet risk appetite holds firm"
+        "Asia Office (184)",
+        "BIS Bulletin (134)",
+        "BIS Innovation Hub (56)",
+        "Bank for International Settlements (2844)",
+        "Bryan Hardy , Swapan-Kumar Pradhan and Előd Takáts",
+        "CGFS (83)",
+        "Daniel Rees (28)",
+        "Displaying 1-10 of 5042",
+        "F21 (13)",
+        "F32 (46)",
+        "F36 (44)",
+        "G15 (129)",
+        "G2 (22)",
+        "G21 (296)",
+        "G23 (120)",
+        "G28 (201)",
+        "International credit to Africa",
+        "International credit to Africa has grown rapidly, driven by new lenders, borrowers and bond markets.",
+        "Iñaki Aldasoro (61)",
+        "Sebastian Doerr (53)"
       ]
     },
     {
@@ -158,7 +142,7 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-24 09:20:40",
+      "checked_at": "2026-09-25 09:22:43",
       "changed_at": "2026-09-23 09:11:32",
       "line_count": 380
     },
@@ -168,12 +152,88 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-24 09:20:40",
+      "checked_at": "2026-09-25 09:22:43",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-09-25 09:22:43",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "24 Sep 2026",
+        "Asia Office (183)",
+        "BIS Bulletin",
+        "BIS Bulletin (135)",
+        "BIS Innovation Hub (62)",
+        "Bank for International Settlements (2845)",
+        "CGFS (81)",
+        "Daniel Rees (29)",
+        "Displaying 1-10 of 5046",
+        "F21 (14)",
+        "F32 (47)",
+        "F36 (46)",
+        "G15 (130)",
+        "G2 (23)",
+        "G21 (297)",
+        "G23 (121)",
+        "G28 (202)",
+        "Iñaki Aldasoro (62)",
+        "Iñaki Aldasoro , Sebastian Doerr and Daniel Rees",
+        "No 135",
+        "Old workers, young machines: can AI and automation offset population ageing?",
+        "Sebastian Doerr (54)"
+      ],
+      "removed": [
+        "Asia Office (184)",
+        "BIS Bulletin (134)",
+        "BIS Innovation Hub (56)",
+        "Bank for International Settlements (2844)",
+        "Bryan Hardy , Swapan-Kumar Pradhan and Előd Takáts",
+        "CGFS (83)",
+        "Daniel Rees (28)",
+        "Displaying 1-10 of 5042",
+        "F21 (13)",
+        "F32 (46)",
+        "F36 (44)",
+        "G15 (129)",
+        "G2 (22)",
+        "G21 (296)",
+        "G23 (120)",
+        "G28 (201)",
+        "International credit to Africa",
+        "International credit to Africa has grown rapidly, driven by new lenders, borrowers and bond markets.",
+        "Iñaki Aldasoro (61)",
+        "Sebastian Doerr (53)"
+      ]
+    },
+    {
+      "at": "2026-09-25 09:22:43",
+      "name": "金融庁 報道発表",
+      "url": "https://www.fsa.go.jp/news/index.html",
+      "added": [
+        "MUデジタルバンク設立準備株式会社に対する銀行業の免許の付与の公表",
+        "人事異動（令和８年９月18日付幹部名簿の更新）の公表",
+        "令和８年台風第25号に伴う災害等に対する金融上の措置の公表",
+        "令和８年９月24日",
+        "金融審議会「保険制度ワーキング・グループ」（第１回）の開催の公表"
+      ]
+    },
+    {
+      "at": "2026-09-25 09:22:43",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年 9月24日",
+        "外国為替市況（9月24日） [PDF 62KB]"
+      ],
+      "removed": [
+        "2026年 9月14日",
+        "外国為替市況（9月14日） [PDF 61KB]"
+      ]
+    },
     {
       "at": "2026-09-24 09:20:40",
       "name": "BIS FSI Briefs",
