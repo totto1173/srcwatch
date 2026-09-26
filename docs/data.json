@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25 09:22:43",
+  "generated_at": "2026-09-26 09:27:27",
   "summary": {
     "changed": 3,
     "same": 6
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-25 09:22:43",
+      "checked_at": "2026-09-26 09:27:27",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-25 09:22:43",
+      "checked_at": "2026-09-26 09:27:27",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 123
     },
@@ -31,16 +31,16 @@
       "note": "毎営業日・17時レート",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-25 09:22:43",
-      "changed_at": "2026-09-25 09:22:43",
+      "checked_at": "2026-09-26 09:27:27",
+      "changed_at": "2026-09-26 09:27:27",
       "line_count": 406,
       "added": [
-        "2026年 9月24日",
-        "外国為替市況（9月24日） [PDF 62KB]"
+        "2026年 9月25日",
+        "外国為替市況（9月25日） [PDF 61KB]"
       ],
       "removed": [
-        "2026年 9月14日",
-        "外国為替市況（9月14日） [PDF 61KB]"
+        "2026年 9月15日",
+        "外国為替市況（9月15日） [PDF 62KB]"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-25 09:22:43",
+      "checked_at": "2026-09-26 09:27:27",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -59,15 +59,18 @@
       "note": "規制・監督の発表",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-25 09:22:43",
-      "changed_at": "2026-09-25 09:22:43",
-      "line_count": 419,
+      "checked_at": "2026-09-26 09:27:27",
+      "changed_at": "2026-09-26 09:27:27",
+      "line_count": 427,
       "added": [
-        "MUデジタルバンク設立準備株式会社に対する銀行業の免許の付与の公表",
-        "人事異動（令和８年９月18日付幹部名簿の更新）の公表",
-        "令和８年台風第25号に伴う災害等に対する金融上の措置の公表",
-        "令和８年９月24日",
-        "金融審議会「保険制度ワーキング・グループ」（第１回）の開催の公表"
+        "「AI時代を見据えたオンチェーン金融フォーラム」の公表",
+        "「AI時代を見据えたオンチェーン金融フォーラム」（第１回）の開催の公表",
+        "令和８年９月25日",
+        "企業会計審議会監査部会（第57回）の開催の掲載",
+        "実施計画の履行状況（令和８年３月期）の公表",
+        "第31回金融機能強化審査会の議事録の公表",
+        "経営強化計画等の公表",
+        "経営強化計画等の履行状況（令和８年３月期）の公表"
       ]
     },
     {
@@ -76,7 +79,7 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-25 09:22:43",
+      "checked_at": "2026-09-26 09:27:27",
       "changed_at": "2026-09-24 09:20:40",
       "line_count": 129
     },
@@ -86,54 +89,40 @@
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-25 09:22:43",
-      "changed_at": "2026-09-25 09:22:43",
-      "line_count": 2945,
+      "checked_at": "2026-09-26 09:27:27",
+      "changed_at": "2026-09-26 09:27:27",
+      "line_count": 2952,
       "added": [
-        "24 Sep 2026",
-        "Asia Office (183)",
-        "BIS Bulletin",
-        "BIS Bulletin (135)",
-        "BIS Innovation Hub (62)",
-        "Bank for International Settlements (2845)",
-        "CGFS (81)",
-        "Daniel Rees (29)",
-        "Displaying 1-10 of 5046",
-        "F21 (14)",
-        "F32 (47)",
-        "F36 (46)",
-        "G15 (130)",
-        "G2 (23)",
-        "G21 (297)",
-        "G23 (121)",
-        "G28 (202)",
-        "Iñaki Aldasoro (62)",
-        "Iñaki Aldasoro , Sebastian Doerr and Daniel Rees",
-        "No 135",
-        "Old workers, young machines: can AI and automation offset population ageing?",
-        "Sebastian Doerr (54)"
+        "25 Sep 2026",
+        "BIS Paper",
+        "BIS Paper (175)",
+        "Bank for International Settlements (2846)",
+        "Bingle Kruger (1)",
+        "C81 (7)",
+        "Christof Fetzer (1)",
+        "Christof Fetzer , Co-Pierre Georg , Jack Ho , Bingle Kruger , Julius Wetzel and Jakub Demski",
+        "Co-Pierre Georg (1)",
+        "Displaying 1-10 of 5047",
+        "Jack Ho (1)",
+        "Jakub Demski (3)",
+        "Julius Wetzel (1)",
+        "L86 (11)",
+        "No 173",
+        "O33 (42)",
+        "This paper considers what TEEs can responsibly deliver for central banks, the conditions under which they are most effective and how they can be deployed withou…",
+        "Trusted execution environments for central banks"
       ],
       "removed": [
-        "Asia Office (184)",
-        "BIS Bulletin (134)",
-        "BIS Innovation Hub (56)",
-        "Bank for International Settlements (2844)",
-        "Bryan Hardy , Swapan-Kumar Pradhan and Előd Takáts",
-        "CGFS (83)",
-        "Daniel Rees (28)",
-        "Displaying 1-10 of 5042",
-        "F21 (13)",
-        "F32 (46)",
-        "F36 (44)",
-        "G15 (129)",
-        "G2 (22)",
-        "G21 (296)",
-        "G23 (120)",
-        "G28 (201)",
-        "International credit to Africa",
-        "International credit to Africa has grown rapidly, driven by new lenders, borrowers and bond markets.",
-        "Iñaki Aldasoro (61)",
-        "Sebastian Doerr (53)"
+        "BIS Paper (174)",
+        "Bank executive compensation and risk-taking",
+        "Bank for International Settlements (2845)",
+        "C81 (6)",
+        "Deferring executive pay reduces risk, but the 2023 banking turmoil showed how weak governance can amplify risks even with deferrals.",
+        "Displaying 1-10 of 5046",
+        "Gaston Gelos , Bertrand Rime and Kevin Tracol",
+        "Jakub Demski (2)",
+        "L86 (10)",
+        "O33 (41)"
       ]
     },
     {
@@ -142,7 +131,7 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-25 09:22:43",
+      "checked_at": "2026-09-26 09:27:27",
       "changed_at": "2026-09-23 09:11:32",
       "line_count": 380
     },
@@ -152,12 +141,77 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-25 09:22:43",
+      "checked_at": "2026-09-26 09:27:27",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-09-26 09:27:27",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "25 Sep 2026",
+        "BIS Paper",
+        "BIS Paper (175)",
+        "Bank for International Settlements (2846)",
+        "Bingle Kruger (1)",
+        "C81 (7)",
+        "Christof Fetzer (1)",
+        "Christof Fetzer , Co-Pierre Georg , Jack Ho , Bingle Kruger , Julius Wetzel and Jakub Demski",
+        "Co-Pierre Georg (1)",
+        "Displaying 1-10 of 5047",
+        "Jack Ho (1)",
+        "Jakub Demski (3)",
+        "Julius Wetzel (1)",
+        "L86 (11)",
+        "No 173",
+        "O33 (42)",
+        "This paper considers what TEEs can responsibly deliver for central banks, the conditions under which they are most effective and how they can be deployed withou…",
+        "Trusted execution environments for central banks"
+      ],
+      "removed": [
+        "BIS Paper (174)",
+        "Bank executive compensation and risk-taking",
+        "Bank for International Settlements (2845)",
+        "C81 (6)",
+        "Deferring executive pay reduces risk, but the 2023 banking turmoil showed how weak governance can amplify risks even with deferrals.",
+        "Displaying 1-10 of 5046",
+        "Gaston Gelos , Bertrand Rime and Kevin Tracol",
+        "Jakub Demski (2)",
+        "L86 (10)",
+        "O33 (41)"
+      ]
+    },
+    {
+      "at": "2026-09-26 09:27:27",
+      "name": "金融庁 報道発表",
+      "url": "https://www.fsa.go.jp/news/index.html",
+      "added": [
+        "「AI時代を見据えたオンチェーン金融フォーラム」の公表",
+        "「AI時代を見据えたオンチェーン金融フォーラム」（第１回）の開催の公表",
+        "令和８年９月25日",
+        "企業会計審議会監査部会（第57回）の開催の掲載",
+        "実施計画の履行状況（令和８年３月期）の公表",
+        "第31回金融機能強化審査会の議事録の公表",
+        "経営強化計画等の公表",
+        "経営強化計画等の履行状況（令和８年３月期）の公表"
+      ]
+    },
+    {
+      "at": "2026-09-26 09:27:27",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年 9月25日",
+        "外国為替市況（9月25日） [PDF 61KB]"
+      ],
+      "removed": [
+        "2026年 9月15日",
+        "外国為替市況（9月15日） [PDF 62KB]"
+      ]
+    },
     {
       "at": "2026-09-25 09:22:43",
       "name": "BIS FSI Briefs",
