@@ -1,7 +1,8 @@
 {
-  "generated_at": "2026-09-28 09:26:33",
+  "generated_at": "2026-09-29 10:40:08",
   "summary": {
-    "same": 9
+    "changed": 5,
+    "same": 4
   },
   "items": [
     {
@@ -10,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-28 09:26:33",
+      "checked_at": "2026-09-29 10:40:08",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 119
     },
@@ -20,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-28 09:26:33",
+      "checked_at": "2026-09-29 10:40:08",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 123
     },
@@ -28,11 +29,19 @@
       "name": "日銀 外国為替市況（日次一覧）",
       "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
       "note": "毎営業日・17時レート",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-28 09:26:33",
-      "changed_at": "2026-09-26 09:27:27",
-      "line_count": 406
+      "checked_at": "2026-09-29 10:40:08",
+      "changed_at": "2026-09-29 10:40:08",
+      "line_count": 406,
+      "added": [
+        "2026年 9月28日",
+        "外国為替市況（9月28日） [PDF 61KB]"
+      ],
+      "removed": [
+        "2026年 9月16日",
+        "外国為替市況（9月16日） [PDF 61KB]"
+      ]
     },
     {
       "name": "日銀 金融政策決定会合",
@@ -40,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-28 09:26:33",
+      "checked_at": "2026-09-29 10:40:08",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -48,41 +57,113 @@
       "name": "金融庁 報道発表",
       "url": "https://www.fsa.go.jp/news/index.html",
       "note": "規制・監督の発表",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-28 09:26:33",
-      "changed_at": "2026-09-26 09:27:27",
-      "line_count": 427
+      "checked_at": "2026-09-29 10:40:08",
+      "changed_at": "2026-09-29 10:40:08",
+      "line_count": 430,
+      "added": [
+        "「金融機関における個人情報保護に関するQ\u0026A」の改正の公表",
+        "人事異動（令和８年９月28日付幹部名簿の更新）の公表",
+        "令和８年９月28日"
+      ]
     },
     {
       "name": "米SEC プレスリリース",
       "url": "https://www.sec.gov/news/pressreleases.rss",
       "note": "規則案・採択（HTMLは403のためRSS）",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-28 09:26:33",
-      "changed_at": "2026-09-24 09:20:40",
-      "line_count": 129
+      "checked_at": "2026-09-29 10:40:08",
+      "changed_at": "2026-09-29 10:40:08",
+      "line_count": 129,
+      "added": [
+        "054c4054-b2b9-48f6-b30d-dc6f219db7e1",
+        "Mon, 28 Sep 2026 13:46:30 -0400",
+        "SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest",
+        "The Securities and Exchange Commission today announced settled charges against New York-based investment adviser Zoe Financial Inc. for failing to fully and fai…",
+        "https://www.sec.gov/newsroom/press-releases/2026-94-sec-charges-registered-investment-adviser-zoe-financial-failure-disclose-conflict-interest"
+      ],
+      "removed": [
+        "58e3f4dc-f597-4d50-af9c-2d88525a3c98",
+        "SEC Announces Roundtable on Preparations for 24-Hour Trading",
+        "The Securities and Exchange Commission announced today that it will host a roundtable on Sept. 17, 2026, to discuss moving towards 24-hour trading in the U.S. e…",
+        "Thu, 23 Jul 2026 11:04:00 -0400",
+        "https://www.sec.gov/newsroom/press-releases/2026-69-sec-announces-roundtable-preparations-24-hour-trading"
+      ]
     },
     {
       "name": "BIS FSI Briefs",
       "url": "https://www.bis.org/publications/",
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-28 09:26:33",
-      "changed_at": "2026-09-26 09:27:27",
-      "line_count": 2952
+      "checked_at": "2026-09-29 10:40:08",
+      "changed_at": "2026-09-29 10:40:08",
+      "line_count": 2954,
+      "added": [
+        "28 Sep 2026",
+        "BCBS (804)",
+        "Bank for International Settlements (2847)",
+        "Banking",
+        "Banking (2)",
+        "Displaying 1-10 of 5050",
+        "F65 (24)",
+        "FSI Occasional Papers",
+        "FSI Occasional Papers (28)",
+        "Fernando Restoy (22)",
+        "G21 (298)",
+        "G28 (203)",
+        "Jonathan Beissinger (3)",
+        "No 29",
+        "P52 (7)",
+        "Patrizia Baudino (22)",
+        "Patrizia Baudino , Jonathan Beissinger , Renzo Corrias and Fernando Restoy",
+        "QIS (50)",
+        "Renzo Corrias (4)",
+        "The leverage ratio and the output floor: complementarities and overlaps"
+      ],
+      "removed": [
+        "BCBS (802)",
+        "Bank for International Settlements (2846)",
+        "Banking (1)",
+        "Displaying 1-10 of 5047",
+        "F65 (23)",
+        "FSI Occasional Papers (27)",
+        "Fernando Restoy (21)",
+        "Financing the digital economy: the role of private credit",
+        "G21 (297)",
+        "G28 (202)",
+        "Jonathan Beissinger (2)",
+        "P52 (6)",
+        "Patrizia Baudino (21)",
+        "Private credit helped finance the post-2020 shift to the digital economy by lending against cash flows and intangible assets.",
+        "Puriya Abbassi , Iñaki Aldasoro and Sebastian Doerr",
+        "QIS (48)",
+        "Renzo Corrias (3)"
+      ]
     },
     {
       "name": "米財務省 プレスリリース",
       "url": "https://home.treasury.gov/news/press-releases",
       "note": "GENIUS法の規則・為替報告",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-28 09:26:33",
-      "changed_at": "2026-09-23 09:11:32",
-      "line_count": 380
+      "checked_at": "2026-09-29 10:40:08",
+      "changed_at": "2026-09-29 10:40:08",
+      "line_count": 381,
+      "added": [
+        "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with Lebanese Prime Minister Nawaf Salam and Minister of Finance Yassine Jaber",
+        "September 28, 2026",
+        "September 28, 2026",
+        "United States Department of the Treasury Announces New Appointment"
+      ],
+      "removed": [
+        "September 9, 2026",
+        "September 9, 2026",
+        "Treasury Cracks Down on Transnational Criminal Organization Behind Cyber Scam Operations Targeting Americans",
+        "Treasury Uncovers $17.5 Billion in Suspected Health Care Fraud"
+      ]
     },
     {
       "name": "MAS メディアリリース",
@@ -90,12 +171,117 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-28 09:26:33",
+      "checked_at": "2026-09-29 10:40:08",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-09-29 10:40:08",
+      "name": "米財務省 プレスリリース",
+      "url": "https://home.treasury.gov/news/press-releases",
+      "added": [
+        "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with Lebanese Prime Minister Nawaf Salam and Minister of Finance Yassine Jaber",
+        "September 28, 2026",
+        "September 28, 2026",
+        "United States Department of the Treasury Announces New Appointment"
+      ],
+      "removed": [
+        "September 9, 2026",
+        "September 9, 2026",
+        "Treasury Cracks Down on Transnational Criminal Organization Behind Cyber Scam Operations Targeting Americans",
+        "Treasury Uncovers $17.5 Billion in Suspected Health Care Fraud"
+      ]
+    },
+    {
+      "at": "2026-09-29 10:40:08",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "28 Sep 2026",
+        "BCBS (804)",
+        "Bank for International Settlements (2847)",
+        "Banking",
+        "Banking (2)",
+        "Displaying 1-10 of 5050",
+        "F65 (24)",
+        "FSI Occasional Papers",
+        "FSI Occasional Papers (28)",
+        "Fernando Restoy (22)",
+        "G21 (298)",
+        "G28 (203)",
+        "Jonathan Beissinger (3)",
+        "No 29",
+        "P52 (7)",
+        "Patrizia Baudino (22)",
+        "Patrizia Baudino , Jonathan Beissinger , Renzo Corrias and Fernando Restoy",
+        "QIS (50)",
+        "Renzo Corrias (4)",
+        "The leverage ratio and the output floor: complementarities and overlaps"
+      ],
+      "removed": [
+        "BCBS (802)",
+        "Bank for International Settlements (2846)",
+        "Banking (1)",
+        "Displaying 1-10 of 5047",
+        "F65 (23)",
+        "FSI Occasional Papers (27)",
+        "Fernando Restoy (21)",
+        "Financing the digital economy: the role of private credit",
+        "G21 (297)",
+        "G28 (202)",
+        "Jonathan Beissinger (2)",
+        "P52 (6)",
+        "Patrizia Baudino (21)",
+        "Private credit helped finance the post-2020 shift to the digital economy by lending against cash flows and intangible assets.",
+        "Puriya Abbassi , Iñaki Aldasoro and Sebastian Doerr",
+        "QIS (48)",
+        "Renzo Corrias (3)"
+      ]
+    },
+    {
+      "at": "2026-09-29 10:40:08",
+      "name": "米SEC プレスリリース",
+      "url": "https://www.sec.gov/news/pressreleases.rss",
+      "added": [
+        "054c4054-b2b9-48f6-b30d-dc6f219db7e1",
+        "Mon, 28 Sep 2026 13:46:30 -0400",
+        "SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest",
+        "The Securities and Exchange Commission today announced settled charges against New York-based investment adviser Zoe Financial Inc. for failing to fully and fai…",
+        "https://www.sec.gov/newsroom/press-releases/2026-94-sec-charges-registered-investment-adviser-zoe-financial-failure-disclose-conflict-interest"
+      ],
+      "removed": [
+        "58e3f4dc-f597-4d50-af9c-2d88525a3c98",
+        "SEC Announces Roundtable on Preparations for 24-Hour Trading",
+        "The Securities and Exchange Commission announced today that it will host a roundtable on Sept. 17, 2026, to discuss moving towards 24-hour trading in the U.S. e…",
+        "Thu, 23 Jul 2026 11:04:00 -0400",
+        "https://www.sec.gov/newsroom/press-releases/2026-69-sec-announces-roundtable-preparations-24-hour-trading"
+      ]
+    },
+    {
+      "at": "2026-09-29 10:40:08",
+      "name": "金融庁 報道発表",
+      "url": "https://www.fsa.go.jp/news/index.html",
+      "added": [
+        "「金融機関における個人情報保護に関するQ\u0026A」の改正の公表",
+        "人事異動（令和８年９月28日付幹部名簿の更新）の公表",
+        "令和８年９月28日"
+      ]
+    },
+    {
+      "at": "2026-09-29 10:40:08",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年 9月28日",
+        "外国為替市況（9月28日） [PDF 61KB]"
+      ],
+      "removed": [
+        "2026年 9月16日",
+        "外国為替市況（9月16日） [PDF 61KB]"
+      ]
+    },
     {
       "at": "2026-09-26 09:27:27",
       "name": "BIS FSI Briefs",
