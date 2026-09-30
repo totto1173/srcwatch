@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29 10:40:08",
+  "generated_at": "2026-09-30 10:10:34",
   "summary": {
     "changed": 5,
     "same": 4
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-29 10:40:08",
+      "checked_at": "2026-09-30 10:10:34",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-29 10:40:08",
+      "checked_at": "2026-09-30 10:10:34",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 123
     },
@@ -31,16 +31,16 @@
       "note": "毎営業日・17時レート",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-29 10:40:08",
-      "changed_at": "2026-09-29 10:40:08",
+      "checked_at": "2026-09-30 10:10:34",
+      "changed_at": "2026-09-30 10:10:34",
       "line_count": 406,
       "added": [
-        "2026年 9月28日",
-        "外国為替市況（9月28日） [PDF 61KB]"
+        "2026年 9月29日",
+        "外国為替市況（9月29日） [PDF 61KB]"
       ],
       "removed": [
-        "2026年 9月16日",
-        "外国為替市況（9月16日） [PDF 61KB]"
+        "2026年 9月17日",
+        "外国為替市況（9月17日） [PDF 61KB]"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-29 10:40:08",
+      "checked_at": "2026-09-30 10:10:34",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -59,13 +59,19 @@
       "note": "規制・監督の発表",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-29 10:40:08",
-      "changed_at": "2026-09-29 10:40:08",
-      "line_count": 430,
+      "checked_at": "2026-09-30 10:10:34",
+      "changed_at": "2026-09-30 10:10:34",
+      "line_count": 435,
       "added": [
-        "「金融機関における個人情報保護に関するQ\u0026A」の改正の公表",
-        "人事異動（令和８年９月28日付幹部名簿の更新）の公表",
-        "令和８年９月28日"
+        "「FinTech実証実験ハブ・決済高度化プロジェクト（PIP）」支援決定案件の公表",
+        "「連結財務諸表の用語、様式及び作成方法に関する規則に規定する金融庁長官が定める企業会計の基準を指定する件の\ufffd…",
+        "令和８年９月29日",
+        "報道発表資料：金融庁",
+        "新潟縣信用組合・興栄信用組合の組織再編成等実施計画の認定の公表",
+        "第34回金融機能強化審査会 議事要旨の公表"
+      ],
+      "removed": [
+        "報道発表資料 ： 金融庁"
       ]
     },
     {
@@ -74,22 +80,22 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-29 10:40:08",
-      "changed_at": "2026-09-29 10:40:08",
+      "checked_at": "2026-09-30 10:10:34",
+      "changed_at": "2026-09-30 10:10:34",
       "line_count": 129,
       "added": [
-        "054c4054-b2b9-48f6-b30d-dc6f219db7e1",
-        "Mon, 28 Sep 2026 13:46:30 -0400",
-        "SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest",
-        "The Securities and Exchange Commission today announced settled charges against New York-based investment adviser Zoe Financial Inc. for failing to fully and fai…",
-        "https://www.sec.gov/newsroom/press-releases/2026-94-sec-charges-registered-investment-adviser-zoe-financial-failure-disclose-conflict-interest"
+        "24ecbd59-921b-4629-ad59-3274eba339e1",
+        "SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors",
+        "The Securities and Exchange Commission today charged multiple entities that are likely operated by individuals located overseas for defrauding hundreds of retai…",
+        "Tue, 29 Sep 2026 09:55:53 -0400",
+        "https://www.sec.gov/newsroom/press-releases/2026-95-sec-charges-multiple-entities-fraud-schemes-totaling-least-15-million-used-whatsapp-other-platforms"
       ],
       "removed": [
-        "58e3f4dc-f597-4d50-af9c-2d88525a3c98",
-        "SEC Announces Roundtable on Preparations for 24-Hour Trading",
-        "The Securities and Exchange Commission announced today that it will host a roundtable on Sept. 17, 2026, to discuss moving towards 24-hour trading in the U.S. e…",
-        "Thu, 23 Jul 2026 11:04:00 -0400",
-        "https://www.sec.gov/newsroom/press-releases/2026-69-sec-announces-roundtable-preparations-24-hour-trading"
+        "Mon, 27 Jul 2026 15:59:17 -0400",
+        "Small Business Forum’s Report to Congress Highlights Recommendations to Improve Capital-Raising Policy",
+        "The Securities and Exchange Commission released a report to Congress today highlighting policy recommendations from the SEC’s\u0026nbsp;45th Annual Government-Busi…",
+        "d2788195-1473-4b91-8bbb-b008e5299767",
+        "https://www.sec.gov/newsroom/press-releases/2026-70-small-business-forums-report-congress-highlights-recommendations-improve-capital-raising-policy"
       ]
     },
     {
@@ -98,49 +104,32 @@
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-29 10:40:08",
-      "changed_at": "2026-09-29 10:40:08",
-      "line_count": 2954,
+      "checked_at": "2026-09-30 10:10:34",
+      "changed_at": "2026-09-30 10:10:34",
+      "line_count": 2959,
       "added": [
-        "28 Sep 2026",
-        "BCBS (804)",
-        "Bank for International Settlements (2847)",
-        "Banking",
-        "Banking (2)",
-        "Displaying 1-10 of 5050",
-        "F65 (24)",
-        "FSI Occasional Papers",
-        "FSI Occasional Papers (28)",
-        "Fernando Restoy (22)",
-        "G21 (298)",
-        "G28 (203)",
-        "Jonathan Beissinger (3)",
-        "No 29",
-        "P52 (7)",
-        "Patrizia Baudino (22)",
-        "Patrizia Baudino , Jonathan Beissinger , Renzo Corrias and Fernando Restoy",
-        "QIS (50)",
-        "Renzo Corrias (4)",
-        "The leverage ratio and the output floor: complementarities and overlaps"
+        "29 Sep 2026",
+        "BIS Bulletin (136)",
+        "Bank for International Settlements (2846)",
+        "Displaying 1-10 of 5051",
+        "FSI (243)",
+        "High public debt, NBFIs and the risk of market dysfunction",
+        "Mathias Drehmann (34)",
+        "Mathias Drehmann and Sonya Zhu",
+        "Near record-high government debt levels and the growing role of non-banks have reshaped government debt markets in recent years. High levels of government secto…",
+        "No 136",
+        "Sonya Zhu (13)",
+        "This paper examines analytically and empirically whether the Basel III leverage ratio (LR) and output floor (OF) requirements act as substitutes for or compleme…"
       ],
       "removed": [
-        "BCBS (802)",
-        "Bank for International Settlements (2846)",
-        "Banking (1)",
-        "Displaying 1-10 of 5047",
-        "F65 (23)",
-        "FSI Occasional Papers (27)",
-        "Fernando Restoy (21)",
-        "Financing the digital economy: the role of private credit",
-        "G21 (297)",
-        "G28 (202)",
-        "Jonathan Beissinger (2)",
-        "P52 (6)",
-        "Patrizia Baudino (21)",
-        "Private credit helped finance the post-2020 shift to the digital economy by lending against cash flows and intangible assets.",
-        "Puriya Abbassi , Iñaki Aldasoro and Sebastian Doerr",
-        "QIS (48)",
-        "Renzo Corrias (3)"
+        "14 Sep 2026",
+        "BIS Bulletin (135)",
+        "BIS Quarterly Review, September 2026",
+        "Bank for International Settlements (2847)",
+        "Displaying 1-10 of 5050",
+        "FSI (242)",
+        "Mathias Drehmann (33)",
+        "Sonya Zhu (12)"
       ]
     },
     {
@@ -149,20 +138,26 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-29 10:40:08",
-      "changed_at": "2026-09-29 10:40:08",
+      "checked_at": "2026-09-30 10:10:34",
+      "changed_at": "2026-09-30 10:10:34",
       "line_count": 381,
       "added": [
-        "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with Lebanese Prime Minister Nawaf Salam and Minister of Finance Yassine Jaber",
-        "September 28, 2026",
-        "September 28, 2026",
-        "United States Department of the Treasury Announces New Appointment"
+        "Operation Economic Outcast Takes Down Iranian Military Procurement Networks",
+        "READOUT: Financial Stability Oversight Council Meeting on September 29, 2026",
+        "September 29, 2026",
+        "September 29, 2026",
+        "September 29, 2026",
+        "Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks",
+        "United States Department of the Treasury Announces David Zervos as Counselor to the Secretary"
       ],
       "removed": [
-        "September 9, 2026",
-        "September 9, 2026",
-        "Treasury Cracks Down on Transnational Criminal Organization Behind Cyber Scam Operations Targeting Americans",
-        "Treasury Uncovers $17.5 Billion in Suspected Health Care Fraud"
+        "Operation Economic Outcast Strikes Iran’s Global Terrorist Proxy Network",
+        "September 10, 2026",
+        "September 10, 2026",
+        "September 11, 2026",
+        "Treasury Welcomes the Revised GloBE Information Return Implementing President Trump’s Day One Executive Order",
+        "U.S. Mint Commemorates 25th Anniversary of September 11 with Half Dollar",
+        "United States Department of the Treasury Announces New Appointment"
       ]
     },
     {
@@ -171,12 +166,112 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-29 10:40:08",
+      "checked_at": "2026-09-30 10:10:34",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-09-30 10:10:34",
+      "name": "米財務省 プレスリリース",
+      "url": "https://home.treasury.gov/news/press-releases",
+      "added": [
+        "Operation Economic Outcast Takes Down Iranian Military Procurement Networks",
+        "READOUT: Financial Stability Oversight Council Meeting on September 29, 2026",
+        "September 29, 2026",
+        "September 29, 2026",
+        "September 29, 2026",
+        "Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks",
+        "United States Department of the Treasury Announces David Zervos as Counselor to the Secretary"
+      ],
+      "removed": [
+        "Operation Economic Outcast Strikes Iran’s Global Terrorist Proxy Network",
+        "September 10, 2026",
+        "September 10, 2026",
+        "September 11, 2026",
+        "Treasury Welcomes the Revised GloBE Information Return Implementing President Trump’s Day One Executive Order",
+        "U.S. Mint Commemorates 25th Anniversary of September 11 with Half Dollar",
+        "United States Department of the Treasury Announces New Appointment"
+      ]
+    },
+    {
+      "at": "2026-09-30 10:10:34",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "29 Sep 2026",
+        "BIS Bulletin (136)",
+        "Bank for International Settlements (2846)",
+        "Displaying 1-10 of 5051",
+        "FSI (243)",
+        "High public debt, NBFIs and the risk of market dysfunction",
+        "Mathias Drehmann (34)",
+        "Mathias Drehmann and Sonya Zhu",
+        "Near record-high government debt levels and the growing role of non-banks have reshaped government debt markets in recent years. High levels of government secto…",
+        "No 136",
+        "Sonya Zhu (13)",
+        "This paper examines analytically and empirically whether the Basel III leverage ratio (LR) and output floor (OF) requirements act as substitutes for or compleme…"
+      ],
+      "removed": [
+        "14 Sep 2026",
+        "BIS Bulletin (135)",
+        "BIS Quarterly Review, September 2026",
+        "Bank for International Settlements (2847)",
+        "Displaying 1-10 of 5050",
+        "FSI (242)",
+        "Mathias Drehmann (33)",
+        "Sonya Zhu (12)"
+      ]
+    },
+    {
+      "at": "2026-09-30 10:10:34",
+      "name": "米SEC プレスリリース",
+      "url": "https://www.sec.gov/news/pressreleases.rss",
+      "added": [
+        "24ecbd59-921b-4629-ad59-3274eba339e1",
+        "SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors",
+        "The Securities and Exchange Commission today charged multiple entities that are likely operated by individuals located overseas for defrauding hundreds of retai…",
+        "Tue, 29 Sep 2026 09:55:53 -0400",
+        "https://www.sec.gov/newsroom/press-releases/2026-95-sec-charges-multiple-entities-fraud-schemes-totaling-least-15-million-used-whatsapp-other-platforms"
+      ],
+      "removed": [
+        "Mon, 27 Jul 2026 15:59:17 -0400",
+        "Small Business Forum’s Report to Congress Highlights Recommendations to Improve Capital-Raising Policy",
+        "The Securities and Exchange Commission released a report to Congress today highlighting policy recommendations from the SEC’s\u0026nbsp;45th Annual Government-Busi…",
+        "d2788195-1473-4b91-8bbb-b008e5299767",
+        "https://www.sec.gov/newsroom/press-releases/2026-70-small-business-forums-report-congress-highlights-recommendations-improve-capital-raising-policy"
+      ]
+    },
+    {
+      "at": "2026-09-30 10:10:34",
+      "name": "金融庁 報道発表",
+      "url": "https://www.fsa.go.jp/news/index.html",
+      "added": [
+        "「FinTech実証実験ハブ・決済高度化プロジェクト（PIP）」支援決定案件の公表",
+        "「連結財務諸表の用語、様式及び作成方法に関する規則に規定する金融庁長官が定める企業会計の基準を指定する件の\ufffd…",
+        "令和８年９月29日",
+        "報道発表資料：金融庁",
+        "新潟縣信用組合・興栄信用組合の組織再編成等実施計画の認定の公表",
+        "第34回金融機能強化審査会 議事要旨の公表"
+      ],
+      "removed": [
+        "報道発表資料 ： 金融庁"
+      ]
+    },
+    {
+      "at": "2026-09-30 10:10:34",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年 9月29日",
+        "外国為替市況（9月29日） [PDF 61KB]"
+      ],
+      "removed": [
+        "2026年 9月17日",
+        "外国為替市況（9月17日） [PDF 61KB]"
+      ]
+    },
     {
       "at": "2026-09-29 10:40:08",
       "name": "米財務省 プレスリリース",
