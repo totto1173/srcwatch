@@ -1,29 +1,45 @@
 {
-  "generated_at": "2026-09-30 10:10:34",
+  "generated_at": "2026-10-01 10:09:57",
   "summary": {
-    "changed": 5,
-    "same": 4
+    "changed": 7,
+    "same": 2
   },
   "items": [
     {
       "name": "財務省 外国為替平衡操作（月次）",
       "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html",
       "note": "介入額の月次公表。毎月末更新",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-30 10:10:34",
-      "changed_at": "2026-09-07 16:35:42",
-      "line_count": 119
+      "checked_at": "2026-10-01 10:09:57",
+      "changed_at": "2026-10-01 10:09:57",
+      "line_count": 119,
+      "added": [
+        "令和8年11月30日（月）午後7時00分",
+        "月次ベース（令和8年10月29日～令和8年11月26日）",
+        "電話  03-3581-4111"
+      ],
+      "removed": [
+        "令和8年9月30日（水）午後7時00分",
+        "月次ベース（令和8年8月27日～令和8年9月28日）",
+        "電話  03-3581-4111 内線2895"
+      ]
     },
     {
       "name": "財務省 外貨準備等の状況",
       "url": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm",
       "note": "毎月上旬更新",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-30 10:10:34",
-      "changed_at": "2026-09-07 16:35:42",
-      "line_count": 123
+      "checked_at": "2026-10-01 10:09:57",
+      "changed_at": "2026-10-01 10:09:57",
+      "line_count": 123,
+      "added": [
+        "令和8年10月7日（水）午前8時50分"
+      ],
+      "removed": [
+        "令和8年10月1日～7日"
+      ]
     },
     {
       "name": "日銀 外国為替市況（日次一覧）",
@@ -31,16 +47,16 @@
       "note": "毎営業日・17時レート",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-30 10:10:34",
-      "changed_at": "2026-09-30 10:10:34",
+      "checked_at": "2026-10-01 10:09:57",
+      "changed_at": "2026-10-01 10:09:57",
       "line_count": 406,
       "added": [
-        "2026年 9月29日",
-        "外国為替市況（9月29日） [PDF 61KB]"
+        "2026年 9月30日",
+        "外国為替市況（9月30日） [PDF 62KB]"
       ],
       "removed": [
-        "2026年 9月17日",
-        "外国為替市況（9月17日） [PDF 61KB]"
+        "2026年 9月18日",
+        "外国為替市況（9月18日） [PDF 61KB]"
       ]
     },
     {
@@ -49,7 +65,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-30 10:10:34",
+      "checked_at": "2026-10-01 10:09:57",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -59,20 +75,95 @@
       "note": "規制・監督の発表",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-30 10:10:34",
-      "changed_at": "2026-09-30 10:10:34",
-      "line_count": 435,
+      "checked_at": "2026-10-01 10:09:57",
+      "changed_at": "2026-10-01 10:09:57",
+      "line_count": 304,
       "added": [
-        "「FinTech実証実験ハブ・決済高度化プロジェクト（PIP）」支援決定案件の公表",
-        "「連結財務諸表の用語、様式及び作成方法に関する規則に規定する金融庁長官が定める企業会計の基準を指定する件の\ufffd…",
-        "令和８年９月29日",
-        "報道発表資料：金融庁",
-        "新潟縣信用組合・興栄信用組合の組織再編成等実施計画の認定の公表",
-        "第34回金融機能強化審査会 議事要旨の公表"
+        "令和元(平成31)事務年度",
+        "令和２事務年度",
+        "令和３事務年度",
+        "令和４事務年度",
+        "令和５事務年度",
+        "令和６事務年度",
+        "令和７事務年度",
+        "令和８事務年度",
+        "平成12事務年度",
+        "平成13事務年度",
+        "平成14事務年度",
+        "平成15事務年度",
+        "平成16事務年度",
+        "平成17事務年度",
+        "平成18事務年度",
+        "平成19事務年度",
+        "平成20事務年度",
+        "平成21事務年度",
+        "平成22事務年度",
+        "平成23事務年度",
+        "平成24事務年度",
+        "平成25事務年度",
+        "平成26事務年度",
+        "平成27事務年度",
+        "平成28事務年度",
+        "平成29事務年度",
+        "平成30事務年度",
+        "金融再生委員会（平成10年12月～平成13年1月）から引き継いだ情報（金融再生委員会の行政に関する新聞発表等）へ",
+        "金融監督庁（平成10年6月～平成12年6月）の情報（報道発表等）へ",
+        "（令和2年7月～令和3年6月）",
+        "（令和3年7月～令和4年6月）",
+        "（令和4年7月～令和5年6月）",
+        "（令和5年7月～令和6年6月）",
+        "（令和6年7月～令和7年6月）",
+        "（令和7年7月～令和8年6月）",
+        "（令和8年7月～令和9年6月）",
+        "（令和元年7月～令和2年6月）",
+        "（平成12年7月～平成13年6月）",
+        "（平成13年7月～平成14年6月）",
+        "（平成14年7月～平成15年6月）"
       ],
       "removed": [
-        "報道発表資料 ： 金融庁"
-      ]
+        "2026事務年度金融行政方針の公表",
+        "FSA Analytical Notesー金融庁分析事例集ー（2026.7）vol.1＜スタートアップ企業におけるVC投資と銀行融資の関係：資金調達の\ufffd…",
+        "FSA Analytical Notesー金融庁分析事例集ー（2026.7）vol.2＜主要行等における海外債務者への融資状況の分析＞、＜企業デフォ…",
+        "MUデジタルバンク設立準備株式会社に対する銀行業の免許の付与の公表",
+        "NISA口座の利用状況に関する調査結果（令和７年12月末時点）",
+        "「2026年 保険モニタリングレポート」の公表",
+        "「AI時代を見据えたオンチェーン金融フォーラム」の公表",
+        "「AI時代を見据えたオンチェーン金融フォーラム」（第１回）の開催の公表",
+        "「FinTech実証実験ハブ・決済高度化プロジェクト（PIP）」支援決定案件の公表",
+        "「インターネット取引サービスへの不正アクセス・不正取引にご注意ください」のページの更新",
+        "「インターネット取引サービスへの不正アクセス・不正取引にご注意ください」のページの更新",
+        "「インターネット取引サービスへの不正アクセス・不正取引にご注意ください」のページの更新",
+        "「サステナブルファイナンス有識者会議」（第30回）議事録",
+        "「サステナブルファイナンス有識者会議（第30回）意見要旨」の公表",
+        "「ベンチャーキャピタルにおいて推奨・期待される事項」（改訂案）の公表",
+        "「ベンチャーキャピタルに関する有識者会議」（第４回）議事録",
+        "「マネー・ローンダリング等及び金融犯罪対策の取組と課題（2026年７月）」の公表",
+        "「中小・地域金融機関向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等の公表",
+        "「中小・地域金融機関向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等（自己資本\ufffd…",
+        "「中小企業の事業再生等に関するガイドライン」の活用実績の公表",
+        "「主要行等向けの総合的な監督指針」等の一部改正に関する公表",
+        "「主要行等向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等の公表",
+        "「主要行等向けの総合的な監督指針」等の一部改正（案）の公表",
+        "「主要行等向けの総合的な監督指針」等の一部改正（案）（仕組預金関係）の公表",
+        "「主要行等向けの総合的な監督指針」等の一部改正（案）（銀行代理業関係等）の公表",
+        "「事務ガイドライン（第三分冊：金融会社関係）」等の一部改正に関する公表",
+        "「令和7年度政策評価実績評価書」等の公表",
+        "「令和６年度政策評価結果の政策への反映状況」の公表",
+        "「令和８年熊本地震金融庁相談ダイヤル」の開設",
+        "「企業内容等の開示に関する内閣府令第十九条の九第五項に規定するサステナビリティ開示基準を指定する件の一部を\ufffd…",
+        "「保険会社向けの総合的な監督指針」の一部改正（案）に対するパブリックコメントの結果等の公表",
+        "「保険会社向けの総合的な監督指針」の一部改正（案）の公表",
+        "「保険会社向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等の公表",
+        "「公認会計士及び監査法人におけるマネー・ローンダリング、テロ資金供与及び拡散金融対策に関するガイドライン（\ufffd…",
+        "「南海トラフ地震臨時情報（巨大地震警戒）」発表時における「住民事前避難対象地域」内の金融機関の休業予定店舗\ufffd…",
+        "「地域活性化取組辞典」の公表",
+        "「多重債務者相談強化キャンペーン2026」における相談会の開催状況及び予定等の公表",
+        "「成長投資を促進するための金融戦略 ー 資産運用立国のアップグレード ー」の公表",
+        "「投資信託及び投資法人に関する法律施行規則の一部を改正する内閣府令」の公布及びパブリックコメントの結果の公\ufffd…",
+        "「投資法人の計算に関する規則の一部を改正する内閣府令」の公布及びパブリックコメントの結果の公表"
+      ],
+      "added_more": 16,
+      "removed_more": 148
     },
     {
       "name": "米SEC プレスリリース",
@@ -80,22 +171,42 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-30 10:10:34",
-      "changed_at": "2026-09-30 10:10:34",
+      "checked_at": "2026-10-01 10:09:57",
+      "changed_at": "2026-10-01 10:09:57",
       "line_count": 129,
       "added": [
-        "24ecbd59-921b-4629-ad59-3274eba339e1",
-        "SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors",
-        "The Securities and Exchange Commission today charged multiple entities that are likely operated by individuals located overseas for defrauding hundreds of retai…",
-        "Tue, 29 Sep 2026 09:55:53 -0400",
-        "https://www.sec.gov/newsroom/press-releases/2026-95-sec-charges-multiple-entities-fraud-schemes-totaling-least-15-million-used-whatsapp-other-platforms"
+        "352af6f8-9b2e-45ee-aa90-0806c18d18e5",
+        "7842a15d-6b54-49f2-bd2a-043e63018972",
+        "8c473a64-7653-4e74-b264-a61f63a40439",
+        "SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities",
+        "SEC Charges Two Individuals With Orchestrating Fraud Scheme That Targeted Veterans",
+        "SEC Proposes Amendments to Expand Responsible Retailization of Private Markets",
+        "The Securities and Exchange Commission today announced charges against Christopher Kenji Dinelli and Jacob David “Kobe” Frankel for allegedly orchestrating …",
+        "The Securities and Exchange Commission today charged private fund adviser Meyer Global Management LLC (MGM) and its CEO, Owen E.H. Meyer, with defrauding invest…",
+        "The Securities and Exchange Commission today voted to propose rule amendments that would facilitate capital formation in the public and private markets by expan…",
+        "Wed, 30 Sep 2026 11:45:00 -0400",
+        "Wed, 30 Sep 2026 12:42:15 -0400",
+        "Wed, 30 Sep 2026 14:30:01 -0400",
+        "https://www.sec.gov/newsroom/press-releases/2026-96-sec-proposes-amendments-expand-responsible-retailization-private-markets",
+        "https://www.sec.gov/newsroom/press-releases/2026-97-sec-charges-two-individuals-orchestrating-fraud-scheme-targeted-veterans",
+        "https://www.sec.gov/newsroom/press-releases/2026-98-sec-charges-meyer-global-management-its-ceo-defrauding-retail-investors-private-funds-held-interests"
       ],
       "removed": [
-        "Mon, 27 Jul 2026 15:59:17 -0400",
-        "Small Business Forum’s Report to Congress Highlights Recommendations to Improve Capital-Raising Policy",
-        "The Securities and Exchange Commission released a report to Congress today highlighting policy recommendations from the SEC’s\u0026nbsp;45th Annual Government-Busi…",
-        "d2788195-1473-4b91-8bbb-b008e5299767",
-        "https://www.sec.gov/newsroom/press-releases/2026-70-small-business-forums-report-congress-highlights-recommendations-improve-capital-raising-policy"
+        "3b108935-d9dd-43a0-98ec-f05df42fc4ea",
+        "506dc3f1-f71f-40fb-80aa-e5efcbae1f07",
+        "8a776414-36bd-4800-a82c-b525aa231fa4",
+        "Mon, 10 Aug 2026 14:00:00 -0400",
+        "SEC Announces Continuation of Small Business Advisory Committee Meeting",
+        "SEC Charges Private Fund Adviser Adit Ventures Management, Its CEO and Affiliated General Partners in Alleged Fraud",
+        "SEC Establishes Financial Reporting and Accounting Unit in Enforcement Division",
+        "The Securities and Exchange Commission announced that the\u0026nbsp;Small Business Capital Formation Advisory Committee\u0026nbsp;meeting held on July 21, 2026, will reco…",
+        "The Securities and Exchange Commission today announced it is establishing a new specialized unit within the Division of Enforcement to provide the dedicated exp…",
+        "The Securities and Exchange Commission today charged New York-based investment adviser Adit Ventures Management LLC, its CEO Eric Munson, and three affiliated g…",
+        "Thu, 30 Jul 2026 09:53:38 -0400",
+        "Wed, 05 Aug 2026 14:30:00 -0400",
+        "https://www.sec.gov/newsroom/press-releases/2026-71-sec-announces-continuation-small-business-advisory-committee-meeting",
+        "https://www.sec.gov/newsroom/press-releases/2026-72-sec-establishes-financial-reporting-accounting-unit-enforcement-division",
+        "https://www.sec.gov/newsroom/press-releases/2026-73-sec-charges-private-fund-adviser-adit-ventures-management-its-ceo-affiliated-general-partners"
       ]
     },
     {
@@ -104,32 +215,35 @@
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-30 10:10:34",
-      "changed_at": "2026-09-30 10:10:34",
+      "checked_at": "2026-10-01 10:09:57",
+      "changed_at": "2026-10-01 10:09:57",
       "line_count": 2959,
       "added": [
-        "29 Sep 2026",
-        "BIS Bulletin (136)",
-        "Bank for International Settlements (2846)",
-        "Displaying 1-10 of 5051",
-        "FSI (243)",
-        "High public debt, NBFIs and the risk of market dysfunction",
-        "Mathias Drehmann (34)",
-        "Mathias Drehmann and Sonya Zhu",
-        "Near record-high government debt levels and the growing role of non-banks have reshaped government debt markets in recent years. High levels of government secto…",
-        "No 136",
-        "Sonya Zhu (13)",
-        "This paper examines analytically and empirically whether the Basel III leverage ratio (LR) and output floor (OF) requirements act as substitutes for or compleme…"
+        "30 Sep 2026",
+        "Banking (3)",
+        "Core Principles for Effective Deposit Insurance Systems – Executive Summary",
+        "Crisis management",
+        "Crisis management (1)",
+        "Displaying 1-10 of 5052",
+        "FSI (244)",
+        "FSI Executive Summaries",
+        "FSI Executive Summaries (81)",
+        "Governance",
+        "Governance (39)",
+        "The Core Principles for Effective Deposit Insurance Systems (core principles) of the International Association of Deposit Insurers are the international standar…"
       ],
       "removed": [
-        "14 Sep 2026",
-        "BIS Bulletin (135)",
-        "BIS Quarterly Review, September 2026",
-        "Bank for International Settlements (2847)",
-        "Displaying 1-10 of 5050",
-        "FSI (242)",
-        "Mathias Drehmann (33)",
-        "Sonya Zhu (12)"
+        "15 Sep 2026",
+        "Banking (2)",
+        "Decentralised finance data presents a distinctive paradox: while every data point is publicly recorded and accessible, deriving meaningful insights is obscured …",
+        "Displaying 1-10 of 5051",
+        "FSI (243)",
+        "FSI Executive Summaries (80)",
+        "Governance (38)",
+        "Hidden by complexity? Measuring stablecoin, crypto and decentralised finance ecosystems",
+        "Innovation and fintech",
+        "No 1377",
+        "Timothy Aerts , Ronald Heijmans , Jan Paulick and Violeta Vuletic"
       ]
     },
     {
@@ -138,26 +252,20 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-09-30 10:10:34",
-      "changed_at": "2026-09-30 10:10:34",
-      "line_count": 381,
+      "checked_at": "2026-10-01 10:09:57",
+      "changed_at": "2026-10-01 10:09:57",
+      "line_count": 380,
       "added": [
-        "Operation Economic Outcast Takes Down Iranian Military Procurement Networks",
-        "READOUT: Financial Stability Oversight Council Meeting on September 29, 2026",
-        "September 29, 2026",
-        "September 29, 2026",
-        "September 29, 2026",
-        "Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks",
-        "United States Department of the Treasury Announces David Zervos as Counselor to the Secretary"
+        "September 30, 2026",
+        "September 30, 2026",
+        "Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks",
+        "U.S. Department of the Treasury and U.S. Department of Education Launch New Defaulted Loans Support Center"
       ],
       "removed": [
-        "Operation Economic Outcast Strikes Iran’s Global Terrorist Proxy Network",
-        "September 10, 2026",
-        "September 10, 2026",
-        "September 11, 2026",
-        "Treasury Welcomes the Revised GloBE Information Return Implementing President Trump’s Day One Executive Order",
-        "U.S. Mint Commemorates 25th Anniversary of September 11 with Half Dollar",
-        "United States Department of the Treasury Announces New Appointment"
+        "Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions",
+        "September 14, 2026",
+        "September 15, 2026",
+        "Statement from Secretary of the Treasury Scott Bessent Before the United States House Committee on Financial Services"
       ]
     },
     {
@@ -166,12 +274,228 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-09-30 10:10:34",
+      "checked_at": "2026-10-01 10:09:57",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-10-01 10:09:57",
+      "name": "米財務省 プレスリリース",
+      "url": "https://home.treasury.gov/news/press-releases",
+      "added": [
+        "September 30, 2026",
+        "September 30, 2026",
+        "Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks",
+        "U.S. Department of the Treasury and U.S. Department of Education Launch New Defaulted Loans Support Center"
+      ],
+      "removed": [
+        "Operation Economic Outcast Sanctions Major Bank Helping Iran Evade Sanctions",
+        "September 14, 2026",
+        "September 15, 2026",
+        "Statement from Secretary of the Treasury Scott Bessent Before the United States House Committee on Financial Services"
+      ]
+    },
+    {
+      "at": "2026-10-01 10:09:57",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "30 Sep 2026",
+        "Banking (3)",
+        "Core Principles for Effective Deposit Insurance Systems – Executive Summary",
+        "Crisis management",
+        "Crisis management (1)",
+        "Displaying 1-10 of 5052",
+        "FSI (244)",
+        "FSI Executive Summaries",
+        "FSI Executive Summaries (81)",
+        "Governance",
+        "Governance (39)",
+        "The Core Principles for Effective Deposit Insurance Systems (core principles) of the International Association of Deposit Insurers are the international standar…"
+      ],
+      "removed": [
+        "15 Sep 2026",
+        "Banking (2)",
+        "Decentralised finance data presents a distinctive paradox: while every data point is publicly recorded and accessible, deriving meaningful insights is obscured …",
+        "Displaying 1-10 of 5051",
+        "FSI (243)",
+        "FSI Executive Summaries (80)",
+        "Governance (38)",
+        "Hidden by complexity? Measuring stablecoin, crypto and decentralised finance ecosystems",
+        "Innovation and fintech",
+        "No 1377",
+        "Timothy Aerts , Ronald Heijmans , Jan Paulick and Violeta Vuletic"
+      ]
+    },
+    {
+      "at": "2026-10-01 10:09:57",
+      "name": "米SEC プレスリリース",
+      "url": "https://www.sec.gov/news/pressreleases.rss",
+      "added": [
+        "352af6f8-9b2e-45ee-aa90-0806c18d18e5",
+        "7842a15d-6b54-49f2-bd2a-043e63018972",
+        "8c473a64-7653-4e74-b264-a61f63a40439",
+        "SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities",
+        "SEC Charges Two Individuals With Orchestrating Fraud Scheme That Targeted Veterans",
+        "SEC Proposes Amendments to Expand Responsible Retailization of Private Markets",
+        "The Securities and Exchange Commission today announced charges against Christopher Kenji Dinelli and Jacob David “Kobe” Frankel for allegedly orchestrating …",
+        "The Securities and Exchange Commission today charged private fund adviser Meyer Global Management LLC (MGM) and its CEO, Owen E.H. Meyer, with defrauding invest…",
+        "The Securities and Exchange Commission today voted to propose rule amendments that would facilitate capital formation in the public and private markets by expan…",
+        "Wed, 30 Sep 2026 11:45:00 -0400",
+        "Wed, 30 Sep 2026 12:42:15 -0400",
+        "Wed, 30 Sep 2026 14:30:01 -0400",
+        "https://www.sec.gov/newsroom/press-releases/2026-96-sec-proposes-amendments-expand-responsible-retailization-private-markets",
+        "https://www.sec.gov/newsroom/press-releases/2026-97-sec-charges-two-individuals-orchestrating-fraud-scheme-targeted-veterans",
+        "https://www.sec.gov/newsroom/press-releases/2026-98-sec-charges-meyer-global-management-its-ceo-defrauding-retail-investors-private-funds-held-interests"
+      ],
+      "removed": [
+        "3b108935-d9dd-43a0-98ec-f05df42fc4ea",
+        "506dc3f1-f71f-40fb-80aa-e5efcbae1f07",
+        "8a776414-36bd-4800-a82c-b525aa231fa4",
+        "Mon, 10 Aug 2026 14:00:00 -0400",
+        "SEC Announces Continuation of Small Business Advisory Committee Meeting",
+        "SEC Charges Private Fund Adviser Adit Ventures Management, Its CEO and Affiliated General Partners in Alleged Fraud",
+        "SEC Establishes Financial Reporting and Accounting Unit in Enforcement Division",
+        "The Securities and Exchange Commission announced that the\u0026nbsp;Small Business Capital Formation Advisory Committee\u0026nbsp;meeting held on July 21, 2026, will reco…",
+        "The Securities and Exchange Commission today announced it is establishing a new specialized unit within the Division of Enforcement to provide the dedicated exp…",
+        "The Securities and Exchange Commission today charged New York-based investment adviser Adit Ventures Management LLC, its CEO Eric Munson, and three affiliated g…",
+        "Thu, 30 Jul 2026 09:53:38 -0400",
+        "Wed, 05 Aug 2026 14:30:00 -0400",
+        "https://www.sec.gov/newsroom/press-releases/2026-71-sec-announces-continuation-small-business-advisory-committee-meeting",
+        "https://www.sec.gov/newsroom/press-releases/2026-72-sec-establishes-financial-reporting-accounting-unit-enforcement-division",
+        "https://www.sec.gov/newsroom/press-releases/2026-73-sec-charges-private-fund-adviser-adit-ventures-management-its-ceo-affiliated-general-partners"
+      ]
+    },
+    {
+      "at": "2026-10-01 10:09:57",
+      "name": "金融庁 報道発表",
+      "url": "https://www.fsa.go.jp/news/index.html",
+      "added": [
+        "令和元(平成31)事務年度",
+        "令和２事務年度",
+        "令和３事務年度",
+        "令和４事務年度",
+        "令和５事務年度",
+        "令和６事務年度",
+        "令和７事務年度",
+        "令和８事務年度",
+        "平成12事務年度",
+        "平成13事務年度",
+        "平成14事務年度",
+        "平成15事務年度",
+        "平成16事務年度",
+        "平成17事務年度",
+        "平成18事務年度",
+        "平成19事務年度",
+        "平成20事務年度",
+        "平成21事務年度",
+        "平成22事務年度",
+        "平成23事務年度",
+        "平成24事務年度",
+        "平成25事務年度",
+        "平成26事務年度",
+        "平成27事務年度",
+        "平成28事務年度",
+        "平成29事務年度",
+        "平成30事務年度",
+        "金融再生委員会（平成10年12月～平成13年1月）から引き継いだ情報（金融再生委員会の行政に関する新聞発表等）へ",
+        "金融監督庁（平成10年6月～平成12年6月）の情報（報道発表等）へ",
+        "（令和2年7月～令和3年6月）",
+        "（令和3年7月～令和4年6月）",
+        "（令和4年7月～令和5年6月）",
+        "（令和5年7月～令和6年6月）",
+        "（令和6年7月～令和7年6月）",
+        "（令和7年7月～令和8年6月）",
+        "（令和8年7月～令和9年6月）",
+        "（令和元年7月～令和2年6月）",
+        "（平成12年7月～平成13年6月）",
+        "（平成13年7月～平成14年6月）",
+        "（平成14年7月～平成15年6月）"
+      ],
+      "removed": [
+        "2026事務年度金融行政方針の公表",
+        "FSA Analytical Notesー金融庁分析事例集ー（2026.7）vol.1＜スタートアップ企業におけるVC投資と銀行融資の関係：資金調達の\ufffd…",
+        "FSA Analytical Notesー金融庁分析事例集ー（2026.7）vol.2＜主要行等における海外債務者への融資状況の分析＞、＜企業デフォ…",
+        "MUデジタルバンク設立準備株式会社に対する銀行業の免許の付与の公表",
+        "NISA口座の利用状況に関する調査結果（令和７年12月末時点）",
+        "「2026年 保険モニタリングレポート」の公表",
+        "「AI時代を見据えたオンチェーン金融フォーラム」の公表",
+        "「AI時代を見据えたオンチェーン金融フォーラム」（第１回）の開催の公表",
+        "「FinTech実証実験ハブ・決済高度化プロジェクト（PIP）」支援決定案件の公表",
+        "「インターネット取引サービスへの不正アクセス・不正取引にご注意ください」のページの更新",
+        "「インターネット取引サービスへの不正アクセス・不正取引にご注意ください」のページの更新",
+        "「インターネット取引サービスへの不正アクセス・不正取引にご注意ください」のページの更新",
+        "「サステナブルファイナンス有識者会議」（第30回）議事録",
+        "「サステナブルファイナンス有識者会議（第30回）意見要旨」の公表",
+        "「ベンチャーキャピタルにおいて推奨・期待される事項」（改訂案）の公表",
+        "「ベンチャーキャピタルに関する有識者会議」（第４回）議事録",
+        "「マネー・ローンダリング等及び金融犯罪対策の取組と課題（2026年７月）」の公表",
+        "「中小・地域金融機関向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等の公表",
+        "「中小・地域金融機関向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等（自己資本\ufffd…",
+        "「中小企業の事業再生等に関するガイドライン」の活用実績の公表",
+        "「主要行等向けの総合的な監督指針」等の一部改正に関する公表",
+        "「主要行等向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等の公表",
+        "「主要行等向けの総合的な監督指針」等の一部改正（案）の公表",
+        "「主要行等向けの総合的な監督指針」等の一部改正（案）（仕組預金関係）の公表",
+        "「主要行等向けの総合的な監督指針」等の一部改正（案）（銀行代理業関係等）の公表",
+        "「事務ガイドライン（第三分冊：金融会社関係）」等の一部改正に関する公表",
+        "「令和7年度政策評価実績評価書」等の公表",
+        "「令和６年度政策評価結果の政策への反映状況」の公表",
+        "「令和８年熊本地震金融庁相談ダイヤル」の開設",
+        "「企業内容等の開示に関する内閣府令第十九条の九第五項に規定するサステナビリティ開示基準を指定する件の一部を\ufffd…",
+        "「保険会社向けの総合的な監督指針」の一部改正（案）に対するパブリックコメントの結果等の公表",
+        "「保険会社向けの総合的な監督指針」の一部改正（案）の公表",
+        "「保険会社向けの総合的な監督指針」等の一部改正（案）に対するパブリックコメントの結果等の公表",
+        "「公認会計士及び監査法人におけるマネー・ローンダリング、テロ資金供与及び拡散金融対策に関するガイドライン（\ufffd…",
+        "「南海トラフ地震臨時情報（巨大地震警戒）」発表時における「住民事前避難対象地域」内の金融機関の休業予定店舗\ufffd…",
+        "「地域活性化取組辞典」の公表",
+        "「多重債務者相談強化キャンペーン2026」における相談会の開催状況及び予定等の公表",
+        "「成長投資を促進するための金融戦略 ー 資産運用立国のアップグレード ー」の公表",
+        "「投資信託及び投資法人に関する法律施行規則の一部を改正する内閣府令」の公布及びパブリックコメントの結果の公\ufffd…",
+        "「投資法人の計算に関する規則の一部を改正する内閣府令」の公布及びパブリックコメントの結果の公表"
+      ]
+    },
+    {
+      "at": "2026-10-01 10:09:57",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年 9月30日",
+        "外国為替市況（9月30日） [PDF 62KB]"
+      ],
+      "removed": [
+        "2026年 9月18日",
+        "外国為替市況（9月18日） [PDF 61KB]"
+      ]
+    },
+    {
+      "at": "2026-10-01 10:09:57",
+      "name": "財務省 外貨準備等の状況",
+      "url": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm",
+      "added": [
+        "令和8年10月7日（水）午前8時50分"
+      ],
+      "removed": [
+        "令和8年10月1日～7日"
+      ]
+    },
+    {
+      "at": "2026-10-01 10:09:57",
+      "name": "財務省 外国為替平衡操作（月次）",
+      "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html",
+      "added": [
+        "令和8年11月30日（月）午後7時00分",
+        "月次ベース（令和8年10月29日～令和8年11月26日）",
+        "電話  03-3581-4111"
+      ],
+      "removed": [
+        "令和8年9月30日（水）午後7時00分",
+        "月次ベース（令和8年8月27日～令和8年9月28日）",
+        "電話  03-3581-4111 内線2895"
+      ]
+    },
     {
       "at": "2026-09-30 10:10:34",
       "name": "米財務省 プレスリリース",
@@ -249,7 +573,7 @@
       "url": "https://www.fsa.go.jp/news/index.html",
       "added": [
         "「FinTech実証実験ハブ・決済高度化プロジェクト（PIP）」支援決定案件の公表",
-        "「連結財務諸表の用語、様式及び作成方法に関する規則に規定する金融庁長官が定める企業会計の基準を指定する件の\ufffd…",
+        "「連結財務諸表の用語、様式及び作成方法に関する規則に規定する金融庁長官が定める企業会計の基準を指定する件の�…",
         "令和８年９月29日",
         "報道発表資料：金融庁",
         "新潟縣信用組合・興栄信用組合の組織再編成等実施計画の認定の公表",
