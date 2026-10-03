@@ -1,8 +1,8 @@
 {
   "https://home.treasury.gov/news/press-releases": {
-    "hash": "910478395511029f3b964175a0cb49ac2ed2b363292c81dd03a4dc57077fd5b2",
-    "checked_at": "2026-10-02 10:28:15",
-    "changed_at": "2026-10-02 10:28:15",
+    "hash": "c7830526b913417c143e423656d1f0076b3f7eb15f9212338d8d617fa00b3ae0",
+    "checked_at": "2026-10-03 10:01:15",
+    "changed_at": "2026-10-03 10:01:15",
     "lines": [
       "Press Releases | U.S. Department of the Treasury",
       "Skip to main content",
@@ -305,6 +305,12 @@
       "Webcasts",
       "Press Contacts",
       "Press Releases",
+      "October 2, 2026",
+      "URIF Approves Additional Investments and Partnerships in Energy and Critical Minerals",
+      "October 2, 2026",
+      "Treasury Dismantles Major Hamas Financing Network",
+      "October 2, 2026",
+      "The Financial Literacy and Education Commission Releases the 2026 Update to the U.S. National Strategy for Financial Literacy",
       "October 1, 2026",
       "Readouts",
       "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with Iraq Minister of Foreign Affairs Fuad Hussein",
@@ -320,12 +326,6 @@
       "Treasury Sanctions Financial Network of Foreign Terrorist Organization, Tren de Aragua, After Theft of Millions from U.S. Banks",
       "September 30, 2026",
       "U.S. Department of the Treasury and U.S. Department of Education Launch New Defaulted Loans Support Center",
-      "September 29, 2026",
-      "READOUT: Financial Stability Oversight Council Meeting on September 29, 2026",
-      "September 29, 2026",
-      "Operation Economic Outcast Takes Down Iranian Military Procurement Networks",
-      "September 29, 2026",
-      "Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks",
       "Pagination",
       "Current page 1",
       "Page 2",
@@ -387,9 +387,9 @@
     "status": 200
   },
   "https://www.bis.org/publications/": {
-    "hash": "c9f4f2d1f6d5fe000404df4d22b790b0586d0bed23a4e962ee1f30d2a11a0810",
-    "checked_at": "2026-10-02 10:28:15",
-    "changed_at": "2026-10-02 10:28:15",
+    "hash": "983a10be0492bbbdc68dad3091267184103ffb04b84e1d565225e8d0593ba503",
+    "checked_at": "2026-10-03 10:01:15",
+    "changed_at": "2026-10-03 10:01:15",
     "lines": [
       "Publications | Bank for International Settlements",
       "Skip to main content",
@@ -2944,15 +2944,15 @@
       "G18 (47)",
       "G19 (2)",
       "G20 (47)",
-      "G21 (299)",
+      "G21 (300)",
       "G22 (17)",
       "G23 (121)",
-      "G24 (15)",
+      "G24 (16)",
       "G28 (204)",
       "G29 (3)",
       "G30 (20)",
       "G31 (11)",
-      "G32 (53)",
+      "G32 (54)",
       "G33 (9)",
       "G34 (6)",
       "G35 (3)",
@@ -3045,7 +3045,7 @@
       "L21 (2)",
       "L22 (2)",
       "L23 (2)",
-      "L25 (5)",
+      "L25 (6)",
       "L26 (2)",
       "L41 (2)",
       "L50 (9)",
@@ -3161,7 +3161,7 @@
       "BIS Innovation Hub (62)",
       "CBGF (4)",
       "CGFS (81)",
-      "CPMI (279)",
+      "CPMI (278)",
       "FSI (244)",
       "IFC (132)",
       "Markets Committee (26)",
@@ -3247,7 +3247,7 @@
       "Regulatory capital requirements (1)",
       "Resolution and deposit insurance (9)",
       "Supervisory cooperation (70)",
-      "Displaying 1-10 of 5052",
+      "Displaying 1-10 of 5051",
       "Publication",
       "BIS Bulletin",
       "No 137",
@@ -3360,7 +3360,7 @@
   },
   "https://www.boj.or.jp/mopo/mpmdeci/index.htm": {
     "hash": "602b4d245e765c49a9f314b7449e86e3fca98d29835f8c2b38770158fe4569f9",
-    "checked_at": "2026-10-02 10:28:15",
+    "checked_at": "2026-10-03 10:01:15",
     "changed_at": "2026-09-07 16:35:42",
     "lines": [
       "金融政策に関する決定事項等 : 日本銀行 Bank of Japan",
@@ -3628,9 +3628,9 @@
     "status": 200
   },
   "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm": {
-    "hash": "4afc8fdb639d5cbffa7abf80058a35ba346eb34ca18adcf7b8a2c19349ffd1b2",
-    "checked_at": "2026-10-02 10:28:15",
-    "changed_at": "2026-10-02 10:28:15",
+    "hash": "707d73887597fd1786676ec6e1128cf0aaad543e9e0e08ec478143476ac267bd",
+    "checked_at": "2026-10-03 10:01:15",
+    "changed_at": "2026-10-03 10:01:15",
     "lines": [
       "外国為替市況（日次） : 日本銀行 Bank of Japan",
       "このページの本文へ移動",
@@ -3880,6 +3880,8 @@
       "表 公表データ",
       "掲載日",
       "データ",
+      "2026年10月 2日",
+      "外国為替市況（10月2日） [PDF 61KB]",
       "2026年10月 1日",
       "外国為替市況（10月1日） [PDF 61KB]",
       "2026年 9月30日",
@@ -3888,8 +3890,6 @@
       "外国為替市況（9月29日） [PDF 61KB]",
       "2026年 9月28日",
       "外国為替市況（9月28日） [PDF 61KB]",
-      "2026年 9月25日",
-      "外国為替市況（9月25日） [PDF 61KB]",
       "外国為替市況（日次）一覧",
       "参考計数（東京外為市場における取引状況）",
       "表 参考計数（東京外為市場における取引状況）",
@@ -4043,7 +4043,7 @@
   },
   "https://www.fsa.go.jp/news/index.html": {
     "hash": "ee8109996ad8737721659c7a88f1aa97b730a0348cea80a719087d6e7430e7ee",
-    "checked_at": "2026-10-02 10:28:15",
+    "checked_at": "2026-10-03 10:01:15",
     "changed_at": "2026-10-01 10:09:57",
     "lines": [
       "--\u003e",
@@ -4355,14 +4355,14 @@
   },
   "https://www.mas.gov.sg/news": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "checked_at": "2026-10-02 10:28:15",
+    "checked_at": "2026-10-03 10:01:15",
     "changed_at": "2026-09-07 16:35:42",
     "lines": null,
     "status": 200
   },
   "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html": {
     "hash": "83ddc0930b7d434c3d81aa31410c74259045e1b3278520a6c072cb06c78eb466",
-    "checked_at": "2026-10-02 10:28:15",
+    "checked_at": "2026-10-03 10:01:15",
     "changed_at": "2026-10-01 10:09:57",
     "lines": [
       "﻿",
@@ -4489,7 +4489,7 @@
   },
   "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm": {
     "hash": "b1e6db3764661e24023b9a5149d00aecc4fe29f7a922ff89af5894fdfbb93b32",
-    "checked_at": "2026-10-02 10:28:15",
+    "checked_at": "2026-10-03 10:01:15",
     "changed_at": "2026-10-01 10:09:57",
     "lines": [
       "﻿",
@@ -4620,7 +4620,7 @@
   },
   "https://www.sec.gov/news/pressreleases.rss": {
     "hash": "0b0611a02b7037596d23c05e8553f20c7b7aa0b748379144cf3fdb7eed4ef92d",
-    "checked_at": "2026-10-02 10:28:15",
+    "checked_at": "2026-10-03 10:01:15",
     "changed_at": "2026-10-02 10:28:15",
     "lines": [
       "Press Releases",

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02 10:28:15",
+  "generated_at": "2026-10-03 10:01:15",
   "summary": {
-    "changed": 4,
-    "same": 5
+    "changed": 3,
+    "same": 6
   },
   "items": [
     {
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-02 10:28:15",
+      "checked_at": "2026-10-03 10:01:15",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-02 10:28:15",
+      "checked_at": "2026-10-03 10:01:15",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 123
     },
@@ -31,16 +31,16 @@
       "note": "毎営業日・17時レート",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-02 10:28:15",
-      "changed_at": "2026-10-02 10:28:15",
+      "checked_at": "2026-10-03 10:01:15",
+      "changed_at": "2026-10-03 10:01:15",
       "line_count": 406,
       "added": [
-        "2026年10月 1日",
-        "外国為替市況（10月1日） [PDF 61KB]"
+        "2026年10月 2日",
+        "外国為替市況（10月2日） [PDF 61KB]"
       ],
       "removed": [
-        "2026年 9月24日",
-        "外国為替市況（9月24日） [PDF 62KB]"
+        "2026年 9月25日",
+        "外国為替市況（9月25日） [PDF 61KB]"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-02 10:28:15",
+      "checked_at": "2026-10-03 10:01:15",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -59,7 +59,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-02 10:28:15",
+      "checked_at": "2026-10-03 10:01:15",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -67,35 +67,11 @@
       "name": "米SEC プレスリリース",
       "url": "https://www.sec.gov/news/pressreleases.rss",
       "note": "規則案・採択（HTMLは403のためRSS）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-10-02 10:28:15",
+      "checked_at": "2026-10-03 10:01:15",
       "changed_at": "2026-10-02 10:28:15",
-      "line_count": 129,
-      "added": [
-        "5f4d2a6f-0fff-43fc-af68-532921744f75",
-        "SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws",
-        "SEC’s Division of Examinations Announces New Exam Handbook",
-        "The Securities and Exchange Commission today proposed new rules and amendments to provide a tailored framework for the custody of crypto assets for registered i…",
-        "The Securities and Exchange Commission’s Division of Examinations today published its new\u0026nbsp;handbook, “The SEC Exam Handbook: A Practical Guide on Proces…",
-        "Thu, 01 Oct 2026 11:03:35 -0400",
-        "Thu, 01 Oct 2026 12:16:07 -0400",
-        "a6418b36-75ad-41ac-8303-10a13eb4073b",
-        "https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal",
-        "https://www.sec.gov/newsroom/press-releases/2026-99-secs-division-examinations-announces-new-exam-handbook"
-      ],
-      "removed": [
-        "1b55b0cf-217e-4004-9bf7-5ff22562e98c",
-        "543d0d43-3c8a-40d1-823b-2333c50bc407",
-        "Fri, 14 Aug 2026 16:16:34 -0400",
-        "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
-        "SEC Charges Toms River Trio in Connection with Alleged $47 Million Fraud Targeting Orthodox Jewish Communities",
-        "The Securities and Exchange Commission today charged New York resident Andrew Spaventa and three entities he owned and controlled with fraud and other violation…",
-        "The Securities and Exchange Commission today charged three Toms River, New Jersey residents for their roles in an affinity investment fraud that raised approxim…",
-        "Thu, 13 Aug 2026 16:32:19 -0400",
-        "https://www.sec.gov/newsroom/press-releases/2026-74-sec-charges-toms-river-trio-connection-alleged-47-million-fraud-targeting-orthodox-jewish",
-        "https://www.sec.gov/newsroom/press-releases/2026-75-sec-charges-boiler-room-operator-three-entities-defrauding-retail-investors-74-million-pre-ipo"
-      ]
+      "line_count": 129
     },
     {
       "name": "BIS FSI Briefs",
@@ -103,50 +79,24 @@
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-02 10:28:15",
-      "changed_at": "2026-10-02 10:28:15",
+      "checked_at": "2026-10-03 10:01:15",
+      "changed_at": "2026-10-03 10:01:15",
       "line_count": 2964,
       "added": [
-        "01 Oct 2026",
-        "BIS Bulletin (137)",
-        "Bank for International Settlements (2829)",
-        "Between 2021 and 2025, 28.7% of artificial intelligence (AI) firms’ investment deals (by deal value) involved a target company that was also an AI firm, while…",
-        "CPMI (279)",
-        "Circular relationships among AI firms",
-        "E37 (32)",
-        "E44 (179)",
-        "G10 (41)",
-        "G21 (299)",
-        "G22 (17)",
-        "G28 (204)",
-        "Jon Frost (64)",
-        "Jon Frost , Rudraksh Kansal , Kumar Rishabh , Vatsala Shreeti and Leanne Si Ying Zhang",
-        "Kumar Rishabh (7)",
-        "Leanne Si Ying Zhang (5)",
-        "M15 (3)",
-        "No 137",
-        "O33 (43)",
-        "Rudraksh Kansal (2)",
-        "Vatsala Shreeti (17)"
+        "CPMI (278)",
+        "Displaying 1-10 of 5051",
+        "G21 (300)",
+        "G24 (16)",
+        "G32 (54)",
+        "L25 (6)"
       ],
       "removed": [
-        "BIS Bulletin (136)",
-        "Bank for International Settlements (2846)",
-        "CPMI (280)",
-        "Central Bank Research Fellowship Programme",
-        "E37 (31)",
-        "E44 (178)",
-        "G10 (40)",
-        "G21 (298)",
-        "G22 (16)",
-        "G28 (203)",
-        "Jon Frost (63)",
-        "Kumar Rishabh (6)",
-        "Leanne Si Ying Zhang (4)",
-        "M15 (2)",
-        "O33 (42)",
-        "Rudraksh Kansal (1)",
-        "Vatsala Shreeti (16)"
+        "CPMI (279)",
+        "Displaying 1-10 of 5052",
+        "G21 (299)",
+        "G24 (15)",
+        "G32 (53)",
+        "L25 (5)"
       ]
     },
     {
@@ -155,32 +105,24 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-02 10:28:15",
-      "changed_at": "2026-10-02 10:28:15",
+      "checked_at": "2026-10-03 10:01:15",
+      "changed_at": "2026-10-03 10:01:15",
       "line_count": 379,
       "added": [
-        "October 1, 2026",
-        "October 1, 2026",
-        "October 1, 2026",
-        "October 1, 2026",
-        "October 1, 2026",
-        "Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran",
-        "Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines",
-        "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with Iraq Minister of Foreign Affairs Fuad Hussein",
-        "The Trump Administration Advances the Establishment of America’s First Nationwide School Choice Program",
-        "Treasury Announces the Completion of Automatic Enrollment Today for Trump Accounts"
+        "October 2, 2026",
+        "October 2, 2026",
+        "October 2, 2026",
+        "The Financial Literacy and Education Commission Releases the 2026 Update to the U.S. National Strategy for Financial Literacy",
+        "Treasury Dismantles Major Hamas Financing Network",
+        "URIF Approves Additional Investments and Partnerships in Energy and Critical Minerals"
       ],
       "removed": [
-        "Operation Economic Outcast Disrupts Digital Asset Exchange Enabling the Iranian Regime",
-        "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with Lebanese Prime Minister Nawaf Salam and Minister of Finance Yassine Jaber",
-        "Remarks by Deputy Secretary of the Treasury Francis Brooke before the Treasury Market Conference",
-        "September 16, 2026",
-        "September 17, 2026",
-        "September 22, 2026",
-        "September 28, 2026",
-        "September 28, 2026",
-        "Treasury International Capital Data for July 2026",
-        "United States Department of the Treasury Announces David Zervos as Counselor to the Secretary"
+        "Operation Economic Outcast Takes Down Iranian Military Procurement Networks",
+        "READOUT: Financial Stability Oversight Council Meeting on September 29, 2026",
+        "September 29, 2026",
+        "September 29, 2026",
+        "September 29, 2026",
+        "Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks"
       ]
     },
     {
@@ -189,12 +131,67 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-02 10:28:15",
+      "checked_at": "2026-10-03 10:01:15",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-10-03 10:01:15",
+      "name": "米財務省 プレスリリース",
+      "url": "https://home.treasury.gov/news/press-releases",
+      "added": [
+        "October 2, 2026",
+        "October 2, 2026",
+        "October 2, 2026",
+        "The Financial Literacy and Education Commission Releases the 2026 Update to the U.S. National Strategy for Financial Literacy",
+        "Treasury Dismantles Major Hamas Financing Network",
+        "URIF Approves Additional Investments and Partnerships in Energy and Critical Minerals"
+      ],
+      "removed": [
+        "Operation Economic Outcast Takes Down Iranian Military Procurement Networks",
+        "READOUT: Financial Stability Oversight Council Meeting on September 29, 2026",
+        "September 29, 2026",
+        "September 29, 2026",
+        "September 29, 2026",
+        "Treasury Sanctions Sinaloa Cartel Leadership and Corruption Networks"
+      ]
+    },
+    {
+      "at": "2026-10-03 10:01:15",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "CPMI (278)",
+        "Displaying 1-10 of 5051",
+        "G21 (300)",
+        "G24 (16)",
+        "G32 (54)",
+        "L25 (6)"
+      ],
+      "removed": [
+        "CPMI (279)",
+        "Displaying 1-10 of 5052",
+        "G21 (299)",
+        "G24 (15)",
+        "G32 (53)",
+        "L25 (5)"
+      ]
+    },
+    {
+      "at": "2026-10-03 10:01:15",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年10月 2日",
+        "外国為替市況（10月2日） [PDF 61KB]"
+      ],
+      "removed": [
+        "2026年 9月25日",
+        "外国為替市況（9月25日） [PDF 61KB]"
+      ]
+    },
     {
       "at": "2026-10-02 10:28:15",
       "name": "米財務省 プレスリリース",
