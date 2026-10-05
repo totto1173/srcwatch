@@ -1,8 +1,7 @@
 {
-  "generated_at": "2026-10-04 09:25:10",
+  "generated_at": "2026-10-05 09:36:44",
   "summary": {
-    "changed": 1,
-    "same": 8
+    "same": 9
   },
   "items": [
     {
@@ -11,7 +10,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-04 09:25:10",
+      "checked_at": "2026-10-05 09:36:44",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 119
     },
@@ -21,7 +20,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-04 09:25:10",
+      "checked_at": "2026-10-05 09:36:44",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 123
     },
@@ -31,7 +30,7 @@
       "note": "毎営業日・17時レート",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-04 09:25:10",
+      "checked_at": "2026-10-05 09:36:44",
       "changed_at": "2026-10-03 10:01:15",
       "line_count": 406
     },
@@ -41,7 +40,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-04 09:25:10",
+      "checked_at": "2026-10-05 09:36:44",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -51,7 +50,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-04 09:25:10",
+      "checked_at": "2026-10-05 09:36:44",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -61,7 +60,7 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-04 09:25:10",
+      "checked_at": "2026-10-05 09:36:44",
       "changed_at": "2026-10-02 10:28:15",
       "line_count": 129
     },
@@ -71,7 +70,7 @@
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-04 09:25:10",
+      "checked_at": "2026-10-05 09:36:44",
       "changed_at": "2026-10-03 10:01:15",
       "line_count": 2964
     },
@@ -79,17 +78,11 @@
       "name": "米財務省 プレスリリース",
       "url": "https://home.treasury.gov/news/press-releases",
       "note": "GENIUS法の規則・為替報告",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-10-04 09:25:10",
+      "checked_at": "2026-10-05 09:36:44",
       "changed_at": "2026-10-04 09:25:10",
-      "line_count": 380,
-      "added": [
-        "READOUT: Treasury Co-hosts Syrian Banking Roundtable"
-      ],
-      "removed": [
-        "U.S. Department of the Treasury and U.S. Department of Education Launch New Defaulted Loans Support Center"
-      ]
+      "line_count": 380
     },
     {
       "name": "MAS メディアリリース",
@@ -97,7 +90,7 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-04 09:25:10",
+      "checked_at": "2026-10-05 09:36:44",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
