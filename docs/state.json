@@ -1,8 +1,8 @@
 {
   "https://home.treasury.gov/news/press-releases": {
-    "hash": "1a18baa4f4561511511292c5ae936820ad3d183f1f3878f6559f2e050c2300ea",
-    "checked_at": "2026-10-07 10:19:18",
-    "changed_at": "2026-10-07 10:19:18",
+    "hash": "1e29c4513cfeeedb2a841ed72a22fb42e924377d20b83de06ff17e37b65361a0",
+    "checked_at": "2026-10-08 10:40:00",
+    "changed_at": "2026-10-08 10:40:00",
     "lines": [
       "Press Releases | U.S. Department of the Treasury",
       "Skip to main content",
@@ -305,6 +305,8 @@
       "Webcasts",
       "Press Contacts",
       "Press Releases",
+      "October 7, 2026",
+      "Treasury Announces Enforcement Penalty for Violation of Outbound Program",
       "October 6, 2026",
       "Treasury Reports Major Progress in Preventing Fraud and Improper Payments",
       "October 5, 2026",
@@ -325,8 +327,6 @@
       "Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran",
       "October 1, 2026",
       "Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines",
-      "October 1, 2026",
-      "Treasury Announces the Completion of Automatic Enrollment Today for Trump Accounts",
       "Pagination",
       "Current page 1",
       "Page 2",
@@ -389,7 +389,7 @@
   },
   "https://www.bis.org/publications/": {
     "hash": "126cadc7e99a8df204e217533f3d1e73c1dda12ce9109761d7de8e6bd013ad69",
-    "checked_at": "2026-10-07 10:19:18",
+    "checked_at": "2026-10-08 10:40:00",
     "changed_at": "2026-10-07 10:19:18",
     "lines": [
       "Publications | Bank for International Settlements",
@@ -3367,7 +3367,7 @@
   },
   "https://www.boj.or.jp/mopo/mpmdeci/index.htm": {
     "hash": "602b4d245e765c49a9f314b7449e86e3fca98d29835f8c2b38770158fe4569f9",
-    "checked_at": "2026-10-07 10:19:18",
+    "checked_at": "2026-10-08 10:40:00",
     "changed_at": "2026-09-07 16:35:42",
     "lines": [
       "金融政策に関する決定事項等 : 日本銀行 Bank of Japan",
@@ -3635,9 +3635,9 @@
     "status": 200
   },
   "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm": {
-    "hash": "79d53d16bbb668638ada42f6ee208632b7f9cecc6cfe3d945e229fafb9955a70",
-    "checked_at": "2026-10-07 10:19:18",
-    "changed_at": "2026-10-07 10:19:18",
+    "hash": "d8c93d588f0b5dc77f3419719e02f23ec0819a6022eca373db7a5fcac424d3e6",
+    "checked_at": "2026-10-08 10:40:00",
+    "changed_at": "2026-10-08 10:40:00",
     "lines": [
       "外国為替市況（日次） : 日本銀行 Bank of Japan",
       "このページの本文へ移動",
@@ -3887,6 +3887,8 @@
       "表 公表データ",
       "掲載日",
       "データ",
+      "2026年10月 7日",
+      "外国為替市況（10月7日） [PDF 62KB]",
       "2026年10月 6日",
       "外国為替市況（10月6日） [PDF 62KB]",
       "2026年10月 5日",
@@ -3895,8 +3897,6 @@
       "外国為替市況（10月2日） [PDF 61KB]",
       "2026年10月 1日",
       "外国為替市況（10月1日） [PDF 61KB]",
-      "2026年 9月30日",
-      "外国為替市況（9月30日） [PDF 62KB]",
       "外国為替市況（日次）一覧",
       "参考計数（東京外為市場における取引状況）",
       "表 参考計数（東京外為市場における取引状況）",
@@ -4050,7 +4050,7 @@
   },
   "https://www.fsa.go.jp/news/index.html": {
     "hash": "ee8109996ad8737721659c7a88f1aa97b730a0348cea80a719087d6e7430e7ee",
-    "checked_at": "2026-10-07 10:19:18",
+    "checked_at": "2026-10-08 10:40:00",
     "changed_at": "2026-10-01 10:09:57",
     "lines": [
       "--\u003e",
@@ -4362,14 +4362,14 @@
   },
   "https://www.mas.gov.sg/news": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "checked_at": "2026-10-07 10:19:18",
+    "checked_at": "2026-10-08 10:40:00",
     "changed_at": "2026-09-07 16:35:42",
     "lines": null,
     "status": 200
   },
   "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html": {
     "hash": "83ddc0930b7d434c3d81aa31410c74259045e1b3278520a6c072cb06c78eb466",
-    "checked_at": "2026-10-07 10:19:18",
+    "checked_at": "2026-10-08 10:40:00",
     "changed_at": "2026-10-01 10:09:57",
     "lines": [
       "﻿",
@@ -4495,9 +4495,9 @@
     "status": 200
   },
   "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm": {
-    "hash": "b1e6db3764661e24023b9a5149d00aecc4fe29f7a922ff89af5894fdfbb93b32",
-    "checked_at": "2026-10-07 10:19:18",
-    "changed_at": "2026-10-01 10:09:57",
+    "hash": "1dd113ee0d316b32973afc73feeac2656e356313479dfc202da59055501841ae",
+    "checked_at": "2026-10-08 10:40:00",
+    "changed_at": "2026-10-08 10:40:00",
     "lines": [
       "﻿",
       "外貨準備等の状況 : 財務省",
@@ -4596,12 +4596,12 @@
       "公表予定",
       "日時",
       "内容",
-      "令和8年10月7日（水）午前8時50分",
-      "令和8年9月末",
       "令和8年11月1日～9日",
       "令和8年10月末",
       "令和8年12月1日～7日",
       "令和8年11月末",
+      "令和9年1月1日～8日",
+      "令和8年12月末",
       "（注）本表は予定をお知らせするものであり、変更がありえます。",
       "問い合わせ先",
       "国際局為替市場課資金管理室特別会計第３係",
@@ -4623,12 +4623,11 @@
       "Copyright © Ministry of Finance Japan.",
       "All Rights Reserved."
     ],
-    "status": 404,
-    "err": "HTTP 404"
+    "status": 200
   },
   "https://www.sec.gov/news/pressreleases.rss": {
     "hash": "194658a833b32c3cc7be38adc697034f5f7e0263b5492df7c817f55d3f46ddc4",
-    "checked_at": "2026-10-07 10:19:18",
+    "checked_at": "2026-10-08 10:40:00",
     "changed_at": "2026-10-07 10:19:18",
     "lines": [
       "Press Releases",
