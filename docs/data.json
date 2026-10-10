@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09 10:53:10",
+  "generated_at": "2026-10-10 10:35:23",
   "summary": {
     "changed": 3,
     "same": 6
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-09 10:53:10",
+      "checked_at": "2026-10-10 10:35:23",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-09 10:53:10",
+      "checked_at": "2026-10-10 10:35:23",
       "changed_at": "2026-10-08 10:40:00",
       "line_count": 123
     },
@@ -31,16 +31,16 @@
       "note": "毎営業日・17時レート",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-09 10:53:10",
-      "changed_at": "2026-10-09 10:53:10",
+      "checked_at": "2026-10-10 10:35:23",
+      "changed_at": "2026-10-10 10:35:23",
       "line_count": 406,
       "added": [
-        "2026年10月 8日",
-        "外国為替市況（10月8日） [PDF 62KB]"
+        "2026年10月 9日",
+        "外国為替市況（10月9日） [PDF 61KB]"
       ],
       "removed": [
-        "2026年10月 1日",
-        "外国為替市況（10月1日） [PDF 61KB]"
+        "2026年10月 2日",
+        "外国為替市況（10月2日） [PDF 61KB]"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-09 10:53:10",
+      "checked_at": "2026-10-10 10:35:23",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -59,7 +59,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-09 10:53:10",
+      "checked_at": "2026-10-10 10:35:23",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -67,51 +67,35 @@
       "name": "米SEC プレスリリース",
       "url": "https://www.sec.gov/news/pressreleases.rss",
       "note": "規則案・採択（HTMLは403のためRSS）",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-09 10:53:10",
-      "changed_at": "2026-10-07 10:19:18",
-      "line_count": 129
+      "checked_at": "2026-10-10 10:35:23",
+      "changed_at": "2026-10-10 10:35:23",
+      "line_count": 129,
+      "added": [
+        "Fri, 09 Oct 2026 10:59:00 -0400",
+        "SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds",
+        "The Securities and Exchange Commission today proposed amendments to the Investment Company Act “cross-trading rule,” which permits transactions in securitie…",
+        "d1fd3bfa-e932-4aa7-a7ee-8ca856f3e27a",
+        "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds"
+      ],
+      "removed": [
+        "82191acc-5985-4b1a-96c4-6508f92ec06c",
+        "Fri, 28 Aug 2026 13:33:00 -0400",
+        "SEC Proposes Amendments to Exchange Act Rule 3a12-8 to Add European Union Debt Obligations",
+        "The Securities and Exchange Commission today proposed amendments to Rule 3a12-8 under the Securities Exchange Act of 1934 to add the debt obligations of the Eur…",
+        "https://www.sec.gov/newsroom/press-releases/2026-79-sec-proposes-amendments-exchange-act-rule-3a12-8-add-european-union-debt-obligations"
+      ]
     },
     {
       "name": "BIS FSI Briefs",
       "url": "https://www.bis.org/publications/",
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-10-09 10:53:10",
+      "checked_at": "2026-10-10 10:35:23",
       "changed_at": "2026-10-09 10:53:10",
-      "line_count": 2971,
-      "added": [
-        "08 Oct 2026",
-        "Artificial intelligence (AI) is becoming an increasingly important factor in the climate transition. AI can improve energy efficiency, optimise resource use, ac…",
-        "Artificial intelligence and climate change: balancing innovation and sustainability",
-        "BIS Paper (176)",
-        "Bank for International Settlements (2836)",
-        "Displaying 1-10 of 5059",
-        "Leonardo Gambacorta (124)",
-        "Leonardo Gambacorta and Salvatore Polizzi",
-        "No 174",
-        "O33 (44)",
-        "Q51 (1)",
-        "Q55 (3)",
-        "Salvatore Polizzi (2)"
-      ],
-      "removed": [
-        "17 Sep 2026",
-        "Author:",
-        "BIS Paper (175)",
-        "Bank for International Settlements (2835)",
-        "Displaying 1-10 of 5058",
-        "Enisse Kharroubi",
-        "Leonardo Gambacorta (123)",
-        "Maritime chokepoints and the global economy: evidence from the Strait of Hormuz",
-        "No 1378",
-        "O33 (43)",
-        "Q55 (2)",
-        "Salvatore Polizzi (1)",
-        "The conflict in the Middle East and the subsequent disruption of traffic in the Strait of Hormuz have triggered an unprecedented shock to the global economy. Us…"
-      ]
+      "line_count": 2971
     },
     {
       "name": "米財務省 プレスリリース",
@@ -119,15 +103,15 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-09 10:53:10",
-      "changed_at": "2026-10-09 10:53:10",
+      "checked_at": "2026-10-10 10:35:23",
+      "changed_at": "2026-10-10 10:35:23",
       "line_count": 380,
       "added": [
-        "October 8, 2026",
-        "Operation Economic Outcast Neutralizes Iranian Regime’s Remaining Shadow Fleet Network"
+        "October 9, 2026",
+        "United States Department of the Treasury Announces New Appointment"
       ],
       "removed": [
-        "Operation Economic Outcast Targets Iran’s Remaining Industrial Lifelines"
+        "Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran"
       ]
     },
     {
@@ -136,12 +120,56 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-09 10:53:10",
+      "checked_at": "2026-10-10 10:35:23",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-10-10 10:35:23",
+      "name": "米財務省 プレスリリース",
+      "url": "https://home.treasury.gov/news/press-releases",
+      "added": [
+        "October 9, 2026",
+        "United States Department of the Treasury Announces New Appointment"
+      ],
+      "removed": [
+        "Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran"
+      ]
+    },
+    {
+      "at": "2026-10-10 10:35:23",
+      "name": "米SEC プレスリリース",
+      "url": "https://www.sec.gov/news/pressreleases.rss",
+      "added": [
+        "Fri, 09 Oct 2026 10:59:00 -0400",
+        "SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds",
+        "The Securities and Exchange Commission today proposed amendments to the Investment Company Act “cross-trading rule,” which permits transactions in securitie…",
+        "d1fd3bfa-e932-4aa7-a7ee-8ca856f3e27a",
+        "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds"
+      ],
+      "removed": [
+        "82191acc-5985-4b1a-96c4-6508f92ec06c",
+        "Fri, 28 Aug 2026 13:33:00 -0400",
+        "SEC Proposes Amendments to Exchange Act Rule 3a12-8 to Add European Union Debt Obligations",
+        "The Securities and Exchange Commission today proposed amendments to Rule 3a12-8 under the Securities Exchange Act of 1934 to add the debt obligations of the Eur…",
+        "https://www.sec.gov/newsroom/press-releases/2026-79-sec-proposes-amendments-exchange-act-rule-3a12-8-add-european-union-debt-obligations"
+      ]
+    },
+    {
+      "at": "2026-10-10 10:35:23",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年10月 9日",
+        "外国為替市況（10月9日） [PDF 61KB]"
+      ],
+      "removed": [
+        "2026年10月 2日",
+        "外国為替市況（10月2日） [PDF 61KB]"
+      ]
+    },
     {
       "at": "2026-10-09 10:53:10",
       "name": "米財務省 プレスリリース",

@@ -1,8 +1,8 @@
 {
   "https://home.treasury.gov/news/press-releases": {
-    "hash": "dcd9088a0befb87a100c907bd622de2a61753f942a09ca22ca58ce06336576a8",
-    "checked_at": "2026-10-09 10:53:10",
-    "changed_at": "2026-10-09 10:53:10",
+    "hash": "7bfaee6ad2c347e5ca52ad2593b38fe60bb7200438fab3696a4601b2b2ab9ba4",
+    "checked_at": "2026-10-10 10:35:23",
+    "changed_at": "2026-10-10 10:35:23",
     "lines": [
       "Press Releases | U.S. Department of the Treasury",
       "Skip to main content",
@@ -305,6 +305,8 @@
       "Webcasts",
       "Press Contacts",
       "Press Releases",
+      "October 9, 2026",
+      "United States Department of the Treasury Announces New Appointment",
       "October 8, 2026",
       "Operation Economic Outcast Neutralizes Iranian Regime’s Remaining Shadow Fleet Network",
       "October 7, 2026",
@@ -325,8 +327,6 @@
       "October 1, 2026",
       "Readouts",
       "READOUT: Treasury Co-hosts Syrian Banking Roundtable",
-      "October 1, 2026",
-      "Operation Economic Outcast Takes Unprecedented Action Against Sanctions Evasion Network Used by Iran",
       "Pagination",
       "Current page 1",
       "Page 2",
@@ -389,7 +389,7 @@
   },
   "https://www.bis.org/publications/": {
     "hash": "dd250e0a666dd22ec055ed5c69ee53b1613b4fb82d4181f77ed6ceac8b744745",
-    "checked_at": "2026-10-09 10:53:10",
+    "checked_at": "2026-10-10 10:35:23",
     "changed_at": "2026-10-09 10:53:10",
     "lines": [
       "Publications | Bank for International Settlements",
@@ -3368,7 +3368,7 @@
   },
   "https://www.boj.or.jp/mopo/mpmdeci/index.htm": {
     "hash": "602b4d245e765c49a9f314b7449e86e3fca98d29835f8c2b38770158fe4569f9",
-    "checked_at": "2026-10-09 10:53:10",
+    "checked_at": "2026-10-10 10:35:23",
     "changed_at": "2026-09-07 16:35:42",
     "lines": [
       "金融政策に関する決定事項等 : 日本銀行 Bank of Japan",
@@ -3636,9 +3636,9 @@
     "status": 200
   },
   "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm": {
-    "hash": "ec9a84433e1a80fd537f0231c6082f541d1034e46800662392a24abcc0ceb391",
-    "checked_at": "2026-10-09 10:53:10",
-    "changed_at": "2026-10-09 10:53:10",
+    "hash": "a6c4cea3b30dad36802b030fd44ff4639978022008c2078954b0d2d760757757",
+    "checked_at": "2026-10-10 10:35:23",
+    "changed_at": "2026-10-10 10:35:23",
     "lines": [
       "外国為替市況（日次） : 日本銀行 Bank of Japan",
       "このページの本文へ移動",
@@ -3888,6 +3888,8 @@
       "表 公表データ",
       "掲載日",
       "データ",
+      "2026年10月 9日",
+      "外国為替市況（10月9日） [PDF 61KB]",
       "2026年10月 8日",
       "外国為替市況（10月8日） [PDF 62KB]",
       "2026年10月 7日",
@@ -3896,8 +3898,6 @@
       "外国為替市況（10月6日） [PDF 62KB]",
       "2026年10月 5日",
       "外国為替市況（10月5日） [PDF 62KB]",
-      "2026年10月 2日",
-      "外国為替市況（10月2日） [PDF 61KB]",
       "外国為替市況（日次）一覧",
       "参考計数（東京外為市場における取引状況）",
       "表 参考計数（東京外為市場における取引状況）",
@@ -4051,7 +4051,7 @@
   },
   "https://www.fsa.go.jp/news/index.html": {
     "hash": "ee8109996ad8737721659c7a88f1aa97b730a0348cea80a719087d6e7430e7ee",
-    "checked_at": "2026-10-09 10:53:10",
+    "checked_at": "2026-10-10 10:35:23",
     "changed_at": "2026-10-01 10:09:57",
     "lines": [
       "--\u003e",
@@ -4363,14 +4363,14 @@
   },
   "https://www.mas.gov.sg/news": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "checked_at": "2026-10-09 10:53:10",
+    "checked_at": "2026-10-10 10:35:23",
     "changed_at": "2026-09-07 16:35:42",
     "lines": null,
     "status": 200
   },
   "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html": {
     "hash": "83ddc0930b7d434c3d81aa31410c74259045e1b3278520a6c072cb06c78eb466",
-    "checked_at": "2026-10-09 10:53:10",
+    "checked_at": "2026-10-10 10:35:23",
     "changed_at": "2026-10-01 10:09:57",
     "lines": [
       "﻿",
@@ -4497,7 +4497,7 @@
   },
   "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm": {
     "hash": "1dd113ee0d316b32973afc73feeac2656e356313479dfc202da59055501841ae",
-    "checked_at": "2026-10-09 10:53:10",
+    "checked_at": "2026-10-10 10:35:23",
     "changed_at": "2026-10-08 10:40:00",
     "lines": [
       "﻿",
@@ -4627,14 +4627,19 @@
     "status": 200
   },
   "https://www.sec.gov/news/pressreleases.rss": {
-    "hash": "194658a833b32c3cc7be38adc697034f5f7e0263b5492df7c817f55d3f46ddc4",
-    "checked_at": "2026-10-09 10:53:10",
-    "changed_at": "2026-10-07 10:19:18",
+    "hash": "a551379ddb6a7708524bb4f1f97e073595933c94ecc4f30ec82edfd2d12b4cb7",
+    "checked_at": "2026-10-10 10:35:23",
+    "changed_at": "2026-10-10 10:35:23",
     "lines": [
       "Press Releases",
       "https://www.sec.gov/",
       "Official announcements highlighting recent actions taken by the SEC and other newsworthy information.",
       "en",
+      "SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds",
+      "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
+      "The Securities and Exchange Commission today proposed amendments to the Investment Company Act “cross-trading rule,” which permits transactions in securities between a registered fund and its affiliates under certain conditions. The proposed amendments…",
+      "Fri, 09 Oct 2026 10:59:00 -0400",
+      "d1fd3bfa-e932-4aa7-a7ee-8ca856f3e27a",
       "SEC Seeks Final Judgment Against Former Western Asset Co-CIO Ken Leech in Cherry Picking Case",
       "https://www.sec.gov/newsroom/press-releases/2026-103-sec-seeks-final-judgment-against-former-western-asset-co-cio-ken-leech-cherry-picking-case",
       "The Securities and Exchange Commission today moved for entry of a final judgment by consent against Stephen Kenneth Leech II, the former co-chief investment officer of registered investment adviser Western Asset Management Company LLC, whom the SEC…",
@@ -4754,12 +4759,7 @@
       "https://www.sec.gov/newsroom/press-releases/2026-80-sec-fda-announce-mou-bolster-cooperation-ensure-market-integrity",
       "The Securities and Exchange Commission and the Food and Drug Administration today\u0026nbsp;announced that they have entered into a Memorandum of Understanding (MOU) designed to assist the agencies in carrying out their respective missions of ensuring the…",
       "Mon, 31 Aug 2026 14:24:32 -0400",
-      "1942e114-32dd-492b-b092-3ee2d71324bd",
-      "SEC Proposes Amendments to Exchange Act Rule 3a12-8 to Add European Union Debt Obligations",
-      "https://www.sec.gov/newsroom/press-releases/2026-79-sec-proposes-amendments-exchange-act-rule-3a12-8-add-european-union-debt-obligations",
-      "The Securities and Exchange Commission today proposed amendments to Rule 3a12-8 under the Securities Exchange Act of 1934 to add the debt obligations of the European Union (EU) to the list of foreign government debt obligations designated as \"exempted…",
-      "Fri, 28 Aug 2026 13:33:00 -0400",
-      "82191acc-5985-4b1a-96c4-6508f92ec06c"
+      "1942e114-32dd-492b-b092-3ee2d71324bd"
     ],
     "status": 200
   }
