@@ -1,7 +1,8 @@
 {
-  "generated_at": "2026-10-12 10:06:22",
+  "generated_at": "2026-10-13 11:55:35",
   "summary": {
-    "same": 9
+    "changed": 1,
+    "same": 8
   },
   "items": [
     {
@@ -10,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-12 10:06:22",
+      "checked_at": "2026-10-13 11:55:35",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 119
     },
@@ -20,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-12 10:06:22",
+      "checked_at": "2026-10-13 11:55:35",
       "changed_at": "2026-10-08 10:40:00",
       "line_count": 123
     },
@@ -30,7 +31,7 @@
       "note": "毎営業日・17時レート",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-12 10:06:22",
+      "checked_at": "2026-10-13 11:55:35",
       "changed_at": "2026-10-10 10:35:23",
       "line_count": 406
     },
@@ -40,7 +41,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-12 10:06:22",
+      "checked_at": "2026-10-13 11:55:35",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -50,7 +51,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-12 10:06:22",
+      "checked_at": "2026-10-13 11:55:35",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -60,7 +61,7 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-12 10:06:22",
+      "checked_at": "2026-10-13 11:55:35",
       "changed_at": "2026-10-10 10:35:23",
       "line_count": 129
     },
@@ -68,11 +69,47 @@
       "name": "BIS FSI Briefs",
       "url": "https://www.bis.org/publications/",
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-12 10:06:22",
-      "changed_at": "2026-10-09 10:53:10",
-      "line_count": 2971
+      "checked_at": "2026-10-13 11:55:35",
+      "changed_at": "2026-10-13 11:55:35",
+      "line_count": 2975,
+      "added": [
+        "12 Oct 2026",
+        "Author:",
+        "BIS Working Paper (1389)",
+        "Bank for International Settlements (2837)",
+        "Displaying 1-10 of 5060",
+        "E22 (12)",
+        "E43 (104)",
+        "E52 (255)",
+        "Innovation and fintech",
+        "Innovation and fintech (8)",
+        "No 1381",
+        "O31 (17)",
+        "O33 (45)",
+        "O41 (2)",
+        "Phurichai Rungcharoenkitkul",
+        "Phurichai Rungcharoenkitkul (28)",
+        "Transformative AI and demand bottlenecks",
+        "Transformative AI promises to accelerate growth through productivity enhancement and automation. Yet automation on such a scale would raise the share of investm…"
+      ],
+      "removed": [
+        "BIS Working Paper (1388)",
+        "Bank for International Settlements (2836)",
+        "Basel III monitoring report",
+        "Displaying 1-10 of 5059",
+        "E22 (11)",
+        "E43 (103)",
+        "E52 (254)",
+        "Innovation and fintech (7)",
+        "O31 (16)",
+        "O33 (44)",
+        "O41 (1)",
+        "Phurichai Rungcharoenkitkul (27)",
+        "QIS",
+        "This report summarises the results of the Basel III monitoring exercise as of 31 December 2025."
+      ]
     },
     {
       "name": "米財務省 プレスリリース",
@@ -80,7 +117,7 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-12 10:06:22",
+      "checked_at": "2026-10-13 11:55:35",
       "changed_at": "2026-10-10 10:35:23",
       "line_count": 380
     },
@@ -90,12 +127,53 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-12 10:06:22",
+      "checked_at": "2026-10-13 11:55:35",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-10-13 11:55:35",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "12 Oct 2026",
+        "Author:",
+        "BIS Working Paper (1389)",
+        "Bank for International Settlements (2837)",
+        "Displaying 1-10 of 5060",
+        "E22 (12)",
+        "E43 (104)",
+        "E52 (255)",
+        "Innovation and fintech",
+        "Innovation and fintech (8)",
+        "No 1381",
+        "O31 (17)",
+        "O33 (45)",
+        "O41 (2)",
+        "Phurichai Rungcharoenkitkul",
+        "Phurichai Rungcharoenkitkul (28)",
+        "Transformative AI and demand bottlenecks",
+        "Transformative AI promises to accelerate growth through productivity enhancement and automation. Yet automation on such a scale would raise the share of investm…"
+      ],
+      "removed": [
+        "BIS Working Paper (1388)",
+        "Bank for International Settlements (2836)",
+        "Basel III monitoring report",
+        "Displaying 1-10 of 5059",
+        "E22 (11)",
+        "E43 (103)",
+        "E52 (254)",
+        "Innovation and fintech (7)",
+        "O31 (16)",
+        "O33 (44)",
+        "O41 (1)",
+        "Phurichai Rungcharoenkitkul (27)",
+        "QIS",
+        "This report summarises the results of the Basel III monitoring exercise as of 31 December 2025."
+      ]
+    },
     {
       "at": "2026-10-10 10:35:23",
       "name": "米財務省 プレスリリース",
