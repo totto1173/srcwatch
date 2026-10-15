@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14 10:01:15",
+  "generated_at": "2026-10-15 09:22:23",
   "summary": {
-    "changed": 3,
-    "same": 6
+    "changed": 4,
+    "same": 5
   },
   "items": [
     {
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-14 10:01:15",
+      "checked_at": "2026-10-15 09:22:23",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-14 10:01:15",
+      "checked_at": "2026-10-15 09:22:23",
       "changed_at": "2026-10-08 10:40:00",
       "line_count": 123
     },
@@ -31,16 +31,16 @@
       "note": "毎営業日・17時レート",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-14 10:01:15",
-      "changed_at": "2026-10-14 10:01:15",
+      "checked_at": "2026-10-15 09:22:23",
+      "changed_at": "2026-10-15 09:22:23",
       "line_count": 406,
       "added": [
-        "2026年10月13日",
-        "外国為替市況（10月13日） [PDF 62KB]"
+        "2026年10月14日",
+        "外国為替市況（10月14日） [PDF 62KB]"
       ],
       "removed": [
-        "2026年10月 5日",
-        "外国為替市況（10月5日） [PDF 62KB]"
+        "2026年10月 6日",
+        "外国為替市況（10月6日） [PDF 62KB]"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-14 10:01:15",
+      "checked_at": "2026-10-15 09:22:23",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -59,7 +59,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-14 10:01:15",
+      "checked_at": "2026-10-15 09:22:23",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -67,11 +67,25 @@
       "name": "米SEC プレスリリース",
       "url": "https://www.sec.gov/news/pressreleases.rss",
       "note": "規則案・採択（HTMLは403のためRSS）",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-14 10:01:15",
-      "changed_at": "2026-10-10 10:35:23",
-      "line_count": 129
+      "checked_at": "2026-10-15 09:22:23",
+      "changed_at": "2026-10-15 09:22:23",
+      "line_count": 129,
+      "added": [
+        "24cedc35-40a2-45f1-a64e-40656c3ddcbf",
+        "SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding",
+        "The\u0026nbsp;Securities and Exchange Commission’s\u0026nbsp;Small Business Capital Formation Advisory Committee announced that it will hold a meeting on Tuesday, Octob…",
+        "Wed, 14 Oct 2026 10:30:47 -0400",
+        "https://www.sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding"
+      ],
+      "removed": [
+        "1942e114-32dd-492b-b092-3ee2d71324bd",
+        "Mon, 31 Aug 2026 14:24:32 -0400",
+        "SEC and FDA Announce MOU to Bolster Cooperation and Ensure Market Integrity",
+        "The Securities and Exchange Commission and the Food and Drug Administration today\u0026nbsp;announced that they have entered into a Memorandum of Understanding (MOU)…",
+        "https://www.sec.gov/newsroom/press-releases/2026-80-sec-fda-announce-mou-bolster-cooperation-ensure-market-integrity"
+      ]
     },
     {
       "name": "BIS FSI Briefs",
@@ -79,95 +93,56 @@
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-14 10:01:15",
-      "changed_at": "2026-10-14 10:01:15",
-      "line_count": 2967,
+      "checked_at": "2026-10-15 09:22:23",
+      "changed_at": "2026-10-15 09:22:23",
+      "line_count": 2963,
       "added": [
-        "13 Oct 2026",
-        "13 Oct 2026",
-        "13 Oct 2026",
-        "13 Oct 2026",
-        "13 Oct 2026",
-        "13 Oct 2026",
-        "13 Oct 2026",
-        "13 Oct 2026",
-        "Are stablecoins and bank deposits substitutes?",
-        "BCBS (811)",
-        "BIS Innovation Hub (63)",
-        "BIS Working Paper (1390)",
-        "Bank for International Settlements (2838)",
-        "Current (302)",
-        "Displaying 1-10 of 5068",
-        "E42 (87)",
-        "E43 (105)",
-        "G21 (301)",
-        "G23 (122)",
-        "Implementation reports",
-        "Implementation reports",
-        "Implementation reports",
-        "Implementation reports",
-        "Implementation reports",
-        "Implementation reports",
-        "Implementation reports (149)",
-        "Innovation and fintech (9)",
-        "Iñaki Aldasoro (63)",
-        "Leverage ratio",
-        "Leverage ratio",
-        "Leverage ratio",
-        "Leverage ratio",
-        "Leverage ratio",
-        "Leverage ratio",
-        "Leverage ratio (25)",
-        "No 1382",
-        "Project Aurum Phase 2 implements a privacy-preserving digital cash prototype upon the existing Aurum codebase to enhance policymakers’ understanding how priva…",
-        "Project Aurum Phase 2: exploring privacy-enhancing technologies for digital cash",
-        "Puriya Abbassi (1)",
-        "Rashad Ahmed (4)"
+        "14 Oct 2026",
+        "14 Oct 2026",
+        "BIS Paper (177)",
+        "Bank for International Settlements (2839)",
+        "CPMI (279)",
+        "CPMI Papers",
+        "CPMI Papers (226)",
+        "Displaying 1-10 of 5070",
+        "E40 (36)",
+        "E42 (88)",
+        "E50 (53)",
+        "E58 (262)",
+        "FMIs’ management of general business risks and general business losses: further guidance to the PFMI – final report",
+        "G21 (302)",
+        "G23 (123)",
+        "Iñaki Aldasoro",
+        "Iñaki Aldasoro (64)",
+        "Money and the architecture of trust",
+        "Money is one of the most consequential social institutions humanity has built. Starting from the most elementary monetary act, a payment, this paper provides an…",
+        "No 175",
+        "This report sets out guidance for financial market infrastructures (FMIs) and relevant authorities on certain principles and key considerations relating to (FMI…"
       ],
       "removed": [
-        "01 Oct 2026",
-        "06 Oct 2026",
-        "23 Sep 2026",
-        "24 Sep 2026",
-        "25 Sep 2026",
-        "28 Sep 2026",
-        "29 Sep 2026",
-        "30 Sep 2026",
-        "BCBS (805)",
-        "BIS Bulletin",
-        "BIS Bulletin",
-        "BIS Bulletin",
-        "BIS Innovation Hub (62)",
-        "BIS Working Paper (1389)",
-        "Bank for International Settlements (2837)",
-        "Banking",
-        "Banking",
-        "Between 2021 and 2025, 28.7% of artificial intelligence (AI) firms’ investment deals (by deal value) involved a target company that was also an AI firm, while…",
-        "Chasing El Dorado: gold under shifting geopolitical and financial conditions",
-        "Christof Fetzer , Co-Pierre Georg , Jack Ho , Bingle Kruger , Julius Wetzel and Jakub Demski",
-        "Circular relationships among AI firms",
-        "Core Principles for Effective Deposit Insurance Systems – Executive Summary",
-        "Crisis management",
-        "Current (296)",
-        "Displaying 1-10 of 5060",
-        "E42 (86)",
-        "E43 (104)",
-        "FSI Executive Summaries",
-        "FSI Occasional Papers",
-        "G21 (300)",
-        "G23 (121)",
-        "Governance",
-        "High public debt, NBFIs and the risk of market dysfunction",
-        "Implementation reports (143)",
-        "Innovation and fintech (8)",
-        "Iñaki Aldasoro (62)",
-        "Iñaki Aldasoro , Sebastian Doerr and Daniel Rees",
-        "Jon Frost , Rudraksh Kansal , Kumar Rishabh , Vatsala Shreeti and Leanne Si Ying Zhang",
-        "Leverage ratio (19)",
-        "Mathias Drehmann and Sonya Zhu"
-      ],
-      "added_more": 21,
-      "removed_more": 22
+        "08 Oct 2026",
+        "12 Oct 2026",
+        "Artificial intelligence (AI) is becoming an increasingly important factor in the climate transition. AI can improve energy efficiency, optimise resource use, ac…",
+        "Artificial intelligence and climate change: balancing innovation and sustainability",
+        "BIS Paper (176)",
+        "Bank for International Settlements (2838)",
+        "CPMI (278)",
+        "CPMI Papers (225)",
+        "Displaying 1-10 of 5068",
+        "E40 (35)",
+        "E42 (87)",
+        "E50 (52)",
+        "E58 (261)",
+        "G21 (301)",
+        "G23 (122)",
+        "Iñaki Aldasoro (63)",
+        "Leonardo Gambacorta and Salvatore Polizzi",
+        "No 1381",
+        "No 174",
+        "Phurichai Rungcharoenkitkul",
+        "Transformative AI and demand bottlenecks",
+        "Transformative AI promises to accelerate growth through productivity enhancement and automation. Yet automation on such a scale would raise the share of investm…"
+      ]
     },
     {
       "name": "米財務省 プレスリリース",
@@ -175,23 +150,20 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-14 10:01:15",
-      "changed_at": "2026-10-14 10:01:15",
+      "checked_at": "2026-10-15 09:22:23",
+      "changed_at": "2026-10-15 09:22:23",
       "line_count": 379,
       "added": [
-        "October 13, 2026",
-        "October 13, 2026",
-        "October 13, 2026",
-        "READOUT: Secretary of the Treasury Scott Bessent’s Introductory Call with Republic of Korea Deputy Prime Minister Lee Hyoung-il",
-        "Treasury Targets Cartel del Noreste’s Horse Racing Enterprise and Expansive Criminal Network",
-        "U.S. Treasury Announces Record Enforcement Actions Against Bank of America"
+        "October 14, 2026",
+        "October 14, 2026",
+        "Statement from U.S. Secretary of the Treasury Scott Bessent for the World Bank Development Committee and IMF International Monetary and Financial Committee",
+        "Treasury and IRS Move to Protect Health Care Benefits for Eligible Americans"
       ],
       "removed": [
-        "October 1, 2026",
-        "October 1, 2026",
-        "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with Iraq Minister of Foreign Affairs Fuad Hussein",
-        "READOUT: Treasury Co-hosts Syrian Banking Roundtable",
-        "The Financial Literacy and Education Commission Releases the 2026 Update to the U.S. National Strategy for Financial Literacy"
+        "October 2, 2026",
+        "October 2, 2026",
+        "Treasury Dismantles Major Hamas Financing Network",
+        "URIF Approves Additional Investments and Partnerships in Energy and Critical Minerals"
       ]
     },
     {
@@ -200,12 +172,113 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-14 10:01:15",
+      "checked_at": "2026-10-15 09:22:23",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-10-15 09:22:23",
+      "name": "米財務省 プレスリリース",
+      "url": "https://home.treasury.gov/news/press-releases",
+      "added": [
+        "October 14, 2026",
+        "October 14, 2026",
+        "Statement from U.S. Secretary of the Treasury Scott Bessent for the World Bank Development Committee and IMF International Monetary and Financial Committee",
+        "Treasury and IRS Move to Protect Health Care Benefits for Eligible Americans"
+      ],
+      "removed": [
+        "October 2, 2026",
+        "October 2, 2026",
+        "Treasury Dismantles Major Hamas Financing Network",
+        "URIF Approves Additional Investments and Partnerships in Energy and Critical Minerals"
+      ]
+    },
+    {
+      "at": "2026-10-15 09:22:23",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "14 Oct 2026",
+        "14 Oct 2026",
+        "BIS Paper (177)",
+        "Bank for International Settlements (2839)",
+        "CPMI (279)",
+        "CPMI Papers",
+        "CPMI Papers (226)",
+        "Displaying 1-10 of 5070",
+        "E40 (36)",
+        "E42 (88)",
+        "E50 (53)",
+        "E58 (262)",
+        "FMIs’ management of general business risks and general business losses: further guidance to the PFMI – final report",
+        "G21 (302)",
+        "G23 (123)",
+        "Iñaki Aldasoro",
+        "Iñaki Aldasoro (64)",
+        "Money and the architecture of trust",
+        "Money is one of the most consequential social institutions humanity has built. Starting from the most elementary monetary act, a payment, this paper provides an…",
+        "No 175",
+        "This report sets out guidance for financial market infrastructures (FMIs) and relevant authorities on certain principles and key considerations relating to (FMI…"
+      ],
+      "removed": [
+        "08 Oct 2026",
+        "12 Oct 2026",
+        "Artificial intelligence (AI) is becoming an increasingly important factor in the climate transition. AI can improve energy efficiency, optimise resource use, ac…",
+        "Artificial intelligence and climate change: balancing innovation and sustainability",
+        "BIS Paper (176)",
+        "Bank for International Settlements (2838)",
+        "CPMI (278)",
+        "CPMI Papers (225)",
+        "Displaying 1-10 of 5068",
+        "E40 (35)",
+        "E42 (87)",
+        "E50 (52)",
+        "E58 (261)",
+        "G21 (301)",
+        "G23 (122)",
+        "Iñaki Aldasoro (63)",
+        "Leonardo Gambacorta and Salvatore Polizzi",
+        "No 1381",
+        "No 174",
+        "Phurichai Rungcharoenkitkul",
+        "Transformative AI and demand bottlenecks",
+        "Transformative AI promises to accelerate growth through productivity enhancement and automation. Yet automation on such a scale would raise the share of investm…"
+      ]
+    },
+    {
+      "at": "2026-10-15 09:22:23",
+      "name": "米SEC プレスリリース",
+      "url": "https://www.sec.gov/news/pressreleases.rss",
+      "added": [
+        "24cedc35-40a2-45f1-a64e-40656c3ddcbf",
+        "SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding",
+        "The\u0026nbsp;Securities and Exchange Commission’s\u0026nbsp;Small Business Capital Formation Advisory Committee announced that it will hold a meeting on Tuesday, Octob…",
+        "Wed, 14 Oct 2026 10:30:47 -0400",
+        "https://www.sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding"
+      ],
+      "removed": [
+        "1942e114-32dd-492b-b092-3ee2d71324bd",
+        "Mon, 31 Aug 2026 14:24:32 -0400",
+        "SEC and FDA Announce MOU to Bolster Cooperation and Ensure Market Integrity",
+        "The Securities and Exchange Commission and the Food and Drug Administration today\u0026nbsp;announced that they have entered into a Memorandum of Understanding (MOU)…",
+        "https://www.sec.gov/newsroom/press-releases/2026-80-sec-fda-announce-mou-bolster-cooperation-ensure-market-integrity"
+      ]
+    },
+    {
+      "at": "2026-10-15 09:22:23",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年10月14日",
+        "外国為替市況（10月14日） [PDF 62KB]"
+      ],
+      "removed": [
+        "2026年10月 6日",
+        "外国為替市況（10月6日） [PDF 62KB]"
+      ]
+    },
     {
       "at": "2026-10-14 10:01:15",
       "name": "米財務省 プレスリリース",
