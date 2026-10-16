@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15 09:22:23",
+  "generated_at": "2026-10-16 09:10:34",
   "summary": {
-    "changed": 4,
-    "same": 5
+    "changed": 3,
+    "same": 6
   },
   "items": [
     {
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-15 09:22:23",
+      "checked_at": "2026-10-16 09:10:34",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-15 09:22:23",
+      "checked_at": "2026-10-16 09:10:34",
       "changed_at": "2026-10-08 10:40:00",
       "line_count": 123
     },
@@ -31,16 +31,16 @@
       "note": "毎営業日・17時レート",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-15 09:22:23",
-      "changed_at": "2026-10-15 09:22:23",
+      "checked_at": "2026-10-16 09:10:34",
+      "changed_at": "2026-10-16 09:10:34",
       "line_count": 406,
       "added": [
-        "2026年10月14日",
-        "外国為替市況（10月14日） [PDF 62KB]"
+        "2026年10月15日",
+        "外国為替市況（10月15日） [PDF 62KB]"
       ],
       "removed": [
-        "2026年10月 6日",
-        "外国為替市況（10月6日） [PDF 62KB]"
+        "2026年10月 7日",
+        "外国為替市況（10月7日） [PDF 62KB]"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-15 09:22:23",
+      "checked_at": "2026-10-16 09:10:34",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -59,7 +59,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-15 09:22:23",
+      "checked_at": "2026-10-16 09:10:34",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -67,25 +67,11 @@
       "name": "米SEC プレスリリース",
       "url": "https://www.sec.gov/news/pressreleases.rss",
       "note": "規則案・採択（HTMLは403のためRSS）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-10-15 09:22:23",
+      "checked_at": "2026-10-16 09:10:34",
       "changed_at": "2026-10-15 09:22:23",
-      "line_count": 129,
-      "added": [
-        "24cedc35-40a2-45f1-a64e-40656c3ddcbf",
-        "SEC Small Business Advisory Committee to Discuss IPO Modernization and Regulation Crowdfunding",
-        "The\u0026nbsp;Securities and Exchange Commission’s\u0026nbsp;Small Business Capital Formation Advisory Committee announced that it will hold a meeting on Tuesday, Octob…",
-        "Wed, 14 Oct 2026 10:30:47 -0400",
-        "https://www.sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding"
-      ],
-      "removed": [
-        "1942e114-32dd-492b-b092-3ee2d71324bd",
-        "Mon, 31 Aug 2026 14:24:32 -0400",
-        "SEC and FDA Announce MOU to Bolster Cooperation and Ensure Market Integrity",
-        "The Securities and Exchange Commission and the Food and Drug Administration today\u0026nbsp;announced that they have entered into a Memorandum of Understanding (MOU)…",
-        "https://www.sec.gov/newsroom/press-releases/2026-80-sec-fda-announce-mou-bolster-cooperation-ensure-market-integrity"
-      ]
+      "line_count": 129
     },
     {
       "name": "BIS FSI Briefs",
@@ -93,55 +79,34 @@
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-15 09:22:23",
-      "changed_at": "2026-10-15 09:22:23",
-      "line_count": 2963,
+      "checked_at": "2026-10-16 09:10:34",
+      "changed_at": "2026-10-16 09:10:34",
+      "line_count": 2969,
       "added": [
-        "14 Oct 2026",
-        "14 Oct 2026",
-        "BIS Paper (177)",
-        "Bank for International Settlements (2839)",
-        "CPMI (279)",
-        "CPMI Papers",
-        "CPMI Papers (226)",
-        "Displaying 1-10 of 5070",
-        "E40 (36)",
-        "E42 (88)",
-        "E50 (53)",
-        "E58 (262)",
-        "FMIs’ management of general business risks and general business losses: further guidance to the PFMI – final report",
-        "G21 (302)",
-        "G23 (123)",
-        "Iñaki Aldasoro",
-        "Iñaki Aldasoro (64)",
-        "Money and the architecture of trust",
-        "Money is one of the most consequential social institutions humanity has built. Starting from the most elementary monetary act, a payment, this paper provides an…",
-        "No 175",
-        "This report sets out guidance for financial market infrastructures (FMIs) and relevant authorities on certain principles and key considerations relating to (FMI…"
+        "15 Oct 2026",
+        "Anna Maddux (1)",
+        "BIS Bulletin",
+        "BIS Bulletin (138)",
+        "Chokepoint disruptions and their macroeconomic consequences",
+        "Displaying 1-10 of 5071",
+        "Fabrizio Zampolli (25)",
+        "Ibrahim Alshehri (1)",
+        "Ibrahim Alshehri , Ryan Niladri Banerjee , Michael Chui , Anna Maddux , Ko Munakata and Fabrizio Zampolli",
+        "Ko Munakata (4)",
+        "Michael Chui (11)",
+        "No 138",
+        "Rising geopolitical tensions, including trade restrictions and conflicts, are increasingly disrupting global supply chains, posing significant risks at critical…",
+        "Ryan Niladri Banerjee (35)"
       ],
       "removed": [
-        "08 Oct 2026",
-        "12 Oct 2026",
-        "Artificial intelligence (AI) is becoming an increasingly important factor in the climate transition. AI can improve energy efficiency, optimise resource use, ac…",
-        "Artificial intelligence and climate change: balancing innovation and sustainability",
-        "BIS Paper (176)",
-        "Bank for International Settlements (2838)",
-        "CPMI (278)",
-        "CPMI Papers (225)",
-        "Displaying 1-10 of 5068",
-        "E40 (35)",
-        "E42 (87)",
-        "E50 (52)",
-        "E58 (261)",
-        "G21 (301)",
-        "G23 (122)",
-        "Iñaki Aldasoro (63)",
-        "Leonardo Gambacorta and Salvatore Polizzi",
-        "No 1381",
-        "No 174",
-        "Phurichai Rungcharoenkitkul",
-        "Transformative AI and demand bottlenecks",
-        "Transformative AI promises to accelerate growth through productivity enhancement and automation. Yet automation on such a scale would raise the share of investm…"
+        "BIS Bulletin (137)",
+        "Displaying 1-10 of 5070",
+        "Fabrizio Zampolli (24)",
+        "Ko Munakata (3)",
+        "Michael Chui (10)",
+        "Project Aurum Phase 2 implements a privacy-preserving digital cash prototype upon the existing Aurum codebase to enhance policymakers’ understanding how priva…",
+        "Project Aurum Phase 2: exploring privacy-enhancing technologies for digital cash",
+        "Ryan Niladri Banerjee (34)"
       ]
     },
     {
@@ -150,20 +115,20 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-15 09:22:23",
-      "changed_at": "2026-10-15 09:22:23",
+      "checked_at": "2026-10-16 09:10:34",
+      "changed_at": "2026-10-16 09:10:34",
       "line_count": 379,
       "added": [
-        "October 14, 2026",
-        "October 14, 2026",
-        "Statement from U.S. Secretary of the Treasury Scott Bessent for the World Bank Development Committee and IMF International Monetary and Financial Committee",
-        "Treasury and IRS Move to Protect Health Care Benefits for Eligible Americans"
+        "October 15, 2026",
+        "October 15, 2026",
+        "Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks",
+        "Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture"
       ],
       "removed": [
-        "October 2, 2026",
-        "October 2, 2026",
-        "Treasury Dismantles Major Hamas Financing Network",
-        "URIF Approves Additional Investments and Partnerships in Energy and Critical Minerals"
+        "October 5, 2026",
+        "October 6, 2026",
+        "Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative",
+        "Treasury Reports Major Progress in Preventing Fraud and Improper Payments"
       ]
     },
     {
@@ -172,12 +137,73 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-15 09:22:23",
+      "checked_at": "2026-10-16 09:10:34",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-10-16 09:10:34",
+      "name": "米財務省 プレスリリース",
+      "url": "https://home.treasury.gov/news/press-releases",
+      "added": [
+        "October 15, 2026",
+        "October 15, 2026",
+        "Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks",
+        "Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture"
+      ],
+      "removed": [
+        "October 5, 2026",
+        "October 6, 2026",
+        "Treasury Announces Third Round of Sanctions Removals, Updates in Modernization Initiative",
+        "Treasury Reports Major Progress in Preventing Fraud and Improper Payments"
+      ]
+    },
+    {
+      "at": "2026-10-16 09:10:34",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "15 Oct 2026",
+        "Anna Maddux (1)",
+        "BIS Bulletin",
+        "BIS Bulletin (138)",
+        "Chokepoint disruptions and their macroeconomic consequences",
+        "Displaying 1-10 of 5071",
+        "Fabrizio Zampolli (25)",
+        "Ibrahim Alshehri (1)",
+        "Ibrahim Alshehri , Ryan Niladri Banerjee , Michael Chui , Anna Maddux , Ko Munakata and Fabrizio Zampolli",
+        "Ko Munakata (4)",
+        "Michael Chui (11)",
+        "No 138",
+        "Rising geopolitical tensions, including trade restrictions and conflicts, are increasingly disrupting global supply chains, posing significant risks at critical…",
+        "Ryan Niladri Banerjee (35)"
+      ],
+      "removed": [
+        "BIS Bulletin (137)",
+        "Displaying 1-10 of 5070",
+        "Fabrizio Zampolli (24)",
+        "Ko Munakata (3)",
+        "Michael Chui (10)",
+        "Project Aurum Phase 2 implements a privacy-preserving digital cash prototype upon the existing Aurum codebase to enhance policymakers’ understanding how priva…",
+        "Project Aurum Phase 2: exploring privacy-enhancing technologies for digital cash",
+        "Ryan Niladri Banerjee (34)"
+      ]
+    },
+    {
+      "at": "2026-10-16 09:10:34",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年10月15日",
+        "外国為替市況（10月15日） [PDF 62KB]"
+      ],
+      "removed": [
+        "2026年10月 7日",
+        "外国為替市況（10月7日） [PDF 62KB]"
+      ]
+    },
     {
       "at": "2026-10-15 09:22:23",
       "name": "米財務省 プレスリリース",
