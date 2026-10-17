@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17 09:13:52",
+  "generated_at": "2026-10-18 08:53:31",
   "summary": {
-    "changed": 3,
-    "same": 6
+    "changed": 1,
+    "same": 8
   },
   "items": [
     {
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-17 09:13:52",
+      "checked_at": "2026-10-18 08:53:31",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-17 09:13:52",
+      "checked_at": "2026-10-18 08:53:31",
       "changed_at": "2026-10-08 10:40:00",
       "line_count": 123
     },
@@ -29,19 +29,11 @@
       "name": "日銀 外国為替市況（日次一覧）",
       "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
       "note": "毎営業日・17時レート",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-10-17 09:13:52",
+      "checked_at": "2026-10-18 08:53:31",
       "changed_at": "2026-10-17 09:13:52",
-      "line_count": 406,
-      "added": [
-        "2026年10月16日",
-        "外国為替市況（10月16日） [PDF 61KB]"
-      ],
-      "removed": [
-        "2026年10月 8日",
-        "外国為替市況（10月8日） [PDF 62KB]"
-      ]
+      "line_count": 406
     },
     {
       "name": "日銀 金融政策決定会合",
@@ -49,7 +41,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-17 09:13:52",
+      "checked_at": "2026-10-18 08:53:31",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -59,7 +51,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-17 09:13:52",
+      "checked_at": "2026-10-18 08:53:31",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -69,7 +61,7 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-17 09:13:52",
+      "checked_at": "2026-10-18 08:53:31",
       "changed_at": "2026-10-15 09:22:23",
       "line_count": 129
     },
@@ -79,90 +71,30 @@
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-17 09:13:52",
-      "changed_at": "2026-10-17 09:13:52",
-      "line_count": 2968,
+      "checked_at": "2026-10-18 08:53:31",
+      "changed_at": "2026-10-18 08:53:31",
+      "line_count": 2970,
       "added": [
-        "16 Oct 2026",
-        "16 Oct 2026",
-        "16 Oct 2026",
-        "Amendments to G-SIB framework to address window dressing",
-        "Andreas Schrimpf (52)",
-        "BCBS (813)",
-        "BIS Working Paper (1391)",
-        "Bank for International Settlements (2840)",
-        "Consultative",
-        "Consultative (196)",
-        "Displaying 1-10 of 5074",
-        "E44 (181)",
-        "E58 (263)",
-        "F3 (32)",
-        "F38 (15)",
-        "Forthcoming (1)",
-        "G15 (132)",
-        "Ganesh Viswanath-Natraj (1)",
-        "Gerardo Ferrara (1)",
-        "Gerardo Ferrara , Andreas Schrimpf , Ganesh Viswanath-Natraj and Zijie Wang",
-        "Global systemically important banks – methodology review",
-        "Macroprudential / systemic importance",
-        "Macroprudential / systemic importance",
-        "Macroprudential / systemic importance (58)",
-        "No 1383",
-        "Offshore forwards and exchange rate transmission in emerging markets",
-        "Open (1)",
-        "Project Aurum Phase 2 implements a privacy-preserving digital cash prototype upon the existing Aurum codebase to enhance policymakers’ understanding how priva…",
-        "Project Aurum Phase 2: exploring privacy-enhancing technologies for digital cash",
-        "Standards",
-        "Standards (93)",
-        "The Basel Committee on Banking Supervision has finalised amendments to address window-dressing behaviour in the context of the framework for global systemically…",
-        "The Basel Committee on Banking Supervision has issued a public consultation on the global systemically important banks (G-SIB) methodology.",
-        "We study how offshore non-deliverable forward (NDF) markets transmit exchange-rate pressures to domestic currency markets. Using unique transaction-level data o…",
-        "Zijie Wang (1)"
-      ],
-      "removed": [
-        "Andreas Schrimpf (51)",
         "Are stablecoins and bank deposits substitutes?",
-        "BCBS (811)",
-        "BIS Working Paper (1390)",
-        "Bank for International Settlements (2839)",
-        "Consultative (195)",
-        "Displaying 1-10 of 5071",
-        "E44 (180)",
-        "E58 (262)",
-        "F3 (31)",
-        "F38 (14)",
-        "G15 (131)",
         "Innovation and fintech",
-        "Macroprudential / systemic importance (56)",
         "No 1382",
         "Rashad Ahmed and Iñaki Aldasoro",
-        "Regulatory Consistency Assessment Programme (RCAP): Assessment of Basel Committee's leverage ratio framework - Korea",
-        "Regulatory Consistency Assessment Programme (RCAP): Assessment of Basel Committee's leverage ratio framework - Switzerland",
-        "Regulatory Consistency Assessment Programme (RCAP): Assessment of Basel Committee's leverage ratio framework - the United Kingdom",
-        "Standards (92)",
-        "This report presents the Committee’s assessment of Korea’s implementation of the leverage ratio framework (LEV). Korea’s leverage ratio regulations were a…",
-        "This report presents the Committee’s assessment of Switzerland’s implementation of the leverage ratio framework (LEV). Switzerland’s leverage ratio regula…",
-        "This report presents the Committee’s assessment of the United Kingdom’s implementation of the leverage ratio framework (LEV). The United Kingdom’s leverag…",
         "We test whether stablecoins and bank deposits act as substitutes by estimating the semi-elasticity of stablecoin market capitalization with respect to deposit r…"
+      ],
+      "removed": [
+        "Regulatory Consistency Assessment Programme (RCAP): Assessment of Basel Committee's leverage ratio framework - Japan",
+        "This report presents the Committee’s assessment of Japan’s implementation of the leverage ratio framework (LEV). Japan’s leverage ratio regulations were a…"
       ]
     },
     {
       "name": "米財務省 プレスリリース",
       "url": "https://home.treasury.gov/news/press-releases",
       "note": "GENIUS法の規則・為替報告",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-10-17 09:13:52",
+      "checked_at": "2026-10-18 08:53:31",
       "changed_at": "2026-10-17 09:13:52",
-      "line_count": 379,
-      "added": [
-        "October 16, 2026",
-        "Treasury International Capital Data for August 2026"
-      ],
-      "removed": [
-        "October 7, 2026",
-        "Treasury Announces Enforcement Penalty for Violation of Outbound Program"
-      ]
+      "line_count": 379
     },
     {
       "name": "MAS メディアリリース",
@@ -170,12 +102,28 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-17 09:13:52",
+      "checked_at": "2026-10-18 08:53:31",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-10-18 08:53:31",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "Are stablecoins and bank deposits substitutes?",
+        "Innovation and fintech",
+        "No 1382",
+        "Rashad Ahmed and Iñaki Aldasoro",
+        "We test whether stablecoins and bank deposits act as substitutes by estimating the semi-elasticity of stablecoin market capitalization with respect to deposit r…"
+      ],
+      "removed": [
+        "Regulatory Consistency Assessment Programme (RCAP): Assessment of Basel Committee's leverage ratio framework - Japan",
+        "This report presents the Committee’s assessment of Japan’s implementation of the leverage ratio framework (LEV). Japan’s leverage ratio regulations were a…"
+      ]
+    },
     {
       "at": "2026-10-17 09:13:52",
       "name": "米財務省 プレスリリース",

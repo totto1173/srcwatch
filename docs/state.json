@@ -1,7 +1,7 @@
 {
   "https://home.treasury.gov/news/press-releases": {
     "hash": "906fc8c6958cd61e51da46673e242762024d2bb9f24c0e6085067bbdf80e5b08",
-    "checked_at": "2026-10-17 09:13:52",
+    "checked_at": "2026-10-18 08:53:31",
     "changed_at": "2026-10-17 09:13:52",
     "lines": [
       "Press Releases | U.S. Department of the Treasury",
@@ -387,9 +387,9 @@
     "status": 200
   },
   "https://www.bis.org/publications/": {
-    "hash": "e42aa4caa86d13e44c54b4b83600d3f26e7ecf5c368799de0b3ec259b1f73a13",
-    "checked_at": "2026-10-17 09:13:52",
-    "changed_at": "2026-10-17 09:13:52",
+    "hash": "1ccf19c689b6f0672604ab5bd1429aeb312d77215dec9afc9a978af3b6152ac9",
+    "checked_at": "2026-10-18 08:53:31",
+    "changed_at": "2026-10-18 08:53:31",
     "lines": [
       "Publications | Bank for International Settlements",
       "Skip to main content",
@@ -3300,10 +3300,6 @@
       "Author:",
       "Iñaki Aldasoro",
       "Publication",
-      "13 Oct 2026",
-      "Project Aurum Phase 2: exploring privacy-enhancing technologies for digital cash",
-      "Project Aurum Phase 2 implements a privacy-preserving digital cash prototype upon the existing Aurum codebase to enhance policymakers’ understanding how privacy-enhancing technologies (PETs) may alleviate the dilemma of privacy and compliance in digital…",
-      "Publication",
       "Implementation reports",
       "13 Oct 2026",
       "Regulatory Consistency Assessment Programme (RCAP): Assessment of Basel Committee's leverage ratio framework - Canada",
@@ -3318,12 +3314,18 @@
       "Supervisory cooperation",
       "Leverage ratio",
       "Publication",
-      "Implementation reports",
       "13 Oct 2026",
-      "Regulatory Consistency Assessment Programme (RCAP): Assessment of Basel Committee's leverage ratio framework - Japan",
-      "This report presents the Committee’s assessment of Japan’s implementation of the leverage ratio framework (LEV). Japan’s leverage ratio regulations were assessed as compliant.",
-      "Supervisory cooperation",
-      "Leverage ratio",
+      "Project Aurum Phase 2: exploring privacy-enhancing technologies for digital cash",
+      "Project Aurum Phase 2 implements a privacy-preserving digital cash prototype upon the existing Aurum codebase to enhance policymakers’ understanding how privacy-enhancing technologies (PETs) may alleviate the dilemma of privacy and compliance in digital…",
+      "Publication",
+      "BIS Working Paper",
+      "No 1382",
+      "13 Oct 2026",
+      "Are stablecoins and bank deposits substitutes?",
+      "We test whether stablecoins and bank deposits act as substitutes by estimating the semi-elasticity of stablecoin market capitalization with respect to deposit rate changes. Using local projections fit to weekly U.S. data from January 2019 to June 2025, we…",
+      "Authors:",
+      "Rashad Ahmed and Iñaki Aldasoro",
+      "Innovation and fintech",
       "Current page",
       "Page",
       "Page",
@@ -3364,7 +3366,7 @@
   },
   "https://www.boj.or.jp/mopo/mpmdeci/index.htm": {
     "hash": "602b4d245e765c49a9f314b7449e86e3fca98d29835f8c2b38770158fe4569f9",
-    "checked_at": "2026-10-17 09:13:52",
+    "checked_at": "2026-10-18 08:53:31",
     "changed_at": "2026-09-07 16:35:42",
     "lines": [
       "金融政策に関する決定事項等 : 日本銀行 Bank of Japan",
@@ -3633,7 +3635,7 @@
   },
   "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm": {
     "hash": "3e1963b097bcfecf2ea664203b2cfd428801ce51f26f0549892efae6e2bbf8d1",
-    "checked_at": "2026-10-17 09:13:52",
+    "checked_at": "2026-10-18 08:53:31",
     "changed_at": "2026-10-17 09:13:52",
     "lines": [
       "外国為替市況（日次） : 日本銀行 Bank of Japan",
@@ -4047,7 +4049,7 @@
   },
   "https://www.fsa.go.jp/news/index.html": {
     "hash": "ee8109996ad8737721659c7a88f1aa97b730a0348cea80a719087d6e7430e7ee",
-    "checked_at": "2026-10-17 09:13:52",
+    "checked_at": "2026-10-18 08:53:31",
     "changed_at": "2026-10-01 10:09:57",
     "lines": [
       "--\u003e",
@@ -4359,14 +4361,14 @@
   },
   "https://www.mas.gov.sg/news": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "checked_at": "2026-10-17 09:13:52",
+    "checked_at": "2026-10-18 08:53:31",
     "changed_at": "2026-09-07 16:35:42",
     "lines": null,
     "status": 200
   },
   "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html": {
     "hash": "83ddc0930b7d434c3d81aa31410c74259045e1b3278520a6c072cb06c78eb466",
-    "checked_at": "2026-10-17 09:13:52",
+    "checked_at": "2026-10-18 08:53:31",
     "changed_at": "2026-10-01 10:09:57",
     "lines": [
       "﻿",
@@ -4493,7 +4495,7 @@
   },
   "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm": {
     "hash": "1dd113ee0d316b32973afc73feeac2656e356313479dfc202da59055501841ae",
-    "checked_at": "2026-10-17 09:13:52",
+    "checked_at": "2026-10-18 08:53:31",
     "changed_at": "2026-10-08 10:40:00",
     "lines": [
       "﻿",
@@ -4624,7 +4626,7 @@
   },
   "https://www.sec.gov/news/pressreleases.rss": {
     "hash": "a4bcbd2b4950895e6ab3ebd0c8fe0abcc2eb4b6cb0fd7ca399aad982a5d875a0",
-    "checked_at": "2026-10-17 09:13:52",
+    "checked_at": "2026-10-18 08:53:31",
     "changed_at": "2026-10-15 09:22:23",
     "lines": [
       "Press Releases",
