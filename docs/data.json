@@ -1,8 +1,7 @@
 {
-  "generated_at": "2026-10-18 08:53:31",
+  "generated_at": "2026-10-19 09:01:58",
   "summary": {
-    "changed": 1,
-    "same": 8
+    "same": 9
   },
   "items": [
     {
@@ -11,7 +10,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-18 08:53:31",
+      "checked_at": "2026-10-19 09:01:58",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 119
     },
@@ -21,7 +20,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-18 08:53:31",
+      "checked_at": "2026-10-19 09:01:58",
       "changed_at": "2026-10-08 10:40:00",
       "line_count": 123
     },
@@ -31,7 +30,7 @@
       "note": "毎営業日・17時レート",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-18 08:53:31",
+      "checked_at": "2026-10-19 09:01:58",
       "changed_at": "2026-10-17 09:13:52",
       "line_count": 406
     },
@@ -41,7 +40,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-18 08:53:31",
+      "checked_at": "2026-10-19 09:01:58",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -51,7 +50,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-18 08:53:31",
+      "checked_at": "2026-10-19 09:01:58",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -61,7 +60,7 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-18 08:53:31",
+      "checked_at": "2026-10-19 09:01:58",
       "changed_at": "2026-10-15 09:22:23",
       "line_count": 129
     },
@@ -69,22 +68,11 @@
       "name": "BIS FSI Briefs",
       "url": "https://www.bis.org/publications/",
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-10-18 08:53:31",
+      "checked_at": "2026-10-19 09:01:58",
       "changed_at": "2026-10-18 08:53:31",
-      "line_count": 2970,
-      "added": [
-        "Are stablecoins and bank deposits substitutes?",
-        "Innovation and fintech",
-        "No 1382",
-        "Rashad Ahmed and Iñaki Aldasoro",
-        "We test whether stablecoins and bank deposits act as substitutes by estimating the semi-elasticity of stablecoin market capitalization with respect to deposit r…"
-      ],
-      "removed": [
-        "Regulatory Consistency Assessment Programme (RCAP): Assessment of Basel Committee's leverage ratio framework - Japan",
-        "This report presents the Committee’s assessment of Japan’s implementation of the leverage ratio framework (LEV). Japan’s leverage ratio regulations were a…"
-      ]
+      "line_count": 2970
     },
     {
       "name": "米財務省 プレスリリース",
@@ -92,7 +80,7 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-18 08:53:31",
+      "checked_at": "2026-10-19 09:01:58",
       "changed_at": "2026-10-17 09:13:52",
       "line_count": 379
     },
@@ -102,7 +90,7 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-18 08:53:31",
+      "checked_at": "2026-10-19 09:01:58",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
