@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21 09:28:15",
+  "generated_at": "2026-10-22 09:31:32",
   "summary": {
-    "changed": 3,
-    "same": 6
+    "changed": 2,
+    "same": 7
   },
   "items": [
     {
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-21 09:28:15",
+      "checked_at": "2026-10-22 09:31:32",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-21 09:28:15",
+      "checked_at": "2026-10-22 09:31:32",
       "changed_at": "2026-10-08 10:40:00",
       "line_count": 123
     },
@@ -31,16 +31,16 @@
       "note": "毎営業日・17時レート",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-21 09:28:15",
-      "changed_at": "2026-10-21 09:28:15",
+      "checked_at": "2026-10-22 09:31:32",
+      "changed_at": "2026-10-22 09:31:32",
       "line_count": 406,
       "added": [
-        "2026年10月20日",
-        "外国為替市況（10月20日） [PDF 62KB]"
+        "2026年10月21日",
+        "外国為替市況（10月21日） [PDF 62KB]"
       ],
       "removed": [
-        "2026年10月13日",
-        "外国為替市況（10月13日） [PDF 62KB]"
+        "2026年10月14日",
+        "外国為替市況（10月14日） [PDF 62KB]"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-21 09:28:15",
+      "checked_at": "2026-10-22 09:31:32",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -59,7 +59,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-21 09:28:15",
+      "checked_at": "2026-10-22 09:31:32",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -67,88 +67,39 @@
       "name": "米SEC プレスリリース",
       "url": "https://www.sec.gov/news/pressreleases.rss",
       "note": "規則案・採択（HTMLは403のためRSS）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-10-21 09:28:15",
+      "checked_at": "2026-10-22 09:31:32",
       "changed_at": "2026-10-21 09:28:15",
-      "line_count": 129,
-      "added": [
-        "44a0baea-4550-40e0-a829-123bea4072d6",
-        "SEC and AMF Announce Supervisory MOU To Enhance Cooperation for Investment Advisers and Investment Service Providers",
-        "SEC, FSA Hold Autumn Financial Regulatory Dialogue",
-        "The U.S. Securities and Exchange Commission (SEC) and the Financial Services Agency of Japan (FSA) convened the Autumn SEC-FSA Financial Regulatory Dialogue in …",
-        "The U.S. Securities and Exchange Commission (SEC) and the French Autorité des Marchés Financiers (AMF) announced that they have entered into a Memorandum of U…",
-        "Tue, 20 Oct 2026 08:51:00 -0400",
-        "Tue, 20 Oct 2026 09:25:16 -0400",
-        "ef7a94bf-a371-4220-949a-66298ffe9db7",
-        "https://www.sec.gov/newsroom/press-releases/2026-107-sec-fsa-hold-autumn-financial-regulatory-dialogue",
-        "https://www.sec.gov/newsroom/press-releases/2026-108-sec-amf-announce-supervisory-mou-enhance-cooperation-investment-advisers-investment-service"
-      ],
-      "removed": [
-        "520b1092-2fa4-4ecd-ac8c-f5b43146f5bf",
-        "SEC Announces Agenda and Panelists for Roundtable on Preparations for 24-Hour Trading",
-        "SEC Charges San Francisco Bay Area Private Fund Executives with Multimillion Dollar Ponzi-Like Scheme",
-        "The Securities and Exchange Commission today announced the agenda and panelists for its Sept. 17, 2026, roundtable on preparations for 24-hour trading.The round…",
-        "The Securities and Exchange Commission today charged Mark D. Hanf, the former CEO of Novato, California-based Pacific Private Money Group LLC (PPMG), and Hoai-N…",
-        "Tue, 01 Sep 2026 13:52:32 -0400",
-        "Tue, 01 Sep 2026 15:17:39 -0400",
-        "d5092649-bd5b-4cff-bc37-a0f18d33a1f1",
-        "https://www.sec.gov/newsroom/press-releases/2026-82-sec-charges-san-francisco-bay-area-private-fund-executives-multimillion-dollar-ponzi-scheme",
-        "https://www.sec.gov/newsroom/press-releases/2026-83-sec-announces-agenda-panelists-roundtable-preparations-24-hour-trading"
-      ]
+      "line_count": 129
     },
     {
       "name": "BIS FSI Briefs",
       "url": "https://www.bis.org/publications/",
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-10-21 09:28:15",
+      "checked_at": "2026-10-22 09:31:32",
       "changed_at": "2026-10-21 09:28:15",
-      "line_count": 2999,
-      "added": [
-        "20 Oct 2026",
-        "BIS Working Paper (1395)",
-        "Bank for International Settlements (2845)",
-        "Bank liquidity regulation and the growth of private credit",
-        "Displaying 1-10 of 5080",
-        "G21 (304)",
-        "G23 (124)",
-        "G28 (205)",
-        "Gaston Gelos (7)",
-        "No 1388",
-        "Regulatory capital requirements",
-        "Regulatory capital requirements (2)",
-        "Sebastian Doerr (55)",
-        "Sebastian Doerr , Gaston Gelos and Vesa Pursiainen",
-        "Vesa Pursiainen (1)",
-        "We study the role of bank liquidity regulation in the growth of private credit. Following the introduction of the liquidity coverage ratio (LCR), private credit…"
-      ],
-      "removed": [
-        "14 Oct 2026",
-        "BIS Working Paper (1394)",
-        "Bank for International Settlements (2844)",
-        "CPMI Papers",
-        "Displaying 1-10 of 5079",
-        "FMIs’ management of general business risks and general business losses: further guidance to the PFMI – final report",
-        "G21 (303)",
-        "G23 (123)",
-        "G28 (204)",
-        "Gaston Gelos (6)",
-        "Regulatory capital requirements (1)",
-        "Sebastian Doerr (54)",
-        "This report sets out guidance for financial market infrastructures (FMIs) and relevant authorities on certain principles and key considerations relating to (FMI…"
-      ]
+      "line_count": 2999
     },
     {
       "name": "米財務省 プレスリリース",
       "url": "https://home.treasury.gov/news/press-releases",
       "note": "GENIUS法の規則・為替報告",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-21 09:28:15",
-      "changed_at": "2026-10-20 09:59:19",
-      "line_count": 379
+      "checked_at": "2026-10-22 09:31:32",
+      "changed_at": "2026-10-22 09:31:32",
+      "line_count": 379,
+      "added": [
+        "October 21, 2026",
+        "Operation Economic Outcast Targets Iran’s Shadow Fleet Networks"
+      ],
+      "removed": [
+        "October 9, 2026",
+        "United States Department of the Treasury Announces New Appointment"
+      ]
     },
     {
       "name": "MAS メディアリリース",
@@ -156,12 +107,38 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-21 09:28:15",
+      "checked_at": "2026-10-22 09:31:32",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-10-22 09:31:32",
+      "name": "米財務省 プレスリリース",
+      "url": "https://home.treasury.gov/news/press-releases",
+      "added": [
+        "October 21, 2026",
+        "Operation Economic Outcast Targets Iran’s Shadow Fleet Networks"
+      ],
+      "removed": [
+        "October 9, 2026",
+        "United States Department of the Treasury Announces New Appointment"
+      ]
+    },
+    {
+      "at": "2026-10-22 09:31:32",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年10月21日",
+        "外国為替市況（10月21日） [PDF 62KB]"
+      ],
+      "removed": [
+        "2026年10月14日",
+        "外国為替市況（10月14日） [PDF 62KB]"
+      ]
+    },
     {
       "at": "2026-10-21 09:28:15",
       "name": "BIS FSI Briefs",
