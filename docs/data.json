@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22 09:31:32",
+  "generated_at": "2026-10-23 09:29:02",
   "summary": {
     "changed": 2,
     "same": 7
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-22 09:31:32",
+      "checked_at": "2026-10-23 09:29:02",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-22 09:31:32",
+      "checked_at": "2026-10-23 09:29:02",
       "changed_at": "2026-10-08 10:40:00",
       "line_count": 123
     },
@@ -31,16 +31,16 @@
       "note": "毎営業日・17時レート",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-22 09:31:32",
-      "changed_at": "2026-10-22 09:31:32",
+      "checked_at": "2026-10-23 09:29:02",
+      "changed_at": "2026-10-23 09:29:02",
       "line_count": 406,
       "added": [
-        "2026年10月21日",
-        "外国為替市況（10月21日） [PDF 62KB]"
+        "2026年10月22日",
+        "外国為替市況（10月22日） [PDF 61KB]"
       ],
       "removed": [
-        "2026年10月14日",
-        "外国為替市況（10月14日） [PDF 62KB]"
+        "2026年10月15日",
+        "外国為替市況（10月15日） [PDF 62KB]"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-22 09:31:32",
+      "checked_at": "2026-10-23 09:29:02",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -59,7 +59,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-22 09:31:32",
+      "checked_at": "2026-10-23 09:29:02",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -69,7 +69,7 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-22 09:31:32",
+      "checked_at": "2026-10-23 09:29:02",
       "changed_at": "2026-10-21 09:28:15",
       "line_count": 129
     },
@@ -79,7 +79,7 @@
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-22 09:31:32",
+      "checked_at": "2026-10-23 09:29:02",
       "changed_at": "2026-10-21 09:28:15",
       "line_count": 2999
     },
@@ -89,16 +89,24 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-22 09:31:32",
-      "changed_at": "2026-10-22 09:31:32",
+      "checked_at": "2026-10-23 09:29:02",
+      "changed_at": "2026-10-23 09:29:02",
       "line_count": 379,
       "added": [
-        "October 21, 2026",
-        "Operation Economic Outcast Targets Iran’s Shadow Fleet Networks"
+        "October 22, 2026",
+        "October 22, 2026",
+        "October 22, 2026",
+        "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with President Santiago Peña of Paraguay",
+        "The Trump Administration is Making Homeownership More Affordable",
+        "Treasury Issues Proposed Rule to Implement Comprehensive Outbound Investment National Security Act"
       ],
       "removed": [
-        "October 9, 2026",
-        "United States Department of the Treasury Announces New Appointment"
+        "October 13, 2026",
+        "October 13, 2026",
+        "October 13, 2026",
+        "READOUT: Secretary of the Treasury Scott Bessent’s Introductory Call with Republic of Korea Deputy Prime Minister Lee Hyoung-il",
+        "Treasury Targets Cartel del Noreste’s Horse Racing Enterprise and Expansive Criminal Network",
+        "U.S. Treasury Announces Record Enforcement Actions Against Bank of America"
       ]
     },
     {
@@ -107,12 +115,46 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-22 09:31:32",
+      "checked_at": "2026-10-23 09:29:02",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-10-23 09:29:02",
+      "name": "米財務省 プレスリリース",
+      "url": "https://home.treasury.gov/news/press-releases",
+      "added": [
+        "October 22, 2026",
+        "October 22, 2026",
+        "October 22, 2026",
+        "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with President Santiago Peña of Paraguay",
+        "The Trump Administration is Making Homeownership More Affordable",
+        "Treasury Issues Proposed Rule to Implement Comprehensive Outbound Investment National Security Act"
+      ],
+      "removed": [
+        "October 13, 2026",
+        "October 13, 2026",
+        "October 13, 2026",
+        "READOUT: Secretary of the Treasury Scott Bessent’s Introductory Call with Republic of Korea Deputy Prime Minister Lee Hyoung-il",
+        "Treasury Targets Cartel del Noreste’s Horse Racing Enterprise and Expansive Criminal Network",
+        "U.S. Treasury Announces Record Enforcement Actions Against Bank of America"
+      ]
+    },
+    {
+      "at": "2026-10-23 09:29:02",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年10月22日",
+        "外国為替市況（10月22日） [PDF 61KB]"
+      ],
+      "removed": [
+        "2026年10月15日",
+        "外国為替市況（10月15日） [PDF 62KB]"
+      ]
+    },
     {
       "at": "2026-10-22 09:31:32",
       "name": "米財務省 プレスリリース",
