@@ -1,7 +1,7 @@
 {
   "https://home.treasury.gov/news/press-releases": {
     "hash": "12b1e57ccf157313b5114841373abbad063355b5878e6b673aa8535e1b53f8f1",
-    "checked_at": "2026-10-24 09:24:42",
+    "checked_at": "2026-10-25 09:08:16",
     "changed_at": "2026-10-23 09:29:02",
     "lines": [
       "Press Releases | U.S. Department of the Treasury",
@@ -388,7 +388,7 @@
   },
   "https://www.bis.org/publications/": {
     "hash": "b2ba5d12526f4adbfdb12ff6dc252329bd4ba1c10ae03d3244f2b3759eba0f28",
-    "checked_at": "2026-10-24 09:24:42",
+    "checked_at": "2026-10-25 09:08:16",
     "changed_at": "2026-10-24 09:24:42",
     "lines": [
       "Publications | Bank for International Settlements",
@@ -3399,7 +3399,7 @@
   },
   "https://www.boj.or.jp/mopo/mpmdeci/index.htm": {
     "hash": "602b4d245e765c49a9f314b7449e86e3fca98d29835f8c2b38770158fe4569f9",
-    "checked_at": "2026-10-24 09:24:42",
+    "checked_at": "2026-10-25 09:08:16",
     "changed_at": "2026-09-07 16:35:42",
     "lines": [
       "金融政策に関する決定事項等 : 日本銀行 Bank of Japan",
@@ -3668,7 +3668,7 @@
   },
   "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm": {
     "hash": "11608c98ee64ece230a33828d78b3c105b4bce6deca035cf131e15b745686253",
-    "checked_at": "2026-10-24 09:24:42",
+    "checked_at": "2026-10-25 09:08:16",
     "changed_at": "2026-10-24 09:24:42",
     "lines": [
       "外国為替市況（日次） : 日本銀行 Bank of Japan",
@@ -4082,7 +4082,7 @@
   },
   "https://www.fsa.go.jp/news/index.html": {
     "hash": "ee8109996ad8737721659c7a88f1aa97b730a0348cea80a719087d6e7430e7ee",
-    "checked_at": "2026-10-24 09:24:42",
+    "checked_at": "2026-10-25 09:08:16",
     "changed_at": "2026-10-01 10:09:57",
     "lines": [
       "--\u003e",
@@ -4394,14 +4394,14 @@
   },
   "https://www.mas.gov.sg/news": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "checked_at": "2026-10-24 09:24:42",
+    "checked_at": "2026-10-25 09:08:16",
     "changed_at": "2026-09-07 16:35:42",
     "lines": null,
     "status": 200
   },
   "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html": {
     "hash": "83ddc0930b7d434c3d81aa31410c74259045e1b3278520a6c072cb06c78eb466",
-    "checked_at": "2026-10-24 09:24:42",
+    "checked_at": "2026-10-25 09:08:16",
     "changed_at": "2026-10-01 10:09:57",
     "lines": [
       "﻿",
@@ -4528,7 +4528,7 @@
   },
   "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm": {
     "hash": "1dd113ee0d316b32973afc73feeac2656e356313479dfc202da59055501841ae",
-    "checked_at": "2026-10-24 09:24:42",
+    "checked_at": "2026-10-25 09:08:16",
     "changed_at": "2026-10-08 10:40:00",
     "lines": [
       "﻿",
@@ -4659,7 +4659,7 @@
   },
   "https://www.sec.gov/news/pressreleases.rss": {
     "hash": "8f404766a44577b2e7fc081a5124fdb4fbf0ff59e68cc8971676ce074e234c9c",
-    "checked_at": "2026-10-24 09:24:42",
+    "checked_at": "2026-10-25 09:08:16",
     "changed_at": "2026-10-24 09:24:42",
     "lines": [
       "Press Releases",

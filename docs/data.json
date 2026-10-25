@@ -1,8 +1,7 @@
 {
-  "generated_at": "2026-10-24 09:24:42",
+  "generated_at": "2026-10-25 09:08:16",
   "summary": {
-    "changed": 3,
-    "same": 6
+    "same": 9
   },
   "items": [
     {
@@ -11,7 +10,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-24 09:24:42",
+      "checked_at": "2026-10-25 09:08:16",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 119
     },
@@ -21,7 +20,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-24 09:24:42",
+      "checked_at": "2026-10-25 09:08:16",
       "changed_at": "2026-10-08 10:40:00",
       "line_count": 123
     },
@@ -29,19 +28,11 @@
       "name": "日銀 外国為替市況（日次一覧）",
       "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
       "note": "毎営業日・17時レート",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-10-24 09:24:42",
+      "checked_at": "2026-10-25 09:08:16",
       "changed_at": "2026-10-24 09:24:42",
-      "line_count": 406,
-      "added": [
-        "2026年10月23日",
-        "外国為替市況（10月23日） [PDF 62KB]"
-      ],
-      "removed": [
-        "2026年10月16日",
-        "外国為替市況（10月16日） [PDF 61KB]"
-      ]
+      "line_count": 406
     },
     {
       "name": "日銀 金融政策決定会合",
@@ -49,7 +40,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-24 09:24:42",
+      "checked_at": "2026-10-25 09:08:16",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -59,7 +50,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-24 09:24:42",
+      "checked_at": "2026-10-25 09:08:16",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -67,71 +58,21 @@
       "name": "米SEC プレスリリース",
       "url": "https://www.sec.gov/news/pressreleases.rss",
       "note": "規則案・採択（HTMLは403のためRSS）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-10-24 09:24:42",
+      "checked_at": "2026-10-25 09:08:16",
       "changed_at": "2026-10-24 09:24:42",
-      "line_count": 129,
-      "added": [
-        "131a2c47-83da-4baf-9d99-1ae02a0232a3",
-        "Fri, 23 Oct 2026 10:10:00 -0400",
-        "SEC Announces Fiscal Year 2027 Examination Priorities",
-        "The Securities and Exchange Commission today announced the Division of Examinations’ Fiscal Year 2027 examination priorities. The annual report identifies key…",
-        "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities"
-      ],
-      "removed": [
-        "7b964f5e-d7e8-41ff-9d1a-c1bf94e8ca11",
-        "SEC Investor Advisory Committee to Host Sept. 10 Meeting",
-        "The Securities and Exchange Commission’s\u0026nbsp;Investor Advisory Committee will host a public meeting at the SEC Headquarters in Washington D.C. on Sept. 10 at…",
-        "Thu, 03 Sep 2026 10:27:49 -0400",
-        "https://www.sec.gov/newsroom/press-releases/2026-84-sec-investor-advisory-committee-host-sept-10-meeting"
-      ]
+      "line_count": 129
     },
     {
       "name": "BIS FSI Briefs",
       "url": "https://www.bis.org/publications/",
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-10-24 09:24:42",
+      "checked_at": "2026-10-25 09:08:16",
       "changed_at": "2026-10-24 09:24:42",
-      "line_count": 3003,
-      "added": [
-        "23 Oct 2026",
-        "BIS Working Paper (1396)",
-        "Bank for International Settlements (2846)",
-        "Bohou Cai (1)",
-        "Bohou Cai , Liugang Sheng and Hongyan Zhao",
-        "Displaying 1-10 of 5081",
-        "E31 (111)",
-        "E32 (90)",
-        "E52 (257)",
-        "F41 (57)",
-        "Hongyan Zhao (3)",
-        "Inflation (3)",
-        "Liugang Sheng (1)",
-        "News shocks and inflation: theory and evidence from large oil discoveries",
-        "No 1389",
-        "Q32 (1)",
-        "We study hownews shocks affect inflation in open economies, using large oil and gas discoveries with realized production lags of at least five years as observab…"
-      ],
-      "removed": [
-        "15 Oct 2026",
-        "BIS Bulletin",
-        "BIS Working Paper (1395)",
-        "Bank for International Settlements (2845)",
-        "Chokepoint disruptions and their macroeconomic consequences",
-        "Displaying 1-10 of 5080",
-        "E31 (110)",
-        "E32 (89)",
-        "E52 (256)",
-        "F41 (56)",
-        "Hongyan Zhao (2)",
-        "Ibrahim Alshehri , Ryan Niladri Banerjee , Michael Chui , Anna Maddux , Ko Munakata and Fabrizio Zampolli",
-        "Inflation (2)",
-        "No 138",
-        "Rising geopolitical tensions, including trade restrictions and conflicts, are increasingly disrupting global supply chains, posing significant risks at critical…"
-      ]
+      "line_count": 3003
     },
     {
       "name": "米財務省 プレスリリース",
@@ -139,7 +80,7 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-24 09:24:42",
+      "checked_at": "2026-10-25 09:08:16",
       "changed_at": "2026-10-23 09:29:02",
       "line_count": 379
     },
@@ -149,7 +90,7 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-24 09:24:42",
+      "checked_at": "2026-10-25 09:08:16",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
