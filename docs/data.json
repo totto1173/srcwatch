@@ -1,7 +1,8 @@
 {
-  "generated_at": "2026-10-26 08:59:10",
+  "generated_at": "2026-10-27 10:19:23",
   "summary": {
-    "same": 9
+    "changed": 2,
+    "same": 7
   },
   "items": [
     {
@@ -10,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-26 08:59:10",
+      "checked_at": "2026-10-27 10:19:23",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 119
     },
@@ -20,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-26 08:59:10",
+      "checked_at": "2026-10-27 10:19:23",
       "changed_at": "2026-10-08 10:40:00",
       "line_count": 123
     },
@@ -28,11 +29,19 @@
       "name": "日銀 外国為替市況（日次一覧）",
       "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
       "note": "毎営業日・17時レート",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-26 08:59:10",
-      "changed_at": "2026-10-24 09:24:42",
-      "line_count": 406
+      "checked_at": "2026-10-27 10:19:23",
+      "changed_at": "2026-10-27 10:19:23",
+      "line_count": 406,
+      "added": [
+        "2026年10月26日",
+        "外国為替市況（10月26日） [PDF 61KB]"
+      ],
+      "removed": [
+        "2026年10月19日",
+        "外国為替市況（10月19日） [PDF 61KB]"
+      ]
     },
     {
       "name": "日銀 金融政策決定会合",
@@ -40,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-26 08:59:10",
+      "checked_at": "2026-10-27 10:19:23",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 261
     },
@@ -50,7 +59,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-26 08:59:10",
+      "checked_at": "2026-10-27 10:19:23",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -60,7 +69,7 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-26 08:59:10",
+      "checked_at": "2026-10-27 10:19:23",
       "changed_at": "2026-10-24 09:24:42",
       "line_count": 129
     },
@@ -68,11 +77,43 @@
       "name": "BIS FSI Briefs",
       "url": "https://www.bis.org/publications/",
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-26 08:59:10",
-      "changed_at": "2026-10-24 09:24:42",
-      "line_count": 3003
+      "checked_at": "2026-10-27 10:19:23",
+      "changed_at": "2026-10-27 10:19:23",
+      "line_count": 3007,
+      "added": [
+        "26 Oct 2026",
+        "BIS Bulletin",
+        "BIS Bulletin (139)",
+        "Bank for International Settlements (2847)",
+        "Banking (6)",
+        "Chokepoints in global supply chains: lessons from rare earths and hard disk drives",
+        "Concentration and limited substitutability can turn the efficiency gains from global supply chains into vulnerabilities. However, the consequences of chokepoint…",
+        "Digital assets (1)",
+        "Displaying 1-10 of 5082",
+        "Fintech (10)",
+        "Insurance (2)",
+        "Leonardo Gambacorta (125)",
+        "Michael Chui (12)",
+        "No 139",
+        "Ryan Niladri Banerjee (36)",
+        "Ryan Niladri Banerjee , Michael Chui and Leonardo Gambacorta"
+      ],
+      "removed": [
+        "BIS Bulletin (138)",
+        "Bank for International Settlements (2846)",
+        "Banking (3)",
+        "Consultative",
+        "Displaying 1-10 of 5081",
+        "Fintech (9)",
+        "Global systemically important banks – methodology review",
+        "Insurance (1)",
+        "Leonardo Gambacorta (124)",
+        "Michael Chui (11)",
+        "Ryan Niladri Banerjee (35)",
+        "The Basel Committee on Banking Supervision has issued a public consultation on the global systemically important banks (G-SIB) methodology."
+      ]
     },
     {
       "name": "米財務省 プレスリリース",
@@ -80,7 +121,7 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-26 08:59:10",
+      "checked_at": "2026-10-27 10:19:23",
       "changed_at": "2026-10-23 09:29:02",
       "line_count": 379
     },
@@ -90,12 +131,62 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-26 08:59:10",
+      "checked_at": "2026-10-27 10:19:23",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-10-27 10:19:23",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "26 Oct 2026",
+        "BIS Bulletin",
+        "BIS Bulletin (139)",
+        "Bank for International Settlements (2847)",
+        "Banking (6)",
+        "Chokepoints in global supply chains: lessons from rare earths and hard disk drives",
+        "Concentration and limited substitutability can turn the efficiency gains from global supply chains into vulnerabilities. However, the consequences of chokepoint…",
+        "Digital assets (1)",
+        "Displaying 1-10 of 5082",
+        "Fintech (10)",
+        "Insurance (2)",
+        "Leonardo Gambacorta (125)",
+        "Michael Chui (12)",
+        "No 139",
+        "Ryan Niladri Banerjee (36)",
+        "Ryan Niladri Banerjee , Michael Chui and Leonardo Gambacorta"
+      ],
+      "removed": [
+        "BIS Bulletin (138)",
+        "Bank for International Settlements (2846)",
+        "Banking (3)",
+        "Consultative",
+        "Displaying 1-10 of 5081",
+        "Fintech (9)",
+        "Global systemically important banks – methodology review",
+        "Insurance (1)",
+        "Leonardo Gambacorta (124)",
+        "Michael Chui (11)",
+        "Ryan Niladri Banerjee (35)",
+        "The Basel Committee on Banking Supervision has issued a public consultation on the global systemically important banks (G-SIB) methodology."
+      ]
+    },
+    {
+      "at": "2026-10-27 10:19:23",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年10月26日",
+        "外国為替市況（10月26日） [PDF 61KB]"
+      ],
+      "removed": [
+        "2026年10月19日",
+        "外国為替市況（10月19日） [PDF 61KB]"
+      ]
+    },
     {
       "at": "2026-10-24 09:24:42",
       "name": "BIS FSI Briefs",
