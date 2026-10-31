@@ -1,29 +1,46 @@
 {
-  "generated_at": "2026-10-30 10:45:19",
+  "generated_at": "2026-10-31 10:28:13",
   "summary": {
-    "changed": 4,
-    "same": 5
+    "changed": 5,
+    "failed": 1,
+    "same": 3
   },
   "items": [
     {
       "name": "財務省 外国為替平衡操作（月次）",
       "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html",
       "note": "介入額の月次公表。毎月末更新",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-30 10:45:19",
-      "changed_at": "2026-10-01 10:09:57",
-      "line_count": 119
+      "checked_at": "2026-10-31 10:28:13",
+      "changed_at": "2026-10-31 10:28:13",
+      "line_count": 119,
+      "added": [
+        "令和8年11月 9 日（月）午前8時50分",
+        "令和8年12月30日（水）午後7時00分",
+        "月次ベース（令和8年11月27日～令和8年12月28日）"
+      ],
+      "removed": [
+        "令和8年10月30日（金）午後7時00分",
+        "令和8年11月2日-9日",
+        "月次ベース（令和8年9月29日～令和8年10月28日）"
+      ]
     },
     {
       "name": "財務省 外貨準備等の状況",
       "url": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm",
       "note": "毎月上旬更新",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-30 10:45:19",
-      "changed_at": "2026-10-08 10:40:00",
-      "line_count": 123
+      "checked_at": "2026-10-31 10:28:13",
+      "changed_at": "2026-10-31 10:28:13",
+      "line_count": 123,
+      "added": [
+        "令和8年11月9日（月）午前8時50分"
+      ],
+      "removed": [
+        "令和8年11月1日～9日"
+      ]
     },
     {
       "name": "日銀 外国為替市況（日次一覧）",
@@ -31,35 +48,27 @@
       "note": "毎営業日・17時レート",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-30 10:45:19",
-      "changed_at": "2026-10-30 10:45:19",
+      "checked_at": "2026-10-31 10:28:13",
+      "changed_at": "2026-10-31 10:28:13",
       "line_count": 402,
       "added": [
-        "2026年10月29日",
-        "外国為替市況（10月29日） [PDF 61KB]"
+        "2026年10月30日",
+        "外国為替市況（10月30日） [PDF 62KB]"
       ],
       "removed": [
-        "2026年10月22日",
-        "アルムナイネットワーク",
-        "キャリア採用",
-        "外国為替市況（10月22日） [PDF 61KB]",
-        "新規採用"
+        "2026年10月23日",
+        "外国為替市況（10月23日） [PDF 62KB]"
       ]
     },
     {
       "name": "日銀 金融政策決定会合",
       "url": "https://www.boj.or.jp/mopo/mpmdeci/index.htm",
       "note": "会合結果・声明",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-10-30 10:45:19",
+      "checked_at": "2026-10-31 10:28:13",
       "changed_at": "2026-10-30 10:45:19",
-      "line_count": 257,
-      "removed": [
-        "アルムナイネットワーク",
-        "キャリア採用",
-        "新規採用"
-      ]
+      "line_count": 257
     },
     {
       "name": "金融庁 報道発表",
@@ -67,7 +76,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-30 10:45:19",
+      "checked_at": "2026-10-31 10:28:13",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -77,129 +86,65 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-30 10:45:19",
-      "changed_at": "2026-10-30 10:45:19",
+      "checked_at": "2026-10-31 10:28:13",
+      "changed_at": "2026-10-31 10:28:13",
       "line_count": 129,
       "added": [
-        "The Securities and Exchange Commission today charged two foreign-operated, Colorado-incorporated entities, BG Wealth Sharing Ltd and DSJ Exchange Pty Ltd, for o…",
-        "Thu, 29 Oct 2026 12:42:37 -0400",
-        "Two Entities Charged in $130 Million Fraud Scheme That Used False SEC Filings to Boost Investor Confidence",
-        "a3c85e07-e739-496e-bc7a-7d940c0a84c3",
-        "https://www.sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence"
+        "57c0bf48-4b38-4a9c-8d4c-fc217f39e7aa",
+        "Fri, 30 Oct 2026 15:30:00 -0400",
+        "SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions",
+        "The Securities and Exchange Commission took another step forward today to assist broker-dealers and other market participants on the path to central clearing of…",
+        "https://www.sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo"
       ],
       "removed": [
-        "06cec215-1a77-4ef5-826d-4a0a23404513",
-        "SEC Proposes Rescission of Political Contribution Rule for Investment Advisers",
-        "The Securities and Exchange Commission today issued a\u0026nbsp;proposal\u0026nbsp;to rescind\u0026nbsp;its “pay-to-play”\u0026nbsp;rule that\u0026nbsp;prohibits investment advisers…",
-        "Thu, 03 Sep 2026 16:30:00 -0400",
-        "https://www.sec.gov/newsroom/press-releases/2026-85-sec-proposes-rescission-political-contribution-rule-investment-advisers"
+        "SEC Charges Founder and His Two New Jersey-Based Companies in Alleged $16 Million Ponzi Scheme",
+        "The Securities and Exchange Commission today charged Ernest Ossei Boateng and two New Jersey-based companies he controls, Intercontinental Wealth Network LLC an…",
+        "Thu, 10 Sep 2026 13:45:22 -0400",
+        "c2889ff5-77c4-4858-b5ae-e2b94d15998e",
+        "https://www.sec.gov/newsroom/press-releases/2026-86-sec-charges-founder-his-two-new-jersey-based-companies-alleged-16-million-ponzi-scheme"
       ]
     },
     {
       "name": "BIS FSI Briefs",
       "url": "https://www.bis.org/publications/",
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
-      "result": "changed",
-      "status": 200,
-      "checked_at": "2026-10-30 10:45:19",
+      "result": "failed",
+      "status": 500,
+      "err": "HTTP 500",
+      "checked_at": "2026-10-31 10:28:13",
       "changed_at": "2026-10-30 10:45:19",
-      "line_count": 3006,
-      "added": [
-        "29 Oct 2026",
-        "29 Oct 2026",
-        "Bank for International Settlements (2850)",
-        "Banking (167)",
-        "Big tech (12)",
-        "C45 (11)",
-        "C60 (7)",
-        "C88 (6)",
-        "C89 (4)",
-        "CPMI (280)",
-        "CPMI Papers",
-        "CPMI Papers (227)",
-        "Crisis management (36)",
-        "D62 (11)",
-        "Digital assets (15)",
-        "Displaying 1-10 of 5086",
-        "E42 (92)",
-        "E58 (268)",
-        "E61 (28)",
-        "F24 (3)",
-        "F30 (37)",
-        "F31 (112)",
-        "F33 (37)",
-        "F34 (72)",
-        "F42 (45)",
-        "FSI Briefs (32)",
-        "Fintech (52)",
-        "G01 (108)",
-        "G11 (49)",
-        "G15 (133)",
-        "G18 (68)",
-        "G20 (58)",
-        "G21 (339)",
-        "G22 (23)",
-        "G23 (134)",
-        "G28 (243)",
-        "G29 (4)",
-        "G30 (22)",
-        "G32 (56)",
-        "G33 (20)"
-      ],
-      "removed": [
-        "Anna Breman , Fatih Karahan , Tiff Macklem and Ida Wolden Bache",
-        "BIS Paper",
-        "Bank for International Settlements (2848)",
-        "Banking (74)",
-        "Big tech (9)",
-        "C45 (8)",
-        "C60 (6)",
-        "C88 (4)",
-        "C89 (2)",
-        "CPMI (279)",
-        "CPMI Papers (226)",
-        "Central banks and macro financial stability in a fragmented global economy",
-        "Chris Clayton , Antonio Coppola , Vanessa Hu , Matteo Maggiori , Jesse Schreger and Serdil Tinda",
-        "Crisis management (20)",
-        "D62 (10)",
-        "Digital assets (12)",
-        "Displaying 1-10 of 5084",
-        "E42 (91)",
-        "E58 (265)",
-        "E61 (27)",
-        "F24 (2)",
-        "F30 (34)",
-        "F31 (111)",
-        "F33 (36)",
-        "F34 (71)",
-        "F42 (44)",
-        "FSI Briefs (33)",
-        "Fintech (37)",
-        "G01 (105)",
-        "G11 (48)",
-        "G15 (132)",
-        "G18 (58)",
-        "G20 (51)",
-        "G21 (317)",
-        "G22 (19)",
-        "G23 (129)",
-        "G28 (221)",
-        "G29 (3)",
-        "G30 (21)",
-        "G32 (54)"
-      ],
-      "added_more": 26,
-      "removed_more": 27
+      "line_count": 3006
     },
     {
       "name": "米財務省 プレスリリース",
       "url": "https://home.treasury.gov/news/press-releases",
       "note": "GENIUS法の規則・為替報告",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-10-30 10:45:19",
-      "changed_at": "2026-10-29 10:39:19",
-      "line_count": 379
+      "checked_at": "2026-10-31 10:28:13",
+      "changed_at": "2026-10-31 10:28:13",
+      "line_count": 380,
+      "added": [
+        "ICYMI: Secretary Bessent, Trump Administration Officials Announce New Fraud Prevention Measures in Minnesota",
+        "October 30, 2026",
+        "October 30, 2026",
+        "October 30, 2026",
+        "October 30, 2026",
+        "Remarks by Secretary of the Treasury Scott Bessent on New Fraud Prevention Measures in Minnesota",
+        "Report on U.S. Portfolio Holdings of Foreign Securities at Year-End 2025",
+        "Secretary Bessent, Senior U.S. Officials Announce New Fraud Prevention Measures in Minnesota",
+        "Secretary Statements \u0026 Remarks"
+      ],
+      "removed": [
+        "October 15, 2026",
+        "October 15, 2026",
+        "October 16, 2026",
+        "October 19, 2026",
+        "Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks",
+        "Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture",
+        "Treasury International Capital Data for August 2026",
+        "U.S. Treasury Identifies $270 Million in Suspicious Activity Linked to Federal Student Aid Fraud"
+      ]
     },
     {
       "name": "MAS メディアリリース",
@@ -207,12 +152,96 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-30 10:45:19",
+      "checked_at": "2026-10-31 10:28:13",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-10-31 10:28:13",
+      "name": "米財務省 プレスリリース",
+      "url": "https://home.treasury.gov/news/press-releases",
+      "added": [
+        "ICYMI: Secretary Bessent, Trump Administration Officials Announce New Fraud Prevention Measures in Minnesota",
+        "October 30, 2026",
+        "October 30, 2026",
+        "October 30, 2026",
+        "October 30, 2026",
+        "Remarks by Secretary of the Treasury Scott Bessent on New Fraud Prevention Measures in Minnesota",
+        "Report on U.S. Portfolio Holdings of Foreign Securities at Year-End 2025",
+        "Secretary Bessent, Senior U.S. Officials Announce New Fraud Prevention Measures in Minnesota",
+        "Secretary Statements \u0026 Remarks"
+      ],
+      "removed": [
+        "October 15, 2026",
+        "October 15, 2026",
+        "October 16, 2026",
+        "October 19, 2026",
+        "Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks",
+        "Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture",
+        "Treasury International Capital Data for August 2026",
+        "U.S. Treasury Identifies $270 Million in Suspicious Activity Linked to Federal Student Aid Fraud"
+      ]
+    },
+    {
+      "at": "2026-10-31 10:28:13",
+      "name": "米SEC プレスリリース",
+      "url": "https://www.sec.gov/news/pressreleases.rss",
+      "added": [
+        "57c0bf48-4b38-4a9c-8d4c-fc217f39e7aa",
+        "Fri, 30 Oct 2026 15:30:00 -0400",
+        "SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions",
+        "The Securities and Exchange Commission took another step forward today to assist broker-dealers and other market participants on the path to central clearing of…",
+        "https://www.sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo"
+      ],
+      "removed": [
+        "SEC Charges Founder and His Two New Jersey-Based Companies in Alleged $16 Million Ponzi Scheme",
+        "The Securities and Exchange Commission today charged Ernest Ossei Boateng and two New Jersey-based companies he controls, Intercontinental Wealth Network LLC an…",
+        "Thu, 10 Sep 2026 13:45:22 -0400",
+        "c2889ff5-77c4-4858-b5ae-e2b94d15998e",
+        "https://www.sec.gov/newsroom/press-releases/2026-86-sec-charges-founder-his-two-new-jersey-based-companies-alleged-16-million-ponzi-scheme"
+      ]
+    },
+    {
+      "at": "2026-10-31 10:28:13",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年10月30日",
+        "外国為替市況（10月30日） [PDF 62KB]"
+      ],
+      "removed": [
+        "2026年10月23日",
+        "外国為替市況（10月23日） [PDF 62KB]"
+      ]
+    },
+    {
+      "at": "2026-10-31 10:28:13",
+      "name": "財務省 外貨準備等の状況",
+      "url": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm",
+      "added": [
+        "令和8年11月9日（月）午前8時50分"
+      ],
+      "removed": [
+        "令和8年11月1日～9日"
+      ]
+    },
+    {
+      "at": "2026-10-31 10:28:13",
+      "name": "財務省 外国為替平衡操作（月次）",
+      "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html",
+      "added": [
+        "令和8年11月 9 日（月）午前8時50分",
+        "令和8年12月30日（水）午後7時00分",
+        "月次ベース（令和8年11月27日～令和8年12月28日）"
+      ],
+      "removed": [
+        "令和8年10月30日（金）午後7時00分",
+        "令和8年11月2日-9日",
+        "月次ベース（令和8年9月29日～令和8年10月28日）"
+      ]
+    },
     {
       "at": "2026-10-30 10:45:19",
       "name": "BIS FSI Briefs",
