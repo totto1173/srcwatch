@@ -1,64 +1,39 @@
 {
-  "generated_at": "2026-10-31 10:28:13",
+  "generated_at": "2026-11-01 09:51:01",
   "summary": {
-    "changed": 5,
     "failed": 1,
-    "same": 3
+    "same": 8
   },
   "items": [
     {
       "name": "財務省 外国為替平衡操作（月次）",
       "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html",
       "note": "介入額の月次公表。毎月末更新",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-10-31 10:28:13",
+      "checked_at": "2026-11-01 09:51:01",
       "changed_at": "2026-10-31 10:28:13",
-      "line_count": 119,
-      "added": [
-        "令和8年11月 9 日（月）午前8時50分",
-        "令和8年12月30日（水）午後7時00分",
-        "月次ベース（令和8年11月27日～令和8年12月28日）"
-      ],
-      "removed": [
-        "令和8年10月30日（金）午後7時00分",
-        "令和8年11月2日-9日",
-        "月次ベース（令和8年9月29日～令和8年10月28日）"
-      ]
+      "line_count": 119
     },
     {
       "name": "財務省 外貨準備等の状況",
       "url": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm",
       "note": "毎月上旬更新",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-10-31 10:28:13",
+      "checked_at": "2026-11-01 09:51:01",
       "changed_at": "2026-10-31 10:28:13",
-      "line_count": 123,
-      "added": [
-        "令和8年11月9日（月）午前8時50分"
-      ],
-      "removed": [
-        "令和8年11月1日～9日"
-      ]
+      "line_count": 123
     },
     {
       "name": "日銀 外国為替市況（日次一覧）",
       "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
       "note": "毎営業日・17時レート",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-10-31 10:28:13",
+      "checked_at": "2026-11-01 09:51:01",
       "changed_at": "2026-10-31 10:28:13",
-      "line_count": 402,
-      "added": [
-        "2026年10月30日",
-        "外国為替市況（10月30日） [PDF 62KB]"
-      ],
-      "removed": [
-        "2026年10月23日",
-        "外国為替市況（10月23日） [PDF 62KB]"
-      ]
+      "line_count": 402
     },
     {
       "name": "日銀 金融政策決定会合",
@@ -66,7 +41,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-31 10:28:13",
+      "checked_at": "2026-11-01 09:51:01",
       "changed_at": "2026-10-30 10:45:19",
       "line_count": 257
     },
@@ -76,7 +51,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-31 10:28:13",
+      "checked_at": "2026-11-01 09:51:01",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -84,25 +59,11 @@
       "name": "米SEC プレスリリース",
       "url": "https://www.sec.gov/news/pressreleases.rss",
       "note": "規則案・採択（HTMLは403のためRSS）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-10-31 10:28:13",
+      "checked_at": "2026-11-01 09:51:01",
       "changed_at": "2026-10-31 10:28:13",
-      "line_count": 129,
-      "added": [
-        "57c0bf48-4b38-4a9c-8d4c-fc217f39e7aa",
-        "Fri, 30 Oct 2026 15:30:00 -0400",
-        "SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions",
-        "The Securities and Exchange Commission took another step forward today to assist broker-dealers and other market participants on the path to central clearing of…",
-        "https://www.sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo"
-      ],
-      "removed": [
-        "SEC Charges Founder and His Two New Jersey-Based Companies in Alleged $16 Million Ponzi Scheme",
-        "The Securities and Exchange Commission today charged Ernest Ossei Boateng and two New Jersey-based companies he controls, Intercontinental Wealth Network LLC an…",
-        "Thu, 10 Sep 2026 13:45:22 -0400",
-        "c2889ff5-77c4-4858-b5ae-e2b94d15998e",
-        "https://www.sec.gov/newsroom/press-releases/2026-86-sec-charges-founder-his-two-new-jersey-based-companies-alleged-16-million-ponzi-scheme"
-      ]
+      "line_count": 129
     },
     {
       "name": "BIS FSI Briefs",
@@ -111,7 +72,7 @@
       "result": "failed",
       "status": 500,
       "err": "HTTP 500",
-      "checked_at": "2026-10-31 10:28:13",
+      "checked_at": "2026-11-01 09:51:01",
       "changed_at": "2026-10-30 10:45:19",
       "line_count": 3006
     },
@@ -119,32 +80,11 @@
       "name": "米財務省 プレスリリース",
       "url": "https://home.treasury.gov/news/press-releases",
       "note": "GENIUS法の規則・為替報告",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-10-31 10:28:13",
+      "checked_at": "2026-11-01 09:51:01",
       "changed_at": "2026-10-31 10:28:13",
-      "line_count": 380,
-      "added": [
-        "ICYMI: Secretary Bessent, Trump Administration Officials Announce New Fraud Prevention Measures in Minnesota",
-        "October 30, 2026",
-        "October 30, 2026",
-        "October 30, 2026",
-        "October 30, 2026",
-        "Remarks by Secretary of the Treasury Scott Bessent on New Fraud Prevention Measures in Minnesota",
-        "Report on U.S. Portfolio Holdings of Foreign Securities at Year-End 2025",
-        "Secretary Bessent, Senior U.S. Officials Announce New Fraud Prevention Measures in Minnesota",
-        "Secretary Statements \u0026 Remarks"
-      ],
-      "removed": [
-        "October 15, 2026",
-        "October 15, 2026",
-        "October 16, 2026",
-        "October 19, 2026",
-        "Operation Economic Outcast Targets Iranian Regime’s Abuse of Religious Charity Networks",
-        "Operation Economic Outcast Targets Iran’s International Financial Networks and Shadow Banking Architecture",
-        "Treasury International Capital Data for August 2026",
-        "U.S. Treasury Identifies $270 Million in Suspicious Activity Linked to Federal Student Aid Fraud"
-      ]
+      "line_count": 380
     },
     {
       "name": "MAS メディアリリース",
@@ -152,7 +92,7 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-10-31 10:28:13",
+      "checked_at": "2026-11-01 09:51:01",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
