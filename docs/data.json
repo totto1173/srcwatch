@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-01 09:51:01",
+  "generated_at": "2026-11-02 10:23:48",
   "summary": {
-    "failed": 1,
-    "same": 8
+    "changed": 3,
+    "same": 6
   },
   "items": [
     {
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-01 09:51:01",
+      "checked_at": "2026-11-02 10:23:48",
       "changed_at": "2026-10-31 10:28:13",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-01 09:51:01",
+      "checked_at": "2026-11-02 10:23:48",
       "changed_at": "2026-10-31 10:28:13",
       "line_count": 123
     },
@@ -29,21 +29,27 @@
       "name": "日銀 外国為替市況（日次一覧）",
       "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
       "note": "毎営業日・17時レート",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-01 09:51:01",
-      "changed_at": "2026-10-31 10:28:13",
-      "line_count": 402
+      "checked_at": "2026-11-02 10:23:48",
+      "changed_at": "2026-11-02 10:23:48",
+      "line_count": 404,
+      "added": [
+        "新規採用"
+      ]
     },
     {
       "name": "日銀 金融政策決定会合",
       "url": "https://www.boj.or.jp/mopo/mpmdeci/index.htm",
       "note": "会合結果・声明",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-01 09:51:01",
-      "changed_at": "2026-10-30 10:45:19",
-      "line_count": 257
+      "checked_at": "2026-11-02 10:23:48",
+      "changed_at": "2026-11-02 10:23:48",
+      "line_count": 259,
+      "added": [
+        "新規採用"
+      ]
     },
     {
       "name": "金融庁 報道発表",
@@ -51,7 +57,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-01 09:51:01",
+      "checked_at": "2026-11-02 10:23:48",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -61,7 +67,7 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-01 09:51:01",
+      "checked_at": "2026-11-02 10:23:48",
       "changed_at": "2026-10-31 10:28:13",
       "line_count": 129
     },
@@ -69,12 +75,17 @@
       "name": "BIS FSI Briefs",
       "url": "https://www.bis.org/publications/",
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
-      "result": "failed",
-      "status": 500,
-      "err": "HTTP 500",
-      "checked_at": "2026-11-01 09:51:01",
-      "changed_at": "2026-10-30 10:45:19",
-      "line_count": 3006
+      "result": "changed",
+      "status": 200,
+      "checked_at": "2026-11-02 10:23:48",
+      "changed_at": "2026-11-02 10:23:48",
+      "line_count": 3006,
+      "added": [
+        "Bank for International Settlements (2849)"
+      ],
+      "removed": [
+        "Bank for International Settlements (2850)"
+      ]
     },
     {
       "name": "米財務省 プレスリリース",
@@ -82,7 +93,7 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-01 09:51:01",
+      "checked_at": "2026-11-02 10:23:48",
       "changed_at": "2026-10-31 10:28:13",
       "line_count": 380
     },
@@ -92,12 +103,39 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-01 09:51:01",
+      "checked_at": "2026-11-02 10:23:48",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-11-02 10:23:48",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "Bank for International Settlements (2849)"
+      ],
+      "removed": [
+        "Bank for International Settlements (2850)"
+      ]
+    },
+    {
+      "at": "2026-11-02 10:23:48",
+      "name": "日銀 金融政策決定会合",
+      "url": "https://www.boj.or.jp/mopo/mpmdeci/index.htm",
+      "added": [
+        "新規採用"
+      ]
+    },
+    {
+      "at": "2026-11-02 10:23:48",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "新規採用"
+      ]
+    },
     {
       "at": "2026-10-31 10:28:13",
       "name": "米財務省 プレスリリース",
