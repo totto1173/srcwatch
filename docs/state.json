@@ -1,8 +1,8 @@
 {
   "https://home.treasury.gov/news/press-releases": {
-    "hash": "cd3efc5d7dc858d4119c3320d39e58c02bfd0974d6e17edcd852e5c8775526a8",
-    "checked_at": "2026-11-02 10:23:48",
-    "changed_at": "2026-10-31 10:28:13",
+    "hash": "13425732464c41460c403350b1fbe235914746df3e2ba4d9d161176e0f60c646",
+    "checked_at": "2026-11-03 12:23:26",
+    "changed_at": "2026-11-03 12:23:26",
     "lines": [
       "Press Releases | U.S. Department of the Treasury",
       "Skip to main content",
@@ -305,6 +305,13 @@
       "Webcasts",
       "Press Contacts",
       "Press Releases",
+      "November 2, 2026",
+      "Readouts",
+      "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with Venezuelan Foreign Minister Oliver Blanco",
+      "November 2, 2026",
+      "Treasury Announces Marketable Borrowing Estimates",
+      "November 2, 2026",
+      "Economy Statement for the Treasury Borrowing Advisory Committee",
       "October 30, 2026",
       "Report on U.S. Portfolio Holdings of Foreign Securities at Year-End 2025",
       "October 30, 2026",
@@ -320,13 +327,6 @@
       "Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23",
       "October 22, 2026",
       "Treasury Issues Proposed Rule to Implement Comprehensive Outbound Investment National Security Act",
-      "October 22, 2026",
-      "Readouts",
-      "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with President Santiago Peña of Paraguay",
-      "October 22, 2026",
-      "The Trump Administration is Making Homeownership More Affordable",
-      "October 21, 2026",
-      "Operation Economic Outcast Targets Iran’s Shadow Fleet Networks",
       "Pagination",
       "Current page 1",
       "Page 2",
@@ -388,9 +388,9 @@
     "status": 200
   },
   "https://www.bis.org/publications/": {
-    "hash": "32009897bc7a787ec3fc24f871a2653602537dc13f1132e65cae1d8aaacf58e8",
-    "checked_at": "2026-11-02 10:23:48",
-    "changed_at": "2026-11-02 10:23:48",
+    "hash": "94bf8b1f56e8e1d82c0c2a474e9de5cd3db053e1bbe513b85541898867f1dedc",
+    "checked_at": "2026-11-03 12:23:26",
+    "changed_at": "2026-11-03 12:23:26",
     "lines": [
       "Publications | Bank for International Settlements",
       "Skip to main content",
@@ -3285,14 +3285,14 @@
       "Technological innovation (1)",
       "Displaying 1-10 of 5086",
       "Publication",
+      "IBS/GLI",
+      "29 Oct 2026",
+      "Statistical release: BIS international banking statistics and global liquidity indicators at end-June 2026",
+      "Publication",
       "CPMI Papers",
       "29 Oct 2026",
       "The roles of central banks and central bank money in the evolving payment system",
       "Technological innovation, changing user demand and the emergence of new types of entities and infrastructures are transforming payment systems. These developments may have significant implications for payment system safety and efficiency as well as for…",
-      "Publication",
-      "IBS/GLI",
-      "29 Oct 2026",
-      "Statistical release: BIS international banking statistics and global liquidity indicators at end-June 2026",
       "Publication",
       "IFC Report",
       "No 19",
@@ -3322,7 +3322,7 @@
       "No 1389",
       "23 Oct 2026",
       "News shocks and inflation: theory and evidence from large oil discoveries",
-      "We study hownews shocks affect inflation in open economies, using large oil and gas discoveries with realized production lags of at least five years as observable news about future output. Panel local projections show that discoveries raise core consumer…",
+      "We study how news shocks affect inflation in open economies, using large oil and gas discoveries with realized production lags of at least five years as observable news about future output. Panel local projections show that discoveries raise core consumer…",
       "Authors:",
       "Bohou Cai , Liugang Sheng and Hongyan Zhao",
       "Inflation",
@@ -3402,9 +3402,9 @@
     "status": 200
   },
   "https://www.boj.or.jp/mopo/mpmdeci/index.htm": {
-    "hash": "e6554f7552abcf9ec973d9dfa7e5e93112aca6a0967ced9a63ed833fcbe36062",
-    "checked_at": "2026-11-02 10:23:48",
-    "changed_at": "2026-11-02 10:23:48",
+    "hash": "602b4d245e765c49a9f314b7449e86e3fca98d29835f8c2b38770158fe4569f9",
+    "checked_at": "2026-11-03 12:23:26",
+    "changed_at": "2026-11-03 12:23:26",
     "lines": [
       "金融政策に関する決定事項等 : 日本銀行 Bank of Japan",
       "このページの本文へ移動",
@@ -3463,6 +3463,8 @@
       "採用・人事交流等",
       "採用・人事交流等",
       "新規採用",
+      "キャリア採用",
+      "アルムナイネットワーク",
       "調達関連情報",
       "気候変動",
       "リンク集",
@@ -3669,9 +3671,9 @@
     "status": 200
   },
   "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm": {
-    "hash": "d9b45407d774f03f059e9e5fbad63a3b8195567b8d2e03aa784c7b8154c7960a",
-    "checked_at": "2026-11-02 10:23:48",
-    "changed_at": "2026-11-02 10:23:48",
+    "hash": "7d806385b4015ff3f3272f9a939854e08d25ad8c092df27dda20093ca9c97536",
+    "checked_at": "2026-11-03 12:23:26",
+    "changed_at": "2026-11-03 12:23:26",
     "lines": [
       "外国為替市況（日次） : 日本銀行 Bank of Japan",
       "このページの本文へ移動",
@@ -3730,6 +3732,8 @@
       "採用・人事交流等",
       "採用・人事交流等",
       "新規採用",
+      "キャリア採用",
+      "アルムナイネットワーク",
       "調達関連情報",
       "気候変動",
       "リンク集",
@@ -3919,6 +3923,8 @@
       "表 公表データ",
       "掲載日",
       "データ",
+      "2026年11月 2日",
+      "外国為替市況（11月2日） [PDF 61KB]",
       "2026年10月30日",
       "外国為替市況（10月30日） [PDF 62KB]",
       "2026年10月29日",
@@ -3927,8 +3933,6 @@
       "外国為替市況（10月28日） [PDF 62KB]",
       "2026年10月27日",
       "外国為替市況（10月27日） [PDF 62KB]",
-      "2026年10月26日",
-      "外国為替市況（10月26日） [PDF 61KB]",
       "外国為替市況（日次）一覧",
       "参考計数（東京外為市場における取引状況）",
       "表 参考計数（東京外為市場における取引状況）",
@@ -4082,7 +4086,7 @@
   },
   "https://www.fsa.go.jp/news/index.html": {
     "hash": "ee8109996ad8737721659c7a88f1aa97b730a0348cea80a719087d6e7430e7ee",
-    "checked_at": "2026-11-02 10:23:48",
+    "checked_at": "2026-11-03 12:23:26",
     "changed_at": "2026-10-01 10:09:57",
     "lines": [
       "--\u003e",
@@ -4394,14 +4398,14 @@
   },
   "https://www.mas.gov.sg/news": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "checked_at": "2026-11-02 10:23:48",
+    "checked_at": "2026-11-03 12:23:26",
     "changed_at": "2026-09-07 16:35:42",
     "lines": null,
     "status": 200
   },
   "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html": {
     "hash": "976a08ddc8cc2277d1ee9745968ce7863f9631f7d08c45a05cecae7ce28d0187",
-    "checked_at": "2026-11-02 10:23:48",
+    "checked_at": "2026-11-03 12:23:26",
     "changed_at": "2026-10-31 10:28:13",
     "lines": [
       "﻿",
@@ -4528,7 +4532,7 @@
   },
   "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm": {
     "hash": "61e25b91b27dee8eaa10bc84f6f1e46be42f12e79345bf06b05dcacbe01da2a9",
-    "checked_at": "2026-11-02 10:23:48",
+    "checked_at": "2026-11-03 12:23:26",
     "changed_at": "2026-10-31 10:28:13",
     "lines": [
       "﻿",
@@ -4659,7 +4663,7 @@
   },
   "https://www.sec.gov/news/pressreleases.rss": {
     "hash": "e5a1d470971736051109a52c66eeed3fb24d233adee05de7d37fd0e66a137d11",
-    "checked_at": "2026-11-02 10:23:48",
+    "checked_at": "2026-11-03 12:23:26",
     "changed_at": "2026-10-31 10:28:13",
     "lines": [
       "Press Releases",
