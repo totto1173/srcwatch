@@ -1,7 +1,7 @@
 {
   "https://home.treasury.gov/news/press-releases": {
     "hash": "13425732464c41460c403350b1fbe235914746df3e2ba4d9d161176e0f60c646",
-    "checked_at": "2026-11-03 12:23:26",
+    "checked_at": "2026-11-04 11:02:17",
     "changed_at": "2026-11-03 12:23:26",
     "lines": [
       "Press Releases | U.S. Department of the Treasury",
@@ -388,9 +388,9 @@
     "status": 200
   },
   "https://www.bis.org/publications/": {
-    "hash": "94bf8b1f56e8e1d82c0c2a474e9de5cd3db053e1bbe513b85541898867f1dedc",
-    "checked_at": "2026-11-03 12:23:26",
-    "changed_at": "2026-11-03 12:23:26",
+    "hash": "8b620cf90a7508db5238182b9c8355225decb1791e027e47d4323cdddcaff508",
+    "checked_at": "2026-11-04 11:02:17",
+    "changed_at": "2026-11-04 11:02:17",
     "lines": [
       "Publications | Bank for International Settlements",
       "Skip to main content",
@@ -2301,7 +2301,7 @@
       "Ramon Moreno (7)",
       "Randall Wright (1)",
       "Raoul Minetti (1)",
-      "Raphael Auer (38)",
+      "Raphael Auer (39)",
       "Raphael Schoenle (2)",
       "Rashad Ahmed (4)",
       "Rasmus Fatum (1)",
@@ -2779,9 +2779,9 @@
       "C33 (8)",
       "C34 (1)",
       "C35 (1)",
-      "C38 (5)",
+      "C38 (6)",
       "C40 (3)",
-      "C43 (3)",
+      "C43 (4)",
       "C45 (11)",
       "C50 (3)",
       "C51 (2)",
@@ -2879,7 +2879,7 @@
       "E27 (2)",
       "E30 (24)",
       "E31 (111)",
-      "E32 (90)",
+      "E32 (91)",
       "E37 (33)",
       "E39 (2)",
       "E40 (36)",
@@ -3092,7 +3092,7 @@
       "N2 (4)",
       "N10 (7)",
       "N11 (1)",
-      "N12 (1)",
+      "N12 (2)",
       "N13 (3)",
       "N15 (1)",
       "N20 (6)",
@@ -3183,7 +3183,7 @@
       "Source",
       "Americas office (153)",
       "Asia Office (183)",
-      "Bank for International Settlements (2849)",
+      "Bank for International Settlements (2850)",
       "BCBS (814)",
       "BIS Innovation Hub (63)",
       "CBGF (4)",
@@ -3200,7 +3200,7 @@
       "BIS Bulletin (140)",
       "BIS Economic Paper (45)",
       "BIS Paper (178)",
-      "BIS Working Paper (1396)",
+      "BIS Working Paper (1397)",
       "CCA report (6)",
       "CGFS Papers (73)",
       "Conference Paper (10)",
@@ -3283,7 +3283,15 @@
       "Suptech and regtech (11)",
       "Suptech and regtech (1)",
       "Technological innovation (1)",
-      "Displaying 1-10 of 5086",
+      "Displaying 1-10 of 5087",
+      "Publication",
+      "BIS Working Paper",
+      "No 1390",
+      "03 Nov 2026",
+      "Prewar US business cycles under uncertainty: reconstructing quarterly GDP before 1947",
+      "Official quarterly US GDP estimates begin in 1947; earlier quarterly histories must be reconstructed using annual benchmarks and historical indicators. To investigate uncertainty in these reconstructions, this paper systematically compares specifications…",
+      "Author:",
+      "Raphael Auer",
       "Publication",
       "IBS/GLI",
       "29 Oct 2026",
@@ -3353,16 +3361,6 @@
       "Macroeconomic analysis",
       "Inflation",
       "Monetary policy",
-      "Publication",
-      "BIS Working Paper",
-      "No 1385",
-      "19 Oct 2026",
-      "Competing rails for crossborder payments: banks, fintechs, and stablecoins",
-      "Cross-border payments remain slow and expensive despite significant improvements in digital financial infrastructure over the past several decades.",
-      "Authors:",
-      "Wenxin Du , Catherine Huang and David Scharfstein",
-      "Technological innovation",
-      "Innovation and fintech",
       "Current page",
       "Page",
       "Page",
@@ -3403,7 +3401,7 @@
   },
   "https://www.boj.or.jp/mopo/mpmdeci/index.htm": {
     "hash": "602b4d245e765c49a9f314b7449e86e3fca98d29835f8c2b38770158fe4569f9",
-    "checked_at": "2026-11-03 12:23:26",
+    "checked_at": "2026-11-04 11:02:17",
     "changed_at": "2026-11-03 12:23:26",
     "lines": [
       "金融政策に関する決定事項等 : 日本銀行 Bank of Japan",
@@ -3672,7 +3670,7 @@
   },
   "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm": {
     "hash": "7d806385b4015ff3f3272f9a939854e08d25ad8c092df27dda20093ca9c97536",
-    "checked_at": "2026-11-03 12:23:26",
+    "checked_at": "2026-11-04 11:02:17",
     "changed_at": "2026-11-03 12:23:26",
     "lines": [
       "外国為替市況（日次） : 日本銀行 Bank of Japan",
@@ -4086,7 +4084,7 @@
   },
   "https://www.fsa.go.jp/news/index.html": {
     "hash": "ee8109996ad8737721659c7a88f1aa97b730a0348cea80a719087d6e7430e7ee",
-    "checked_at": "2026-11-03 12:23:26",
+    "checked_at": "2026-11-04 11:02:17",
     "changed_at": "2026-10-01 10:09:57",
     "lines": [
       "--\u003e",
@@ -4398,14 +4396,14 @@
   },
   "https://www.mas.gov.sg/news": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "checked_at": "2026-11-03 12:23:26",
+    "checked_at": "2026-11-04 11:02:17",
     "changed_at": "2026-09-07 16:35:42",
     "lines": null,
     "status": 200
   },
   "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html": {
     "hash": "976a08ddc8cc2277d1ee9745968ce7863f9631f7d08c45a05cecae7ce28d0187",
-    "checked_at": "2026-11-03 12:23:26",
+    "checked_at": "2026-11-04 11:02:17",
     "changed_at": "2026-10-31 10:28:13",
     "lines": [
       "﻿",
@@ -4532,7 +4530,7 @@
   },
   "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm": {
     "hash": "61e25b91b27dee8eaa10bc84f6f1e46be42f12e79345bf06b05dcacbe01da2a9",
-    "checked_at": "2026-11-03 12:23:26",
+    "checked_at": "2026-11-04 11:02:17",
     "changed_at": "2026-10-31 10:28:13",
     "lines": [
       "﻿",
@@ -4663,7 +4661,7 @@
   },
   "https://www.sec.gov/news/pressreleases.rss": {
     "hash": "e5a1d470971736051109a52c66eeed3fb24d233adee05de7d37fd0e66a137d11",
-    "checked_at": "2026-11-03 12:23:26",
+    "checked_at": "2026-11-04 11:02:17",
     "changed_at": "2026-10-31 10:28:13",
     "lines": [
       "Press Releases",

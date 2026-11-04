@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-03 12:23:26",
+  "generated_at": "2026-11-04 11:02:17",
   "summary": {
-    "changed": 4,
-    "same": 5
+    "changed": 1,
+    "same": 8
   },
   "items": [
     {
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-03 12:23:26",
+      "checked_at": "2026-11-04 11:02:17",
       "changed_at": "2026-10-31 10:28:13",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-03 12:23:26",
+      "checked_at": "2026-11-04 11:02:17",
       "changed_at": "2026-10-31 10:28:13",
       "line_count": 123
     },
@@ -29,35 +29,21 @@
       "name": "日銀 外国為替市況（日次一覧）",
       "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
       "note": "毎営業日・17時レート",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-11-03 12:23:26",
+      "checked_at": "2026-11-04 11:02:17",
       "changed_at": "2026-11-03 12:23:26",
-      "line_count": 406,
-      "added": [
-        "2026年11月 2日",
-        "アルムナイネットワーク",
-        "キャリア採用",
-        "外国為替市況（11月2日） [PDF 61KB]"
-      ],
-      "removed": [
-        "2026年10月26日",
-        "外国為替市況（10月26日） [PDF 61KB]"
-      ]
+      "line_count": 406
     },
     {
       "name": "日銀 金融政策決定会合",
       "url": "https://www.boj.or.jp/mopo/mpmdeci/index.htm",
       "note": "会合結果・声明",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-11-03 12:23:26",
+      "checked_at": "2026-11-04 11:02:17",
       "changed_at": "2026-11-03 12:23:26",
-      "line_count": 261,
-      "added": [
-        "アルムナイネットワーク",
-        "キャリア採用"
-      ]
+      "line_count": 261
     },
     {
       "name": "金融庁 報道発表",
@@ -65,7 +51,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-03 12:23:26",
+      "checked_at": "2026-11-04 11:02:17",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -75,7 +61,7 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-03 12:23:26",
+      "checked_at": "2026-11-04 11:02:17",
       "changed_at": "2026-10-31 10:28:13",
       "line_count": 129
     },
@@ -85,39 +71,50 @@
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-03 12:23:26",
-      "changed_at": "2026-11-03 12:23:26",
-      "line_count": 3006,
+      "checked_at": "2026-11-04 11:02:17",
+      "changed_at": "2026-11-04 11:02:17",
+      "line_count": 3004,
       "added": [
-        "We study how news shocks affect inflation in open economies, using large oil and gas discoveries with realized production lags of at least five years as observa…"
+        "03 Nov 2026",
+        "BIS Working Paper (1397)",
+        "Bank for International Settlements (2850)",
+        "C38 (6)",
+        "C43 (4)",
+        "Displaying 1-10 of 5087",
+        "E32 (91)",
+        "N12 (2)",
+        "No 1390",
+        "Official quarterly US GDP estimates begin in 1947; earlier quarterly histories must be reconstructed using annual benchmarks and historical indicators. To inves…",
+        "Prewar US business cycles under uncertainty: reconstructing quarterly GDP before 1947",
+        "Raphael Auer",
+        "Raphael Auer (39)"
       ],
       "removed": [
-        "We study hownews shocks affect inflation in open economies, using large oil and gas discoveries with realized production lags of at least five years as observab…"
+        "BIS Working Paper (1396)",
+        "Bank for International Settlements (2849)",
+        "C38 (5)",
+        "C43 (3)",
+        "Competing rails for crossborder payments: banks, fintechs, and stablecoins",
+        "Cross-border payments remain slow and expensive despite significant improvements in digital financial infrastructure over the past several decades.",
+        "Displaying 1-10 of 5086",
+        "E32 (90)",
+        "Innovation and fintech",
+        "N12 (1)",
+        "No 1385",
+        "Raphael Auer (38)",
+        "Technological innovation",
+        "Wenxin Du , Catherine Huang and David Scharfstein"
       ]
     },
     {
       "name": "米財務省 プレスリリース",
       "url": "https://home.treasury.gov/news/press-releases",
       "note": "GENIUS法の規則・為替報告",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-11-03 12:23:26",
+      "checked_at": "2026-11-04 11:02:17",
       "changed_at": "2026-11-03 12:23:26",
-      "line_count": 380,
-      "added": [
-        "Economy Statement for the Treasury Borrowing Advisory Committee",
-        "November 2, 2026",
-        "November 2, 2026",
-        "November 2, 2026",
-        "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with Venezuelan Foreign Minister Oliver Blanco",
-        "Treasury Announces Marketable Borrowing Estimates"
-      ],
-      "removed": [
-        "October 21, 2026",
-        "Operation Economic Outcast Targets Iran’s Shadow Fleet Networks",
-        "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with President Santiago Peña of Paraguay",
-        "The Trump Administration is Making Homeownership More Affordable"
-      ]
+      "line_count": 380
     },
     {
       "name": "MAS メディアリリース",
@@ -125,12 +122,48 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-03 12:23:26",
+      "checked_at": "2026-11-04 11:02:17",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-11-04 11:02:17",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "03 Nov 2026",
+        "BIS Working Paper (1397)",
+        "Bank for International Settlements (2850)",
+        "C38 (6)",
+        "C43 (4)",
+        "Displaying 1-10 of 5087",
+        "E32 (91)",
+        "N12 (2)",
+        "No 1390",
+        "Official quarterly US GDP estimates begin in 1947; earlier quarterly histories must be reconstructed using annual benchmarks and historical indicators. To inves…",
+        "Prewar US business cycles under uncertainty: reconstructing quarterly GDP before 1947",
+        "Raphael Auer",
+        "Raphael Auer (39)"
+      ],
+      "removed": [
+        "BIS Working Paper (1396)",
+        "Bank for International Settlements (2849)",
+        "C38 (5)",
+        "C43 (3)",
+        "Competing rails for crossborder payments: banks, fintechs, and stablecoins",
+        "Cross-border payments remain slow and expensive despite significant improvements in digital financial infrastructure over the past several decades.",
+        "Displaying 1-10 of 5086",
+        "E32 (90)",
+        "Innovation and fintech",
+        "N12 (1)",
+        "No 1385",
+        "Raphael Auer (38)",
+        "Technological innovation",
+        "Wenxin Du , Catherine Huang and David Scharfstein"
+      ]
+    },
     {
       "at": "2026-11-03 12:23:26",
       "name": "米財務省 プレスリリース",
