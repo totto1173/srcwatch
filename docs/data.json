@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-05 11:06:03",
+  "generated_at": "2026-11-06 11:06:50",
   "summary": {
-    "changed": 4,
-    "same": 5
+    "changed": 3,
+    "same": 6
   },
   "items": [
     {
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-05 11:06:03",
+      "checked_at": "2026-11-06 11:06:50",
       "changed_at": "2026-10-31 10:28:13",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-05 11:06:03",
+      "checked_at": "2026-11-06 11:06:50",
       "changed_at": "2026-10-31 10:28:13",
       "line_count": 123
     },
@@ -31,16 +31,16 @@
       "note": "毎営業日・17時レート",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-05 11:06:03",
-      "changed_at": "2026-11-05 11:06:03",
+      "checked_at": "2026-11-06 11:06:50",
+      "changed_at": "2026-11-06 11:06:50",
       "line_count": 406,
       "added": [
-        "2026年11月 4日",
-        "外国為替市況（11月4日） [PDF 62KB]"
+        "2026年11月 5日",
+        "外国為替市況（11月5日） [PDF 62KB]"
       ],
       "removed": [
-        "2026年10月27日",
-        "外国為替市況（10月27日） [PDF 62KB]"
+        "2026年10月28日",
+        "外国為替市況（10月28日） [PDF 62KB]"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-05 11:06:03",
+      "checked_at": "2026-11-06 11:06:50",
       "changed_at": "2026-11-03 12:23:26",
       "line_count": 261
     },
@@ -59,7 +59,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-05 11:06:03",
+      "checked_at": "2026-11-06 11:06:50",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -67,25 +67,11 @@
       "name": "米SEC プレスリリース",
       "url": "https://www.sec.gov/news/pressreleases.rss",
       "note": "規則案・採択（HTMLは403のためRSS）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-11-05 11:06:03",
+      "checked_at": "2026-11-06 11:06:50",
       "changed_at": "2026-11-05 11:06:03",
-      "line_count": 129,
-      "added": [
-        "7285d1d7-0cc4-41d3-8bc9-85d4c76a2c13",
-        "SEC Adopts Amendments to Update Definitions of Small Entity for Investment Companies and Investment Advisers",
-        "The Securities and Exchange Commission today adopted amendments to the rules that define which registered investment companies, investment advisers, and busines…",
-        "Wed, 04 Nov 2026 11:28:00 -0500",
-        "https://www.sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers"
-      ],
-      "removed": [
-        "937571b2-423b-4228-905f-4034e7af3766",
-        "Fri, 11 Sep 2026 11:00:00 -0400",
-        "Joint Readout of Principals’ Meeting of U.S. and UK Authorities Regarding Central Counterparty Resolution",
-        "Senior officials from the Securities and Exchange Commission, Federal Deposit Insurance Corporation, Commodity Futures Trading Commission, Federal Reserve Board…",
-        "https://www.sec.gov/newsroom/press-releases/2026-87-joint-readout-principals-meeting-us-uk-authorities-regarding-central-counterparty-resolution"
-      ]
+      "line_count": 129
     },
     {
       "name": "BIS FSI Briefs",
@@ -93,45 +79,27 @@
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-05 11:06:03",
-      "changed_at": "2026-11-05 11:06:03",
-      "line_count": 3003,
+      "checked_at": "2026-11-06 11:06:50",
+      "changed_at": "2026-11-06 11:06:50",
+      "line_count": 3000,
       "added": [
-        "04 Nov 2026",
-        "BIS Working Paper (1398)",
-        "Bank for International Settlements (2851)",
-        "Christian Schmieder (12)",
-        "Christian Schmieder , Renzo Corrias and Oliver Wünsch",
-        "Displaying 1-10 of 5088",
-        "G21 (340)",
-        "G28 (244)",
-        "G32 (57)",
-        "Innovation and fintech",
-        "Innovation and fintech (12)",
-        "No 1391",
-        "O33 (47)",
-        "Oliver Wünsch (1)",
-        "Renzo Corrias (5)",
-        "Scenarios for future banking: implications for profitability, liquidity and solvency",
-        "Who will perform banking’s core functions a decade from now, and how will risks and profitability evolve? Our framework structures expert judgement rather tha…"
+        "05 Nov 2026",
+        "BCBS (815)",
+        "Consolidated guidelines – consequential amendments",
+        "Consultative (3)",
+        "Displaying 1-10 of 5089",
+        "The Basel Committee on Banking supervision has finalised a new section of its website that sets out a consolidated version of its guidelines and sound practices…"
       ],
       "removed": [
-        "An unexpected increase in energy costs raises inflation directly through flexibly-set prices. Whether that shock amplifies to a larger and persistent rise in in…",
-        "BIS Working Paper (1397)",
-        "Bank for International Settlements (2850)",
-        "Christian Schmieder (11)",
-        "Displaying 1-10 of 5087",
-        "G21 (339)",
-        "G28 (243)",
-        "G32 (56)",
-        "Inflation after the Iran war",
-        "Innovation and fintech (11)",
-        "Macroeconomic analysis",
-        "Monetary policy",
-        "No 1384",
-        "O33 (46)",
-        "Renzo Corrias (4)",
-        "Ricardo Reis"
+        "19 Oct 2026",
+        "AML/CFT supervisory newsletter",
+        "BCBS (814)",
+        "BCBS Newsletter",
+        "Consultative (2)",
+        "Displaying 1-10 of 5088",
+        "No 37",
+        "Suptech and regtech",
+        "This newsletter summarises key themes and challenges discussed in recent supervisory exchanges and workshops related to Anti-Money Laundering and Countering the…"
       ]
     },
     {
@@ -140,27 +108,19 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-05 11:06:03",
-      "changed_at": "2026-11-05 11:06:03",
-      "line_count": 380,
+      "checked_at": "2026-11-06 11:06:50",
+      "changed_at": "2026-11-06 11:06:50",
+      "line_count": 379,
       "added": [
-        "Minutes of the Meeting of the Treasury Borrowing Advisory Committee November 3, 2026",
-        "November 4, 2026",
-        "November 4, 2026",
-        "November 4, 2026",
-        "November 4, 2026",
-        "Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime",
-        "Quarterly Refunding Statement of Assistant Secretary for Financial Markets Hunter McMaster",
-        "Report to the Secretary of the Treasury from the Treasury Borrowing Advisory Committee"
+        "November 5, 2026",
+        "November 5, 2026",
+        "Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them",
+        "Treasury, IRS Announce Opportunity Zones Designations for Over 6,500 Communities Across America"
       ],
       "removed": [
-        "October 22, 2026",
-        "October 28, 2026",
-        "October 28, 2026",
-        "Secretary Bessent, Senior U.S. Officials Announce New Fraud Prevention Measures in Minnesota",
-        "Treasury Issues Proposed Rule to Implement Comprehensive Outbound Investment National Security Act",
-        "Treasury Sanctions Facilitators of DPRK IT Worker Fraud Targeting U.S. Businesses",
-        "Treasury Sanctions Rwandan Ministry of Defence and Financial Institution Supporting M23"
+        "ICYMI: Secretary Bessent, Trump Administration Officials Announce New Fraud Prevention Measures in Minnesota",
+        "Remarks by Secretary of the Treasury Scott Bessent on New Fraud Prevention Measures in Minnesota",
+        "Secretary Statements \u0026 Remarks"
       ]
     },
     {
@@ -169,12 +129,65 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-05 11:06:03",
+      "checked_at": "2026-11-06 11:06:50",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-11-06 11:06:50",
+      "name": "米財務省 プレスリリース",
+      "url": "https://home.treasury.gov/news/press-releases",
+      "added": [
+        "November 5, 2026",
+        "November 5, 2026",
+        "Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them",
+        "Treasury, IRS Announce Opportunity Zones Designations for Over 6,500 Communities Across America"
+      ],
+      "removed": [
+        "ICYMI: Secretary Bessent, Trump Administration Officials Announce New Fraud Prevention Measures in Minnesota",
+        "Remarks by Secretary of the Treasury Scott Bessent on New Fraud Prevention Measures in Minnesota",
+        "Secretary Statements \u0026 Remarks"
+      ]
+    },
+    {
+      "at": "2026-11-06 11:06:50",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "05 Nov 2026",
+        "BCBS (815)",
+        "Consolidated guidelines – consequential amendments",
+        "Consultative (3)",
+        "Displaying 1-10 of 5089",
+        "The Basel Committee on Banking supervision has finalised a new section of its website that sets out a consolidated version of its guidelines and sound practices…"
+      ],
+      "removed": [
+        "19 Oct 2026",
+        "AML/CFT supervisory newsletter",
+        "BCBS (814)",
+        "BCBS Newsletter",
+        "Consultative (2)",
+        "Displaying 1-10 of 5088",
+        "No 37",
+        "Suptech and regtech",
+        "This newsletter summarises key themes and challenges discussed in recent supervisory exchanges and workshops related to Anti-Money Laundering and Countering the…"
+      ]
+    },
+    {
+      "at": "2026-11-06 11:06:50",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年11月 5日",
+        "外国為替市況（11月5日） [PDF 62KB]"
+      ],
+      "removed": [
+        "2026年10月28日",
+        "外国為替市況（10月28日） [PDF 62KB]"
+      ]
+    },
     {
       "at": "2026-11-05 11:06:03",
       "name": "米財務省 プレスリリース",

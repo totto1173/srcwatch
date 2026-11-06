@@ -1,8 +1,8 @@
 {
   "https://home.treasury.gov/news/press-releases": {
-    "hash": "eb13c7237f41e30c09f10b4aa200512b9840b09e7fce328c3e4cd0061ef15c83",
-    "checked_at": "2026-11-05 11:06:03",
-    "changed_at": "2026-11-05 11:06:03",
+    "hash": "bbe6dc0eb50e495dfcf619288f5da662713e4d0c080d483197c1cf7073195b0a",
+    "checked_at": "2026-11-06 11:06:50",
+    "changed_at": "2026-11-06 11:06:50",
     "lines": [
       "Press Releases | U.S. Department of the Treasury",
       "Skip to main content",
@@ -305,6 +305,10 @@
       "Webcasts",
       "Press Contacts",
       "Press Releases",
+      "November 5, 2026",
+      "Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them",
+      "November 5, 2026",
+      "Treasury, IRS Announce Opportunity Zones Designations for Over 6,500 Communities Across America",
       "November 4, 2026",
       "Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime",
       "November 4, 2026",
@@ -322,11 +326,6 @@
       "Economy Statement for the Treasury Borrowing Advisory Committee",
       "October 30, 2026",
       "Report on U.S. Portfolio Holdings of Foreign Securities at Year-End 2025",
-      "October 30, 2026",
-      "ICYMI: Secretary Bessent, Trump Administration Officials Announce New Fraud Prevention Measures in Minnesota",
-      "October 30, 2026",
-      "Secretary Statements \u0026 Remarks",
-      "Remarks by Secretary of the Treasury Scott Bessent on New Fraud Prevention Measures in Minnesota",
       "Pagination",
       "Current page 1",
       "Page 2",
@@ -388,9 +387,9 @@
     "status": 200
   },
   "https://www.bis.org/publications/": {
-    "hash": "eb3e0293b2db0fe40a9ff752daaca27d83abd7bf596513fa21bf9ccde7b064b5",
-    "checked_at": "2026-11-05 11:06:03",
-    "changed_at": "2026-11-05 11:06:03",
+    "hash": "e8b7f51e0748461dc65090d38ae1904fa0f9a1676fa4404cbf50062e2393be91",
+    "checked_at": "2026-11-06 11:06:50",
+    "changed_at": "2026-11-06 11:06:50",
     "lines": [
       "Publications | Bank for International Settlements",
       "Skip to main content",
@@ -3185,7 +3184,7 @@
       "Americas office (153)",
       "Asia Office (183)",
       "Bank for International Settlements (2851)",
-      "BCBS (814)",
+      "BCBS (815)",
       "BIS Innovation Hub (63)",
       "CBGF (4)",
       "CGFS (81)",
@@ -3242,7 +3241,7 @@
       "Status",
       "Closed (196)",
       "Consolidated (74)",
-      "Consultative (2)",
+      "Consultative (3)",
       "Current (303)",
       "Forthcoming (1)",
       "Modified (2)",
@@ -3284,7 +3283,11 @@
       "Suptech and regtech (11)",
       "Suptech and regtech (1)",
       "Technological innovation (1)",
-      "Displaying 1-10 of 5088",
+      "Displaying 1-10 of 5089",
+      "Publication",
+      "05 Nov 2026",
+      "Consolidated guidelines – consequential amendments",
+      "The Basel Committee on Banking supervision has finalised a new section of its website that sets out a consolidated version of its guidelines and sound practices for banks and supervisors.",
       "Publication",
       "BIS Working Paper",
       "No 1391",
@@ -3353,13 +3356,6 @@
       "Authors:",
       "Sebastian Doerr , Gaston Gelos and Vesa Pursiainen",
       "Regulatory capital requirements",
-      "Publication",
-      "BCBS Newsletter",
-      "No 37",
-      "19 Oct 2026",
-      "AML/CFT supervisory newsletter",
-      "This newsletter summarises key themes and challenges discussed in recent supervisory exchanges and workshops related to Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT). These insights, drawn from supervisory stocktakes and an…",
-      "Suptech and regtech",
       "Current page",
       "Page",
       "Page",
@@ -3400,7 +3396,7 @@
   },
   "https://www.boj.or.jp/mopo/mpmdeci/index.htm": {
     "hash": "602b4d245e765c49a9f314b7449e86e3fca98d29835f8c2b38770158fe4569f9",
-    "checked_at": "2026-11-05 11:06:03",
+    "checked_at": "2026-11-06 11:06:50",
     "changed_at": "2026-11-03 12:23:26",
     "lines": [
       "金融政策に関する決定事項等 : 日本銀行 Bank of Japan",
@@ -3668,9 +3664,9 @@
     "status": 200
   },
   "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm": {
-    "hash": "73d53595d58aaa612e9e9e2c4ce3e33e8a700269bcf2e72c3044308ee9199a5d",
-    "checked_at": "2026-11-05 11:06:03",
-    "changed_at": "2026-11-05 11:06:03",
+    "hash": "9e8cb534b9d03445cc1ece9538560d2461f5ec68fd7a7f2a2dc7da20c65c54f8",
+    "checked_at": "2026-11-06 11:06:50",
+    "changed_at": "2026-11-06 11:06:50",
     "lines": [
       "外国為替市況（日次） : 日本銀行 Bank of Japan",
       "このページの本文へ移動",
@@ -3920,6 +3916,8 @@
       "表 公表データ",
       "掲載日",
       "データ",
+      "2026年11月 5日",
+      "外国為替市況（11月5日） [PDF 62KB]",
       "2026年11月 4日",
       "外国為替市況（11月4日） [PDF 62KB]",
       "2026年11月 2日",
@@ -3928,8 +3926,6 @@
       "外国為替市況（10月30日） [PDF 62KB]",
       "2026年10月29日",
       "外国為替市況（10月29日） [PDF 61KB]",
-      "2026年10月28日",
-      "外国為替市況（10月28日） [PDF 62KB]",
       "外国為替市況（日次）一覧",
       "参考計数（東京外為市場における取引状況）",
       "表 参考計数（東京外為市場における取引状況）",
@@ -4083,7 +4079,7 @@
   },
   "https://www.fsa.go.jp/news/index.html": {
     "hash": "ee8109996ad8737721659c7a88f1aa97b730a0348cea80a719087d6e7430e7ee",
-    "checked_at": "2026-11-05 11:06:03",
+    "checked_at": "2026-11-06 11:06:50",
     "changed_at": "2026-10-01 10:09:57",
     "lines": [
       "--\u003e",
@@ -4395,14 +4391,14 @@
   },
   "https://www.mas.gov.sg/news": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "checked_at": "2026-11-05 11:06:03",
+    "checked_at": "2026-11-06 11:06:50",
     "changed_at": "2026-09-07 16:35:42",
     "lines": null,
     "status": 200
   },
   "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html": {
     "hash": "976a08ddc8cc2277d1ee9745968ce7863f9631f7d08c45a05cecae7ce28d0187",
-    "checked_at": "2026-11-05 11:06:03",
+    "checked_at": "2026-11-06 11:06:50",
     "changed_at": "2026-10-31 10:28:13",
     "lines": [
       "﻿",
@@ -4529,7 +4525,7 @@
   },
   "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm": {
     "hash": "61e25b91b27dee8eaa10bc84f6f1e46be42f12e79345bf06b05dcacbe01da2a9",
-    "checked_at": "2026-11-05 11:06:03",
+    "checked_at": "2026-11-06 11:06:50",
     "changed_at": "2026-10-31 10:28:13",
     "lines": [
       "﻿",
@@ -4660,7 +4656,7 @@
   },
   "https://www.sec.gov/news/pressreleases.rss": {
     "hash": "060f12a44dc6fd17d75d3f468ed782f65e59ca18ecc89a176272747f5a21cfcf",
-    "checked_at": "2026-11-05 11:06:03",
+    "checked_at": "2026-11-06 11:06:50",
     "changed_at": "2026-11-05 11:06:03",
     "lines": [
       "Press Releases",
