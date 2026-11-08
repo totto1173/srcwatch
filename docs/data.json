@@ -1,8 +1,7 @@
 {
-  "generated_at": "2026-11-07 10:43:47",
+  "generated_at": "2026-11-08 10:13:33",
   "summary": {
-    "changed": 3,
-    "same": 6
+    "same": 9
   },
   "items": [
     {
@@ -11,7 +10,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-07 10:43:47",
+      "checked_at": "2026-11-08 10:13:33",
       "changed_at": "2026-10-31 10:28:13",
       "line_count": 119
     },
@@ -21,7 +20,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-07 10:43:47",
+      "checked_at": "2026-11-08 10:13:33",
       "changed_at": "2026-10-31 10:28:13",
       "line_count": 123
     },
@@ -29,19 +28,11 @@
       "name": "日銀 外国為替市況（日次一覧）",
       "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
       "note": "毎営業日・17時レート",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-11-07 10:43:47",
+      "checked_at": "2026-11-08 10:13:33",
       "changed_at": "2026-11-07 10:43:47",
-      "line_count": 406,
-      "added": [
-        "2026年11月 6日",
-        "外国為替市況（11月6日） [PDF 61KB]"
-      ],
-      "removed": [
-        "2026年10月29日",
-        "外国為替市況（10月29日） [PDF 61KB]"
-      ]
+      "line_count": 406
     },
     {
       "name": "日銀 金融政策決定会合",
@@ -49,7 +40,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-07 10:43:47",
+      "checked_at": "2026-11-08 10:13:33",
       "changed_at": "2026-11-03 12:23:26",
       "line_count": 261
     },
@@ -59,7 +50,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-07 10:43:47",
+      "checked_at": "2026-11-08 10:13:33",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -69,7 +60,7 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-07 10:43:47",
+      "checked_at": "2026-11-08 10:13:33",
       "changed_at": "2026-11-05 11:06:03",
       "line_count": 129
     },
@@ -77,74 +68,21 @@
       "name": "BIS FSI Briefs",
       "url": "https://www.bis.org/publications/",
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-11-07 10:43:47",
+      "checked_at": "2026-11-08 10:13:33",
       "changed_at": "2026-11-07 10:43:47",
-      "line_count": 2999,
-      "added": [
-        "06 Nov 2026",
-        "BIS Working Paper (1399)",
-        "Catherine R Schenk (3)",
-        "Displaying 1-10 of 5090",
-        "E40 (37)",
-        "E58 (269)",
-        "Gaining (and losing) currency: a global database of currencies, 1850-2026",
-        "Iñaki Aldasoro (65)",
-        "Iñaki Aldasoro , Jon Frost , Rudraksh Kansal and Catherine R Schenk",
-        "Jon Frost (65)",
-        "N10 (8)",
-        "No 1392",
-        "Over the past two centuries, officially issued currencies have become firmly en trenched as a nearly universal institution in economies around the world. But th…",
-        "Rudraksh Kansal (3)"
-      ],
-      "removed": [
-        "20 Oct 2026",
-        "BIS Working Paper (1398)",
-        "Bank liquidity regulation and the growth of private credit",
-        "Catherine R Schenk (2)",
-        "Displaying 1-10 of 5089",
-        "E40 (36)",
-        "E58 (268)",
-        "Iñaki Aldasoro (64)",
-        "Jon Frost (64)",
-        "N10 (7)",
-        "No 1388",
-        "Regulatory capital requirements",
-        "Rudraksh Kansal (2)",
-        "Sebastian Doerr , Gaston Gelos and Vesa Pursiainen",
-        "We study the role of bank liquidity regulation in the growth of private credit. Following the introduction of the liquidity coverage ratio (LCR), private credit…"
-      ]
+      "line_count": 2999
     },
     {
       "name": "米財務省 プレスリリース",
       "url": "https://home.treasury.gov/news/press-releases",
       "note": "GENIUS法の規則・為替報告",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-11-07 10:43:47",
+      "checked_at": "2026-11-08 10:13:33",
       "changed_at": "2026-11-07 10:43:47",
-      "line_count": 379,
-      "added": [
-        "FATF Recognizes Effectiveness of U.S. AML/CFT System, Advances Key Illicit Finance Initiatives",
-        "November 6, 2026",
-        "November 6, 2026",
-        "November 6, 2026",
-        "November 6, 2026",
-        "Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime",
-        "Operation Economic Outcast Severs MEXC Global’s Access to the U.S. Financial System",
-        "READOUT: Secretary of the Treasury Scott Bessent’s Call with China’s Vice Premier He Lifeng"
-      ],
-      "removed": [
-        "Economy Statement for the Treasury Borrowing Advisory Committee",
-        "November 2, 2026",
-        "November 2, 2026",
-        "November 2, 2026",
-        "October 30, 2026",
-        "READOUT: Secretary of the Treasury Scott Bessent’s Meeting with Venezuelan Foreign Minister Oliver Blanco",
-        "Report on U.S. Portfolio Holdings of Foreign Securities at Year-End 2025",
-        "Treasury Announces Marketable Borrowing Estimates"
-      ]
+      "line_count": 379
     },
     {
       "name": "MAS メディアリリース",
@@ -152,7 +90,7 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-07 10:43:47",
+      "checked_at": "2026-11-08 10:13:33",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
