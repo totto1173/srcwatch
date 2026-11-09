@@ -1,28 +1,45 @@
 {
-  "generated_at": "2026-11-08 10:13:33",
+  "generated_at": "2026-11-09 10:31:59",
   "summary": {
-    "same": 9
+    "changed": 2,
+    "same": 7
   },
   "items": [
     {
       "name": "財務省 外国為替平衡操作（月次）",
       "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html",
       "note": "介入額の月次公表。毎月末更新",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-08 10:13:33",
-      "changed_at": "2026-10-31 10:28:13",
-      "line_count": 119
+      "checked_at": "2026-11-09 10:31:59",
+      "changed_at": "2026-11-09 10:31:59",
+      "line_count": 119,
+      "added": [
+        "令和9年  1月29日（金）午後7時00分",
+        "月次ベース（令和8年12月29日～令和9年  1月27日）"
+      ],
+      "removed": [
+        "令和8年11月 9 日（月）午前8時50分",
+        "日次ベース（令和8年7月～令和8年9月）"
+      ]
     },
     {
       "name": "財務省 外貨準備等の状況",
       "url": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm",
       "note": "毎月上旬更新",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-08 10:13:33",
-      "changed_at": "2026-10-31 10:28:13",
-      "line_count": 123
+      "checked_at": "2026-11-09 10:31:59",
+      "changed_at": "2026-11-09 10:31:59",
+      "line_count": 123,
+      "added": [
+        "令和9年1月末",
+        "令和9年2月1日～5日"
+      ],
+      "removed": [
+        "令和8年10月末",
+        "令和8年11月9日（月）午前8時50分"
+      ]
     },
     {
       "name": "日銀 外国為替市況（日次一覧）",
@@ -30,7 +47,7 @@
       "note": "毎営業日・17時レート",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-08 10:13:33",
+      "checked_at": "2026-11-09 10:31:59",
       "changed_at": "2026-11-07 10:43:47",
       "line_count": 406
     },
@@ -40,7 +57,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-08 10:13:33",
+      "checked_at": "2026-11-09 10:31:59",
       "changed_at": "2026-11-03 12:23:26",
       "line_count": 261
     },
@@ -50,7 +67,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-08 10:13:33",
+      "checked_at": "2026-11-09 10:31:59",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -60,7 +77,7 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-08 10:13:33",
+      "checked_at": "2026-11-09 10:31:59",
       "changed_at": "2026-11-05 11:06:03",
       "line_count": 129
     },
@@ -70,7 +87,7 @@
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-08 10:13:33",
+      "checked_at": "2026-11-09 10:31:59",
       "changed_at": "2026-11-07 10:43:47",
       "line_count": 2999
     },
@@ -80,7 +97,7 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-08 10:13:33",
+      "checked_at": "2026-11-09 10:31:59",
       "changed_at": "2026-11-07 10:43:47",
       "line_count": 379
     },
@@ -90,12 +107,38 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-08 10:13:33",
+      "checked_at": "2026-11-09 10:31:59",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-11-09 10:31:59",
+      "name": "財務省 外貨準備等の状況",
+      "url": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm",
+      "added": [
+        "令和9年1月末",
+        "令和9年2月1日～5日"
+      ],
+      "removed": [
+        "令和8年10月末",
+        "令和8年11月9日（月）午前8時50分"
+      ]
+    },
+    {
+      "at": "2026-11-09 10:31:59",
+      "name": "財務省 外国為替平衡操作（月次）",
+      "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html",
+      "added": [
+        "令和9年  1月29日（金）午後7時00分",
+        "月次ベース（令和8年12月29日～令和9年  1月27日）"
+      ],
+      "removed": [
+        "令和8年11月 9 日（月）午前8時50分",
+        "日次ベース（令和8年7月～令和8年9月）"
+      ]
+    },
     {
       "at": "2026-11-07 10:43:47",
       "name": "米財務省 プレスリリース",
