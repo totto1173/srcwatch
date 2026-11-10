@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09 10:31:59",
+  "generated_at": "2026-11-10 13:00:14",
   "summary": {
     "changed": 2,
     "same": 7
@@ -9,47 +9,39 @@
       "name": "財務省 外国為替平衡操作（月次）",
       "url": "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html",
       "note": "介入額の月次公表。毎月末更新",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-11-09 10:31:59",
+      "checked_at": "2026-11-10 13:00:14",
       "changed_at": "2026-11-09 10:31:59",
-      "line_count": 119,
-      "added": [
-        "令和9年  1月29日（金）午後7時00分",
-        "月次ベース（令和8年12月29日～令和9年  1月27日）"
-      ],
-      "removed": [
-        "令和8年11月 9 日（月）午前8時50分",
-        "日次ベース（令和8年7月～令和8年9月）"
-      ]
+      "line_count": 119
     },
     {
       "name": "財務省 外貨準備等の状況",
       "url": "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm",
       "note": "毎月上旬更新",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-11-09 10:31:59",
+      "checked_at": "2026-11-10 13:00:14",
       "changed_at": "2026-11-09 10:31:59",
-      "line_count": 123,
-      "added": [
-        "令和9年1月末",
-        "令和9年2月1日～5日"
-      ],
-      "removed": [
-        "令和8年10月末",
-        "令和8年11月9日（月）午前8時50分"
-      ]
+      "line_count": 123
     },
     {
       "name": "日銀 外国為替市況（日次一覧）",
       "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
       "note": "毎営業日・17時レート",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-09 10:31:59",
-      "changed_at": "2026-11-07 10:43:47",
-      "line_count": 406
+      "checked_at": "2026-11-10 13:00:14",
+      "changed_at": "2026-11-10 13:00:14",
+      "line_count": 406,
+      "added": [
+        "2026年11月 9日",
+        "外国為替市況（11月9日） [PDF 61KB]"
+      ],
+      "removed": [
+        "2026年10月30日",
+        "外国為替市況（10月30日） [PDF 62KB]"
+      ]
     },
     {
       "name": "日銀 金融政策決定会合",
@@ -57,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-09 10:31:59",
+      "checked_at": "2026-11-10 13:00:14",
       "changed_at": "2026-11-03 12:23:26",
       "line_count": 261
     },
@@ -67,7 +59,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-09 10:31:59",
+      "checked_at": "2026-11-10 13:00:14",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -77,7 +69,7 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-09 10:31:59",
+      "checked_at": "2026-11-10 13:00:14",
       "changed_at": "2026-11-05 11:06:03",
       "line_count": 129
     },
@@ -85,11 +77,43 @@
       "name": "BIS FSI Briefs",
       "url": "https://www.bis.org/publications/",
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-09 10:31:59",
-      "changed_at": "2026-11-07 10:43:47",
-      "line_count": 2999
+      "checked_at": "2026-11-10 13:00:14",
+      "changed_at": "2026-11-10 13:00:14",
+      "line_count": 2991,
+      "added": [
+        "09 Nov 2026",
+        "31 Oct 2026",
+        "BCBS (816)",
+        "Bank for International Settlements (2853)",
+        "Consultative (4)",
+        "Displaying 1-10 of 5093",
+        "Interest rate risk in the banking book – additional Pillar 2 guidance",
+        "Statement of account",
+        "Statement of account (247)",
+        "Statement of account as at 31 October 2026",
+        "The Basel Committee on Banking Supervision is consulting on proposed additional Pillar 2 guidance on interest rate risk in the banking book (IRRBB). The proposa…",
+        "This monthly statement of account provides figures as at 31 October 2026."
+      ],
+      "removed": [
+        "23 Oct 2026",
+        "26 Oct 2026",
+        "BCBS (815)",
+        "Bank for International Settlements (2851)",
+        "Bohou Cai , Liugang Sheng and Hongyan Zhao",
+        "Chokepoints in global supply chains: lessons from rare earths and hard disk drives",
+        "Concentration and limited substitutability can turn the efficiency gains from global supply chains into vulnerabilities. However, the consequences of chokepoint…",
+        "Consultative (3)",
+        "Displaying 1-10 of 5090",
+        "Inflation",
+        "News shocks and inflation: theory and evidence from large oil discoveries",
+        "No 1389",
+        "No 139",
+        "Ryan Niladri Banerjee , Michael Chui and Leonardo Gambacorta",
+        "Statement of account (245)",
+        "We study how news shocks affect inflation in open economies, using large oil and gas discoveries with realized production lags of at least five years as observa…"
+      ]
     },
     {
       "name": "米財務省 プレスリリース",
@@ -97,7 +121,7 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-09 10:31:59",
+      "checked_at": "2026-11-10 13:00:14",
       "changed_at": "2026-11-07 10:43:47",
       "line_count": 379
     },
@@ -107,12 +131,62 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-09 10:31:59",
+      "checked_at": "2026-11-10 13:00:14",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-11-10 13:00:14",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "09 Nov 2026",
+        "31 Oct 2026",
+        "BCBS (816)",
+        "Bank for International Settlements (2853)",
+        "Consultative (4)",
+        "Displaying 1-10 of 5093",
+        "Interest rate risk in the banking book – additional Pillar 2 guidance",
+        "Statement of account",
+        "Statement of account (247)",
+        "Statement of account as at 31 October 2026",
+        "The Basel Committee on Banking Supervision is consulting on proposed additional Pillar 2 guidance on interest rate risk in the banking book (IRRBB). The proposa…",
+        "This monthly statement of account provides figures as at 31 October 2026."
+      ],
+      "removed": [
+        "23 Oct 2026",
+        "26 Oct 2026",
+        "BCBS (815)",
+        "Bank for International Settlements (2851)",
+        "Bohou Cai , Liugang Sheng and Hongyan Zhao",
+        "Chokepoints in global supply chains: lessons from rare earths and hard disk drives",
+        "Concentration and limited substitutability can turn the efficiency gains from global supply chains into vulnerabilities. However, the consequences of chokepoint…",
+        "Consultative (3)",
+        "Displaying 1-10 of 5090",
+        "Inflation",
+        "News shocks and inflation: theory and evidence from large oil discoveries",
+        "No 1389",
+        "No 139",
+        "Ryan Niladri Banerjee , Michael Chui and Leonardo Gambacorta",
+        "Statement of account (245)",
+        "We study how news shocks affect inflation in open economies, using large oil and gas discoveries with realized production lags of at least five years as observa…"
+      ]
+    },
+    {
+      "at": "2026-11-10 13:00:14",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年11月 9日",
+        "外国為替市況（11月9日） [PDF 61KB]"
+      ],
+      "removed": [
+        "2026年10月30日",
+        "外国為替市況（10月30日） [PDF 62KB]"
+      ]
+    },
     {
       "at": "2026-11-09 10:31:59",
       "name": "財務省 外貨準備等の状況",

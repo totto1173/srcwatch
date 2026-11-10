@@ -1,7 +1,7 @@
 {
   "https://home.treasury.gov/news/press-releases": {
     "hash": "a12cb9bfc9df85964b2493d34aae0bc0d5a9203ee85cb9ff5b49320a55d90395",
-    "checked_at": "2026-11-09 10:31:59",
+    "checked_at": "2026-11-10 13:00:14",
     "changed_at": "2026-11-07 10:43:47",
     "lines": [
       "Press Releases | U.S. Department of the Treasury",
@@ -387,9 +387,9 @@
     "status": 200
   },
   "https://www.bis.org/publications/": {
-    "hash": "9889b9fd9871cd56f5cce77297ea24b8363d12856cc23076e9798683b15e6ba2",
-    "checked_at": "2026-11-09 10:31:59",
-    "changed_at": "2026-11-07 10:43:47",
+    "hash": "91232d0a6945277395c1f96dc32743a54fe8a13c6d134d06ad4185ada148bede",
+    "checked_at": "2026-11-10 13:00:14",
+    "changed_at": "2026-11-10 13:00:14",
     "lines": [
       "Publications | Bank for International Settlements",
       "Skip to main content",
@@ -3183,8 +3183,8 @@
       "Source",
       "Americas office (153)",
       "Asia Office (183)",
-      "Bank for International Settlements (2851)",
-      "BCBS (815)",
+      "Bank for International Settlements (2853)",
+      "BCBS (816)",
       "BIS Innovation Hub (63)",
       "CBGF (4)",
       "CGFS (81)",
@@ -3235,13 +3235,13 @@
       "Quarterly Review (120)",
       "Sound practices (48)",
       "Standards (93)",
-      "Statement of account (245)",
+      "Statement of account (247)",
       "Statistical bulletin (19)",
       "Triennial survey (16)",
       "Status",
       "Closed (196)",
       "Consolidated (74)",
-      "Consultative (3)",
+      "Consultative (4)",
       "Current (303)",
       "Forthcoming (1)",
       "Modified (2)",
@@ -3283,7 +3283,11 @@
       "Suptech and regtech (11)",
       "Suptech and regtech (1)",
       "Technological innovation (1)",
-      "Displaying 1-10 of 5090",
+      "Displaying 1-10 of 5093",
+      "Publication",
+      "09 Nov 2026",
+      "Interest rate risk in the banking book – additional Pillar 2 guidance",
+      "The Basel Committee on Banking Supervision is consulting on proposed additional Pillar 2 guidance on interest rate risk in the banking book (IRRBB). The proposals respond to shortcomings identified in banks’ management of IRRBB, particularly during…",
       "Publication",
       "BIS Working Paper",
       "No 1392",
@@ -3314,6 +3318,11 @@
       "Author:",
       "Raphael Auer",
       "Publication",
+      "Statement of account",
+      "31 Oct 2026",
+      "Statement of account as at 31 October 2026",
+      "This monthly statement of account provides figures as at 31 October 2026.",
+      "Publication",
       "IBS/GLI",
       "29 Oct 2026",
       "Statistical release: BIS international banking statistics and global liquidity indicators at end-June 2026",
@@ -3338,23 +3347,6 @@
       "Capital expenditure to build artificial intelligence (AI) infrastructure is growing fast, and a rising share is financed with long-term debt and through complex off-balance sheet arrangements.",
       "Authors:",
       "Mathias Drehmann and Egemen Eren",
-      "Publication",
-      "BIS Bulletin",
-      "No 139",
-      "26 Oct 2026",
-      "Chokepoints in global supply chains: lessons from rare earths and hard disk drives",
-      "Concentration and limited substitutability can turn the efficiency gains from global supply chains into vulnerabilities. However, the consequences of chokepoints depend on their underlying nature.",
-      "Authors:",
-      "Ryan Niladri Banerjee , Michael Chui and Leonardo Gambacorta",
-      "Publication",
-      "BIS Working Paper",
-      "No 1389",
-      "23 Oct 2026",
-      "News shocks and inflation: theory and evidence from large oil discoveries",
-      "We study how news shocks affect inflation in open economies, using large oil and gas discoveries with realized production lags of at least five years as observable news about future output. Panel local projections show that discoveries raise core consumer…",
-      "Authors:",
-      "Bohou Cai , Liugang Sheng and Hongyan Zhao",
-      "Inflation",
       "Current page",
       "Page",
       "Page",
@@ -3395,7 +3387,7 @@
   },
   "https://www.boj.or.jp/mopo/mpmdeci/index.htm": {
     "hash": "602b4d245e765c49a9f314b7449e86e3fca98d29835f8c2b38770158fe4569f9",
-    "checked_at": "2026-11-09 10:31:59",
+    "checked_at": "2026-11-10 13:00:14",
     "changed_at": "2026-11-03 12:23:26",
     "lines": [
       "金融政策に関する決定事項等 : 日本銀行 Bank of Japan",
@@ -3663,9 +3655,9 @@
     "status": 200
   },
   "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm": {
-    "hash": "8d005b7a5653e02f41a4ad47db41d9352686f057b85ee5c2b00b787ed73e997d",
-    "checked_at": "2026-11-09 10:31:59",
-    "changed_at": "2026-11-07 10:43:47",
+    "hash": "d345908daecb615b64f131e49a792bb4d30f87d6582ebce63a5e6c27ca9ccc8c",
+    "checked_at": "2026-11-10 13:00:14",
+    "changed_at": "2026-11-10 13:00:14",
     "lines": [
       "外国為替市況（日次） : 日本銀行 Bank of Japan",
       "このページの本文へ移動",
@@ -3915,6 +3907,8 @@
       "表 公表データ",
       "掲載日",
       "データ",
+      "2026年11月 9日",
+      "外国為替市況（11月9日） [PDF 61KB]",
       "2026年11月 6日",
       "外国為替市況（11月6日） [PDF 61KB]",
       "2026年11月 5日",
@@ -3923,8 +3917,6 @@
       "外国為替市況（11月4日） [PDF 62KB]",
       "2026年11月 2日",
       "外国為替市況（11月2日） [PDF 61KB]",
-      "2026年10月30日",
-      "外国為替市況（10月30日） [PDF 62KB]",
       "外国為替市況（日次）一覧",
       "参考計数（東京外為市場における取引状況）",
       "表 参考計数（東京外為市場における取引状況）",
@@ -4078,7 +4070,7 @@
   },
   "https://www.fsa.go.jp/news/index.html": {
     "hash": "ee8109996ad8737721659c7a88f1aa97b730a0348cea80a719087d6e7430e7ee",
-    "checked_at": "2026-11-09 10:31:59",
+    "checked_at": "2026-11-10 13:00:14",
     "changed_at": "2026-10-01 10:09:57",
     "lines": [
       "--\u003e",
@@ -4390,14 +4382,14 @@
   },
   "https://www.mas.gov.sg/news": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "checked_at": "2026-11-09 10:31:59",
+    "checked_at": "2026-11-10 13:00:14",
     "changed_at": "2026-09-07 16:35:42",
     "lines": null,
     "status": 200
   },
   "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html": {
     "hash": "eaa46cbcde0621d08ec49037538896e680642d85923b603a0cb3070a279ba8e8",
-    "checked_at": "2026-11-09 10:31:59",
+    "checked_at": "2026-11-10 13:00:14",
     "changed_at": "2026-11-09 10:31:59",
     "lines": [
       "﻿",
@@ -4524,7 +4516,7 @@
   },
   "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm": {
     "hash": "297589e481ed326b05309714116986dc8bbe813aa5a952e5821ffacc3e0e61b3",
-    "checked_at": "2026-11-09 10:31:59",
+    "checked_at": "2026-11-10 13:00:14",
     "changed_at": "2026-11-09 10:31:59",
     "lines": [
       "﻿",
@@ -4655,7 +4647,7 @@
   },
   "https://www.sec.gov/news/pressreleases.rss": {
     "hash": "060f12a44dc6fd17d75d3f468ed782f65e59ca18ecc89a176272747f5a21cfcf",
-    "checked_at": "2026-11-09 10:31:59",
+    "checked_at": "2026-11-10 13:00:14",
     "changed_at": "2026-11-05 11:06:03",
     "lines": [
       "Press Releases",
