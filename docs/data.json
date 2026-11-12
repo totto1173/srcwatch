@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-11 10:46:12",
+  "generated_at": "2026-11-12 11:46:58",
   "summary": {
-    "changed": 4,
-    "same": 5
+    "changed": 2,
+    "same": 7
   },
   "items": [
     {
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-11 10:46:12",
+      "checked_at": "2026-11-12 11:46:58",
       "changed_at": "2026-11-09 10:31:59",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-11 10:46:12",
+      "checked_at": "2026-11-12 11:46:58",
       "changed_at": "2026-11-09 10:31:59",
       "line_count": 123
     },
@@ -31,16 +31,16 @@
       "note": "毎営業日・17時レート",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-11 10:46:12",
-      "changed_at": "2026-11-11 10:46:12",
+      "checked_at": "2026-11-12 11:46:58",
+      "changed_at": "2026-11-12 11:46:58",
       "line_count": 406,
       "added": [
-        "2026年11月10日",
-        "外国為替市況（11月10日） [PDF 61KB]"
+        "2026年11月11日",
+        "外国為替市況（11月11日） [PDF 61KB]"
       ],
       "removed": [
-        "2026年11月 2日",
-        "外国為替市況（11月2日） [PDF 61KB]"
+        "2026年11月 4日",
+        "外国為替市況（11月4日） [PDF 62KB]"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-11 10:46:12",
+      "checked_at": "2026-11-12 11:46:58",
       "changed_at": "2026-11-03 12:23:26",
       "line_count": 261
     },
@@ -59,7 +59,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-11 10:46:12",
+      "checked_at": "2026-11-12 11:46:58",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -67,25 +67,11 @@
       "name": "米SEC プレスリリース",
       "url": "https://www.sec.gov/news/pressreleases.rss",
       "note": "規則案・採択（HTMLは403のためRSS）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-11-11 10:46:12",
+      "checked_at": "2026-11-12 11:46:58",
       "changed_at": "2026-11-11 10:46:12",
-      "line_count": 129,
-      "added": [
-        "6342608c-3f9c-42b6-9641-743d75955586",
-        "SEC Announces Enforcement Annual Results for Fiscal Year 2026",
-        "The Securities and Exchange Commission today provided its enforcement results for the past fiscal year which ended September 30. Throughout the fiscal year, the…",
-        "Tue, 10 Nov 2026 11:15:35 -0500",
-        "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026"
-      ],
-      "removed": [
-        "Mon, 14 Sep 2026 12:47:00 -0400",
-        "SEC Grants Exemptive Relief from Certain Inline XBRL Filing or Submission Requirements",
-        "The Securities and Exchange Commission issued an order granting exemptive relief from certain Inline XBRL requirements adopted on Dec. 16, 2024. More specifical…",
-        "e311a18a-b7e8-4bad-8c06-c8e60e484bcc",
-        "https://www.sec.gov/newsroom/press-releases/2026-88-sec-grants-exemptive-relief-certain-inline-xbrl-filing-or-submission-requirements"
-      ]
+      "line_count": 129
     },
     {
       "name": "BIS FSI Briefs",
@@ -93,62 +79,56 @@
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-11 10:46:12",
-      "changed_at": "2026-11-11 10:46:12",
+      "checked_at": "2026-11-12 11:46:58",
+      "changed_at": "2026-11-12 11:46:58",
       "line_count": 2992,
       "added": [
-        "10 Nov 2026",
-        "BIS Working Paper (1400)",
-        "Bank for International Settlements (2854)",
-        "Boris Hofmann (55)",
-        "Boris Hofmann , Zehao Li and Steve Pak Yeung Wu",
-        "Displaying 1-10 of 5094",
-        "E43 (106)",
-        "E52 (258)",
-        "F42 (46)",
-        "Monetary policy",
-        "Monetary policy (2)",
-        "No 1393",
-        "Steve Pak Yeung Wu (3)",
-        "The global secular decline in long-term interest rates since the 1990s has been largely driven by cumulative yield changes during U.S. monetary policy announcem…",
-        "US monetary policy, macroeconomic news and the global secular decline of interest rates",
-        "Zehao Li (2)"
+        "11 Nov 2026",
+        "BIS Working Paper (1401)",
+        "Bank for International Settlements (2855)",
+        "C63 (11)",
+        "Christian Schmieder (13)",
+        "Christian Schmieder , Min Wei and Li Lian Ong",
+        "Displaying 1-10 of 5095",
+        "G01 (109)",
+        "G17 (16)",
+        "G21 (341)",
+        "G28 (245)",
+        "Li Lian Ong (2)",
+        "Liquidity risk remains a persistent threat to financial stability, as starkly demonstrated by the 2023 banking turmoil in the United States and Europe. Hence, t…",
+        "Min Wei (3)",
+        "No 1394",
+        "Ready-to-run global liquidity stress tests for banks and banking systems"
       ],
       "removed": [
-        "27 Oct 2026",
-        "BIS Bulletin",
-        "BIS Working Paper (1399)",
-        "Bank for International Settlements (2853)",
-        "Boris Hofmann (54)",
-        "Building AI on credit: structures and spillovers",
-        "Capital expenditure to build artificial intelligence (AI) infrastructure is growing fast, and a rising share is financed with long-term debt and through comple…",
-        "Displaying 1-10 of 5093",
-        "E43 (105)",
-        "E52 (257)",
-        "F42 (45)",
-        "Mathias Drehmann and Egemen Eren",
-        "Monetary policy (1)",
-        "No 140",
-        "Steve Pak Yeung Wu (2)",
-        "Zehao Li (1)"
+        "28 Oct 2026",
+        "AI readiness in central banks",
+        "Artificial intelligence (AI) has been gaining significant interest in central banks, reflecting its potential to support a wide range of their activities.",
+        "BIS Working Paper (1400)",
+        "Bank for International Settlements (2854)",
+        "C63 (10)",
+        "Christian Schmieder (12)",
+        "Displaying 1-10 of 5094",
+        "G01 (108)",
+        "G17 (15)",
+        "G21 (340)",
+        "G28 (244)",
+        "IFC Report",
+        "Li Lian Ong (1)",
+        "Min Wei (2)",
+        "No 19",
+        "Rafael Schmidt , Olivier Sirello , Bruno Tissot and Juan Pablo Cova"
       ]
     },
     {
       "name": "米財務省 プレスリリース",
       "url": "https://home.treasury.gov/news/press-releases",
       "note": "GENIUS法の規則・為替報告",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-11-11 10:46:12",
+      "checked_at": "2026-11-12 11:46:58",
       "changed_at": "2026-11-11 10:46:12",
-      "line_count": 380,
-      "added": [
-        "November 11, 2026",
-        "Remarks from Secretary of the Treasury Scott Bessent at the National Committee on U.S.-China Relations Gala"
-      ],
-      "removed": [
-        "Minutes of the Meeting of the Treasury Borrowing Advisory Committee November 3, 2026"
-      ]
+      "line_count": 380
     },
     {
       "name": "MAS メディアリリース",
@@ -156,12 +136,67 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-11 10:46:12",
+      "checked_at": "2026-11-12 11:46:58",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-11-12 11:46:58",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "11 Nov 2026",
+        "BIS Working Paper (1401)",
+        "Bank for International Settlements (2855)",
+        "C63 (11)",
+        "Christian Schmieder (13)",
+        "Christian Schmieder , Min Wei and Li Lian Ong",
+        "Displaying 1-10 of 5095",
+        "G01 (109)",
+        "G17 (16)",
+        "G21 (341)",
+        "G28 (245)",
+        "Li Lian Ong (2)",
+        "Liquidity risk remains a persistent threat to financial stability, as starkly demonstrated by the 2023 banking turmoil in the United States and Europe. Hence, t…",
+        "Min Wei (3)",
+        "No 1394",
+        "Ready-to-run global liquidity stress tests for banks and banking systems"
+      ],
+      "removed": [
+        "28 Oct 2026",
+        "AI readiness in central banks",
+        "Artificial intelligence (AI) has been gaining significant interest in central banks, reflecting its potential to support a wide range of their activities.",
+        "BIS Working Paper (1400)",
+        "Bank for International Settlements (2854)",
+        "C63 (10)",
+        "Christian Schmieder (12)",
+        "Displaying 1-10 of 5094",
+        "G01 (108)",
+        "G17 (15)",
+        "G21 (340)",
+        "G28 (244)",
+        "IFC Report",
+        "Li Lian Ong (1)",
+        "Min Wei (2)",
+        "No 19",
+        "Rafael Schmidt , Olivier Sirello , Bruno Tissot and Juan Pablo Cova"
+      ]
+    },
+    {
+      "at": "2026-11-12 11:46:58",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年11月11日",
+        "外国為替市況（11月11日） [PDF 61KB]"
+      ],
+      "removed": [
+        "2026年11月 4日",
+        "外国為替市況（11月4日） [PDF 62KB]"
+      ]
+    },
     {
       "at": "2026-11-11 10:46:12",
       "name": "米財務省 プレスリリース",
