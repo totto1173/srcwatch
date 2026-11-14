@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-13 11:29:19",
+  "generated_at": "2026-11-14 11:06:28",
   "summary": {
-    "changed": 2,
-    "same": 7
+    "changed": 4,
+    "same": 5
   },
   "items": [
     {
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-13 11:29:19",
+      "checked_at": "2026-11-14 11:06:28",
       "changed_at": "2026-11-09 10:31:59",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-13 11:29:19",
+      "checked_at": "2026-11-14 11:06:28",
       "changed_at": "2026-11-09 10:31:59",
       "line_count": 123
     },
@@ -31,16 +31,16 @@
       "note": "毎営業日・17時レート",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-13 11:29:19",
-      "changed_at": "2026-11-13 11:29:19",
+      "checked_at": "2026-11-14 11:06:28",
+      "changed_at": "2026-11-14 11:06:28",
       "line_count": 406,
       "added": [
-        "2026年11月12日",
-        "外国為替市況（11月12日） [PDF 61KB]"
+        "2026年11月13日",
+        "外国為替市況（11月13日） [PDF 61KB]"
       ],
       "removed": [
-        "2026年11月 5日",
-        "外国為替市況（11月5日） [PDF 62KB]"
+        "2026年11月 6日",
+        "外国為替市況（11月6日） [PDF 61KB]"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-13 11:29:19",
+      "checked_at": "2026-11-14 11:06:28",
       "changed_at": "2026-11-03 12:23:26",
       "line_count": 261
     },
@@ -59,7 +59,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-13 11:29:19",
+      "checked_at": "2026-11-14 11:06:28",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -67,11 +67,25 @@
       "name": "米SEC プレスリリース",
       "url": "https://www.sec.gov/news/pressreleases.rss",
       "note": "規則案・採択（HTMLは403のためRSS）",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-13 11:29:19",
-      "changed_at": "2026-11-11 10:46:12",
-      "line_count": 129
+      "checked_at": "2026-11-14 11:06:28",
+      "changed_at": "2026-11-14 11:06:28",
+      "line_count": 129,
+      "added": [
+        "Fri, 13 Nov 2026 11:57:00 -0500",
+        "SEC Proposes Executive and Director Compensation Disclosure Reforms",
+        "The Securities and Exchange Commission today proposed rule amendments to make its executive and director compensation disclosure requirements more principles-ba…",
+        "c63741dd-8d16-4965-a348-69fe89d93ced",
+        "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms"
+      ],
+      "removed": [
+        "SEC Proposes Rescission of Shareholder Proposal Rule and Reforms to Proxy Solicitation Process",
+        "The Securities and Exchange Commission today proposed to rescind Rule 14a-8 under the Securities Exchange Act of 1934, which exceeds the scope of the Commission…",
+        "Wed, 16 Sep 2026 10:00:00 -0400",
+        "b3074906-964e-4cc4-81f3-1162a1036f7e",
+        "https://www.sec.gov/newsroom/press-releases/2026-89-sec-proposes-rescission-shareholder-proposal-rule-reforms-proxy-solicitation-process"
+      ]
     },
     {
       "name": "BIS FSI Briefs",
@@ -79,80 +93,53 @@
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-13 11:29:19",
-      "changed_at": "2026-11-13 11:29:19",
-      "line_count": 3001,
+      "checked_at": "2026-11-14 11:06:28",
+      "changed_at": "2026-11-14 11:06:28",
+      "line_count": 3004,
       "added": [
-        "12 Nov 2026",
-        "12 Nov 2026",
-        "BIS Paper",
-        "BIS Paper (179)",
-        "BIS Working Paper (1402)",
-        "Bank for International Settlements (2857)",
-        "C32 (20)",
-        "C63 (12)",
-        "C87 (3)",
-        "Colin Colter (1)",
-        "Displaying 1-10 of 5097",
-        "E37 (34)",
-        "E42 (93)",
-        "Fernando Perez-Cruz (13)",
-        "Holti Banka (4)",
-        "Innovation and fintech (13)",
-        "J2 (2)",
-        "Jon Frost (66)",
-        "José Aurazo (9)",
-        "José Aurazo , Holti Banka , Colin Colter and Jon Frost",
-        "MaRCo@BIS: AI-agentic econometric analysis for central bankers",
-        "Marco Jacopo Lombardi (34)",
-        "Marco Jacopo Lombardi , Taejin Park and Fernando Perez-Cruz",
-        "No 1395",
-        "No 177",
-        "O17 (4)",
-        "O33 (48)",
-        "Taejin Park (8)",
-        "The gig economy and digital payments",
-        "The growth of the “gig” economy could have far-reaching implications for payment systems. Gig work involves digital platforms that intermediate between wor…",
-        "This paper introduces MaRCo@BIS, the MAcroeconometric Research Companion: a framework of plain-text workflow files, a verified dictionary of canonical model spe…"
+        "\"Eppur si muove\": Convergence Within and Between Countries",
+        "13 Nov 2026",
+        "BIS Working Paper (1403)",
+        "Bank for International Settlements (2858)",
+        "C15 (5)",
+        "C23 (8)",
+        "Displaying 1-10 of 5098",
+        "Giovanni Lombardo",
+        "Giovanni Lombardo (10)",
+        "Kremer, Willis, and You (2022) report that over six decades richer countries lost their growth advantage. Acemoglu and Molina (2022) and Pesaran and Smith (2026…",
+        "No 1396",
+        "O47 (10)"
       ],
       "removed": [
-        "29 Oct 2026",
-        "29 Oct 2026",
-        "BIS Paper (178)",
-        "BIS Working Paper (1401)",
-        "Bank for International Settlements (2855)",
-        "C32 (19)",
-        "C63 (11)",
-        "C87 (2)",
-        "CPMI Papers",
-        "Displaying 1-10 of 5095",
-        "E37 (33)",
-        "E42 (92)",
-        "Fernando Perez-Cruz (12)",
-        "Holti Banka (3)",
-        "IBS/GLI",
-        "Innovation and fintech (12)",
-        "J2 (1)",
-        "Jon Frost (65)",
-        "José Aurazo (8)",
-        "Marco Jacopo Lombardi (33)",
-        "O17 (3)",
-        "O33 (47)",
-        "Statistical release: BIS international banking statistics and global liquidity indicators at end-June 2026",
-        "Taejin Park (7)",
-        "Technological innovation, changing user demand and the emergence of new types of entities and infrastructures are transforming payment systems. These developm…",
-        "The roles of central banks and central bank money in the evolving payment system"
+        "31 Oct 2026",
+        "BIS Working Paper (1402)",
+        "Bank for International Settlements (2857)",
+        "C15 (4)",
+        "C23 (7)",
+        "Displaying 1-10 of 5097",
+        "Giovanni Lombardo (9)",
+        "O47 (9)",
+        "Statement of account",
+        "Statement of account as at 31 October 2026",
+        "This monthly statement of account provides figures as at 31 October 2026."
       ]
     },
     {
       "name": "米財務省 プレスリリース",
       "url": "https://home.treasury.gov/news/press-releases",
       "note": "GENIUS法の規則・為替報告",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-13 11:29:19",
-      "changed_at": "2026-11-11 10:46:12",
-      "line_count": 380
+      "checked_at": "2026-11-14 11:06:28",
+      "changed_at": "2026-11-14 11:06:28",
+      "line_count": 380,
+      "added": [
+        "November 13, 2026",
+        "Treasury Sanctions Guatemalan Drug Trafficking Organizations Supporting Mexican Narco-Terrorist Cartels"
+      ],
+      "removed": [
+        "Report to the Secretary of the Treasury from the Treasury Borrowing Advisory Committee"
+      ]
     },
     {
       "name": "MAS メディアリリース",
@@ -160,12 +147,88 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-13 11:29:19",
+      "checked_at": "2026-11-14 11:06:28",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-11-14 11:06:28",
+      "name": "米財務省 プレスリリース",
+      "url": "https://home.treasury.gov/news/press-releases",
+      "added": [
+        "November 13, 2026",
+        "Treasury Sanctions Guatemalan Drug Trafficking Organizations Supporting Mexican Narco-Terrorist Cartels"
+      ],
+      "removed": [
+        "Report to the Secretary of the Treasury from the Treasury Borrowing Advisory Committee"
+      ]
+    },
+    {
+      "at": "2026-11-14 11:06:28",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "\"Eppur si muove\": Convergence Within and Between Countries",
+        "13 Nov 2026",
+        "BIS Working Paper (1403)",
+        "Bank for International Settlements (2858)",
+        "C15 (5)",
+        "C23 (8)",
+        "Displaying 1-10 of 5098",
+        "Giovanni Lombardo",
+        "Giovanni Lombardo (10)",
+        "Kremer, Willis, and You (2022) report that over six decades richer countries lost their growth advantage. Acemoglu and Molina (2022) and Pesaran and Smith (2026…",
+        "No 1396",
+        "O47 (10)"
+      ],
+      "removed": [
+        "31 Oct 2026",
+        "BIS Working Paper (1402)",
+        "Bank for International Settlements (2857)",
+        "C15 (4)",
+        "C23 (7)",
+        "Displaying 1-10 of 5097",
+        "Giovanni Lombardo (9)",
+        "O47 (9)",
+        "Statement of account",
+        "Statement of account as at 31 October 2026",
+        "This monthly statement of account provides figures as at 31 October 2026."
+      ]
+    },
+    {
+      "at": "2026-11-14 11:06:28",
+      "name": "米SEC プレスリリース",
+      "url": "https://www.sec.gov/news/pressreleases.rss",
+      "added": [
+        "Fri, 13 Nov 2026 11:57:00 -0500",
+        "SEC Proposes Executive and Director Compensation Disclosure Reforms",
+        "The Securities and Exchange Commission today proposed rule amendments to make its executive and director compensation disclosure requirements more principles-ba…",
+        "c63741dd-8d16-4965-a348-69fe89d93ced",
+        "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms"
+      ],
+      "removed": [
+        "SEC Proposes Rescission of Shareholder Proposal Rule and Reforms to Proxy Solicitation Process",
+        "The Securities and Exchange Commission today proposed to rescind Rule 14a-8 under the Securities Exchange Act of 1934, which exceeds the scope of the Commission…",
+        "Wed, 16 Sep 2026 10:00:00 -0400",
+        "b3074906-964e-4cc4-81f3-1162a1036f7e",
+        "https://www.sec.gov/newsroom/press-releases/2026-89-sec-proposes-rescission-shareholder-proposal-rule-reforms-proxy-solicitation-process"
+      ]
+    },
+    {
+      "at": "2026-11-14 11:06:28",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年11月13日",
+        "外国為替市況（11月13日） [PDF 61KB]"
+      ],
+      "removed": [
+        "2026年11月 6日",
+        "外国為替市況（11月6日） [PDF 61KB]"
+      ]
+    },
     {
       "at": "2026-11-13 11:29:19",
       "name": "BIS FSI Briefs",
