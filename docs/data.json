@@ -1,8 +1,7 @@
 {
-  "generated_at": "2026-11-14 11:06:28",
+  "generated_at": "2026-11-15 10:38:06",
   "summary": {
-    "changed": 4,
-    "same": 5
+    "same": 9
   },
   "items": [
     {
@@ -11,7 +10,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-14 11:06:28",
+      "checked_at": "2026-11-15 10:38:06",
       "changed_at": "2026-11-09 10:31:59",
       "line_count": 119
     },
@@ -21,7 +20,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-14 11:06:28",
+      "checked_at": "2026-11-15 10:38:06",
       "changed_at": "2026-11-09 10:31:59",
       "line_count": 123
     },
@@ -29,19 +28,11 @@
       "name": "日銀 外国為替市況（日次一覧）",
       "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
       "note": "毎営業日・17時レート",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-11-14 11:06:28",
+      "checked_at": "2026-11-15 10:38:06",
       "changed_at": "2026-11-14 11:06:28",
-      "line_count": 406,
-      "added": [
-        "2026年11月13日",
-        "外国為替市況（11月13日） [PDF 61KB]"
-      ],
-      "removed": [
-        "2026年11月 6日",
-        "外国為替市況（11月6日） [PDF 61KB]"
-      ]
+      "line_count": 406
     },
     {
       "name": "日銀 金融政策決定会合",
@@ -49,7 +40,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-14 11:06:28",
+      "checked_at": "2026-11-15 10:38:06",
       "changed_at": "2026-11-03 12:23:26",
       "line_count": 261
     },
@@ -59,7 +50,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-14 11:06:28",
+      "checked_at": "2026-11-15 10:38:06",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -67,79 +58,31 @@
       "name": "米SEC プレスリリース",
       "url": "https://www.sec.gov/news/pressreleases.rss",
       "note": "規則案・採択（HTMLは403のためRSS）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-11-14 11:06:28",
+      "checked_at": "2026-11-15 10:38:06",
       "changed_at": "2026-11-14 11:06:28",
-      "line_count": 129,
-      "added": [
-        "Fri, 13 Nov 2026 11:57:00 -0500",
-        "SEC Proposes Executive and Director Compensation Disclosure Reforms",
-        "The Securities and Exchange Commission today proposed rule amendments to make its executive and director compensation disclosure requirements more principles-ba…",
-        "c63741dd-8d16-4965-a348-69fe89d93ced",
-        "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms"
-      ],
-      "removed": [
-        "SEC Proposes Rescission of Shareholder Proposal Rule and Reforms to Proxy Solicitation Process",
-        "The Securities and Exchange Commission today proposed to rescind Rule 14a-8 under the Securities Exchange Act of 1934, which exceeds the scope of the Commission…",
-        "Wed, 16 Sep 2026 10:00:00 -0400",
-        "b3074906-964e-4cc4-81f3-1162a1036f7e",
-        "https://www.sec.gov/newsroom/press-releases/2026-89-sec-proposes-rescission-shareholder-proposal-rule-reforms-proxy-solicitation-process"
-      ]
+      "line_count": 129
     },
     {
       "name": "BIS FSI Briefs",
       "url": "https://www.bis.org/publications/",
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-11-14 11:06:28",
+      "checked_at": "2026-11-15 10:38:06",
       "changed_at": "2026-11-14 11:06:28",
-      "line_count": 3004,
-      "added": [
-        "\"Eppur si muove\": Convergence Within and Between Countries",
-        "13 Nov 2026",
-        "BIS Working Paper (1403)",
-        "Bank for International Settlements (2858)",
-        "C15 (5)",
-        "C23 (8)",
-        "Displaying 1-10 of 5098",
-        "Giovanni Lombardo",
-        "Giovanni Lombardo (10)",
-        "Kremer, Willis, and You (2022) report that over six decades richer countries lost their growth advantage. Acemoglu and Molina (2022) and Pesaran and Smith (2026…",
-        "No 1396",
-        "O47 (10)"
-      ],
-      "removed": [
-        "31 Oct 2026",
-        "BIS Working Paper (1402)",
-        "Bank for International Settlements (2857)",
-        "C15 (4)",
-        "C23 (7)",
-        "Displaying 1-10 of 5097",
-        "Giovanni Lombardo (9)",
-        "O47 (9)",
-        "Statement of account",
-        "Statement of account as at 31 October 2026",
-        "This monthly statement of account provides figures as at 31 October 2026."
-      ]
+      "line_count": 3004
     },
     {
       "name": "米財務省 プレスリリース",
       "url": "https://home.treasury.gov/news/press-releases",
       "note": "GENIUS法の規則・為替報告",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-11-14 11:06:28",
+      "checked_at": "2026-11-15 10:38:06",
       "changed_at": "2026-11-14 11:06:28",
-      "line_count": 380,
-      "added": [
-        "November 13, 2026",
-        "Treasury Sanctions Guatemalan Drug Trafficking Organizations Supporting Mexican Narco-Terrorist Cartels"
-      ],
-      "removed": [
-        "Report to the Secretary of the Treasury from the Treasury Borrowing Advisory Committee"
-      ]
+      "line_count": 380
     },
     {
       "name": "MAS メディアリリース",
@@ -147,7 +90,7 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-14 11:06:28",
+      "checked_at": "2026-11-15 10:38:06",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
