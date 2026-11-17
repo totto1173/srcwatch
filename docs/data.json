@@ -1,7 +1,8 @@
 {
-  "generated_at": "2026-11-16 10:42:04",
+  "generated_at": "2026-11-17 13:23:11",
   "summary": {
-    "same": 9
+    "changed": 2,
+    "same": 7
   },
   "items": [
     {
@@ -10,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-16 10:42:04",
+      "checked_at": "2026-11-17 13:23:11",
       "changed_at": "2026-11-09 10:31:59",
       "line_count": 119
     },
@@ -20,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-16 10:42:04",
+      "checked_at": "2026-11-17 13:23:11",
       "changed_at": "2026-11-09 10:31:59",
       "line_count": 123
     },
@@ -28,11 +29,19 @@
       "name": "日銀 外国為替市況（日次一覧）",
       "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
       "note": "毎営業日・17時レート",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-16 10:42:04",
-      "changed_at": "2026-11-14 11:06:28",
-      "line_count": 406
+      "checked_at": "2026-11-17 13:23:11",
+      "changed_at": "2026-11-17 13:23:11",
+      "line_count": 406,
+      "added": [
+        "2026年11月16日",
+        "外国為替市況（11月16日） [PDF 61KB]"
+      ],
+      "removed": [
+        "2026年11月 9日",
+        "外国為替市況（11月9日） [PDF 61KB]"
+      ]
     },
     {
       "name": "日銀 金融政策決定会合",
@@ -40,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-16 10:42:04",
+      "checked_at": "2026-11-17 13:23:11",
       "changed_at": "2026-11-03 12:23:26",
       "line_count": 261
     },
@@ -50,7 +59,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-16 10:42:04",
+      "checked_at": "2026-11-17 13:23:11",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -60,7 +69,7 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-16 10:42:04",
+      "checked_at": "2026-11-17 13:23:11",
       "changed_at": "2026-11-14 11:06:28",
       "line_count": 129
     },
@@ -68,11 +77,21 @@
       "name": "BIS FSI Briefs",
       "url": "https://www.bis.org/publications/",
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-16 10:42:04",
-      "changed_at": "2026-11-14 11:06:28",
-      "line_count": 3004
+      "checked_at": "2026-11-17 13:23:11",
+      "changed_at": "2026-11-17 13:23:11",
+      "line_count": 3004,
+      "added": [
+        "Dr Tommaso Padoa-Schioppa (1)",
+        "Prof Otmar Issing (2)",
+        "Roger W Ferguson Jr (1)"
+      ],
+      "removed": [
+        "Otmar Issing (2)",
+        "Roger W Ferguson (1)",
+        "Tommaso Padoa-Schioppa (1)"
+      ]
     },
     {
       "name": "米財務省 プレスリリース",
@@ -80,7 +99,7 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-16 10:42:04",
+      "checked_at": "2026-11-17 13:23:11",
       "changed_at": "2026-11-14 11:06:28",
       "line_count": 380
     },
@@ -90,12 +109,40 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-16 10:42:04",
+      "checked_at": "2026-11-17 13:23:11",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-11-17 13:23:11",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "Dr Tommaso Padoa-Schioppa (1)",
+        "Prof Otmar Issing (2)",
+        "Roger W Ferguson Jr (1)"
+      ],
+      "removed": [
+        "Otmar Issing (2)",
+        "Roger W Ferguson (1)",
+        "Tommaso Padoa-Schioppa (1)"
+      ]
+    },
+    {
+      "at": "2026-11-17 13:23:11",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年11月16日",
+        "外国為替市況（11月16日） [PDF 61KB]"
+      ],
+      "removed": [
+        "2026年11月 9日",
+        "外国為替市況（11月9日） [PDF 61KB]"
+      ]
+    },
     {
       "at": "2026-11-14 11:06:28",
       "name": "米財務省 プレスリリース",
