@@ -1,8 +1,8 @@
 {
   "https://home.treasury.gov/news/press-releases": {
-    "hash": "72f88dd6f8529f601ca15f564db7637dd4d7bc9d0e0db02e92ec052aece7a443",
-    "checked_at": "2026-11-18 12:29:16",
-    "changed_at": "2026-11-18 12:29:16",
+    "hash": "69a259f5c27446d40d4918086049981bf5b632d85c88c4d37167a96fa6a59a1d",
+    "checked_at": "2026-11-19 12:01:53",
+    "changed_at": "2026-11-19 12:01:53",
     "lines": [
       "Press Releases | U.S. Department of the Treasury",
       "Skip to main content",
@@ -305,6 +305,12 @@
       "Webcasts",
       "Press Contacts",
       "Press Releases",
+      "November 18, 2026",
+      "Treasury’s Office of Cybersecurity and Critical Infrastructure Protection Issues Annual Consumer Advisory on Holiday Scams",
+      "November 18, 2026",
+      "Treasury International Capital Data for September",
+      "November 18, 2026",
+      "Operation Economic Outcast Targets Iran’s Proxy Networks",
       "November 17, 2026",
       "FinCEN Issues Proposed Rule to Strengthen Customer Due Diligence Requirements for Covered Financial Institutions",
       "November 17, 2026",
@@ -320,13 +326,6 @@
       "Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime",
       "November 6, 2026",
       "Operation Economic Outcast Severs MEXC Global’s Access to the U.S. Financial System",
-      "November 6, 2026",
-      "Readouts",
-      "READOUT: Secretary of the Treasury Scott Bessent’s Call with China’s Vice Premier He Lifeng",
-      "November 5, 2026",
-      "Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them",
-      "November 5, 2026",
-      "Treasury, IRS Announce Opportunity Zones Designations for Over 6,500 Communities Across America",
       "Pagination",
       "Current page 1",
       "Page 2",
@@ -389,7 +388,7 @@
   },
   "https://www.bis.org/publications/": {
     "hash": "2ee585f8233086c51dc5797c3966910e84151fcf938b1c3149954d7e05dedf24",
-    "checked_at": "2026-11-18 12:29:16",
+    "checked_at": "2026-11-19 12:01:53",
     "changed_at": "2026-11-18 12:29:16",
     "lines": [
       "Publications | Bank for International Settlements",
@@ -3403,7 +3402,7 @@
   },
   "https://www.boj.or.jp/mopo/mpmdeci/index.htm": {
     "hash": "602b4d245e765c49a9f314b7449e86e3fca98d29835f8c2b38770158fe4569f9",
-    "checked_at": "2026-11-18 12:29:16",
+    "checked_at": "2026-11-19 12:01:53",
     "changed_at": "2026-11-03 12:23:26",
     "lines": [
       "金融政策に関する決定事項等 : 日本銀行 Bank of Japan",
@@ -3671,9 +3670,9 @@
     "status": 200
   },
   "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm": {
-    "hash": "9ad4d342ddbd3c2404489834d8bd26bdfe26472e00a5561207d23b9ada071193",
-    "checked_at": "2026-11-18 12:29:16",
-    "changed_at": "2026-11-18 12:29:16",
+    "hash": "30b07afe14ac5fdd7989dab6e82c8c78230af8254e2ba4cfa46dd66ca80b4d2a",
+    "checked_at": "2026-11-19 12:01:53",
+    "changed_at": "2026-11-19 12:01:53",
     "lines": [
       "外国為替市況（日次） : 日本銀行 Bank of Japan",
       "このページの本文へ移動",
@@ -3923,6 +3922,8 @@
       "表 公表データ",
       "掲載日",
       "データ",
+      "2026年11月18日",
+      "外国為替市況（11月18日） [PDF 62KB]",
       "2026年11月17日",
       "外国為替市況（11月17日） [PDF 61KB]",
       "2026年11月16日",
@@ -3931,8 +3932,6 @@
       "外国為替市況（11月13日） [PDF 61KB]",
       "2026年11月12日",
       "外国為替市況（11月12日） [PDF 61KB]",
-      "2026年11月11日",
-      "外国為替市況（11月11日） [PDF 61KB]",
       "外国為替市況（日次）一覧",
       "参考計数（東京外為市場における取引状況）",
       "表 参考計数（東京外為市場における取引状況）",
@@ -4086,7 +4085,7 @@
   },
   "https://www.fsa.go.jp/news/index.html": {
     "hash": "ee8109996ad8737721659c7a88f1aa97b730a0348cea80a719087d6e7430e7ee",
-    "checked_at": "2026-11-18 12:29:16",
+    "checked_at": "2026-11-19 12:01:53",
     "changed_at": "2026-10-01 10:09:57",
     "lines": [
       "--\u003e",
@@ -4398,14 +4397,14 @@
   },
   "https://www.mas.gov.sg/news": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "checked_at": "2026-11-18 12:29:16",
+    "checked_at": "2026-11-19 12:01:53",
     "changed_at": "2026-09-07 16:35:42",
     "lines": null,
     "status": 200
   },
   "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html": {
     "hash": "eaa46cbcde0621d08ec49037538896e680642d85923b603a0cb3070a279ba8e8",
-    "checked_at": "2026-11-18 12:29:16",
+    "checked_at": "2026-11-19 12:01:53",
     "changed_at": "2026-11-09 10:31:59",
     "lines": [
       "﻿",
@@ -4532,7 +4531,7 @@
   },
   "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm": {
     "hash": "297589e481ed326b05309714116986dc8bbe813aa5a952e5821ffacc3e0e61b3",
-    "checked_at": "2026-11-18 12:29:16",
+    "checked_at": "2026-11-19 12:01:53",
     "changed_at": "2026-11-09 10:31:59",
     "lines": [
       "﻿",
@@ -4663,7 +4662,7 @@
   },
   "https://www.sec.gov/news/pressreleases.rss": {
     "hash": "7194bae348a4e859ab3f916aed19f3457c101fe2f316aec0c50a8cea94f191b5",
-    "checked_at": "2026-11-18 12:29:16",
+    "checked_at": "2026-11-19 12:01:53",
     "changed_at": "2026-11-14 11:06:28",
     "lines": [
       "Press Releases",

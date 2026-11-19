@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18 12:29:16",
+  "generated_at": "2026-11-19 12:01:53",
   "summary": {
-    "changed": 3,
-    "same": 6
+    "changed": 2,
+    "same": 7
   },
   "items": [
     {
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-18 12:29:16",
+      "checked_at": "2026-11-19 12:01:53",
       "changed_at": "2026-11-09 10:31:59",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-18 12:29:16",
+      "checked_at": "2026-11-19 12:01:53",
       "changed_at": "2026-11-09 10:31:59",
       "line_count": 123
     },
@@ -31,16 +31,16 @@
       "note": "毎営業日・17時レート",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-18 12:29:16",
-      "changed_at": "2026-11-18 12:29:16",
+      "checked_at": "2026-11-19 12:01:53",
+      "changed_at": "2026-11-19 12:01:53",
       "line_count": 406,
       "added": [
-        "2026年11月17日",
-        "外国為替市況（11月17日） [PDF 61KB]"
+        "2026年11月18日",
+        "外国為替市況（11月18日） [PDF 62KB]"
       ],
       "removed": [
-        "2026年11月10日",
-        "外国為替市況（11月10日） [PDF 61KB]"
+        "2026年11月11日",
+        "外国為替市況（11月11日） [PDF 61KB]"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-18 12:29:16",
+      "checked_at": "2026-11-19 12:01:53",
       "changed_at": "2026-11-03 12:23:26",
       "line_count": 261
     },
@@ -59,7 +59,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-18 12:29:16",
+      "checked_at": "2026-11-19 12:01:53",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -69,7 +69,7 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-18 12:29:16",
+      "checked_at": "2026-11-19 12:01:53",
       "changed_at": "2026-11-14 11:06:28",
       "line_count": 129
     },
@@ -77,47 +77,11 @@
       "name": "BIS FSI Briefs",
       "url": "https://www.bis.org/publications/",
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-11-18 12:29:16",
+      "checked_at": "2026-11-19 12:01:53",
       "changed_at": "2026-11-18 12:29:16",
-      "line_count": 3006,
-      "added": [
-        "\"Eppur si muove\": convergence within and between countries",
-        "17 Nov 2026",
-        "Alessandra Anna Palazzo (1)",
-        "Alessandra Anna Palazzo and Carlos Madeira",
-        "BIS Working Paper (1404)",
-        "Bank for International Settlements (2859)",
-        "Carlos Madeira (12)",
-        "D24 (5)",
-        "Displaying 1-10 of 5099",
-        "E23 (13)",
-        "Immigrants' skills and capital deepening: evidence from Chile",
-        "J15 (1)",
-        "J24 (8)",
-        "J61 (4)",
-        "L60 (2)",
-        "No 1397",
-        "We study the effect of migration on firms’ capital deepening, leveraging a massive influx of immigrant workers with varying skill sets from Venezuela and Hait…"
-      ],
-      "removed": [
-        "\"Eppur si muove\": Convergence Within and Between Countries",
-        "03 Nov 2026",
-        "BIS Working Paper (1403)",
-        "Bank for International Settlements (2858)",
-        "Carlos Madeira (11)",
-        "D24 (4)",
-        "Displaying 1-10 of 5098",
-        "E23 (12)",
-        "J24 (7)",
-        "J61 (3)",
-        "L60 (1)",
-        "No 1390",
-        "Official quarterly US GDP estimates begin in 1947; earlier quarterly histories must be reconstructed using annual benchmarks and historical indicators. To inves…",
-        "Prewar US business cycles under uncertainty: reconstructing quarterly GDP before 1947",
-        "Raphael Auer"
-      ]
+      "line_count": 3006
     },
     {
       "name": "米財務省 プレスリリース",
@@ -125,20 +89,23 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-18 12:29:16",
-      "changed_at": "2026-11-18 12:29:16",
-      "line_count": 380,
+      "checked_at": "2026-11-19 12:01:53",
+      "changed_at": "2026-11-19 12:01:53",
+      "line_count": 379,
       "added": [
-        "FinCEN Issues Proposed Rule to Strengthen Customer Due Diligence Requirements for Covered Financial Institutions",
-        "November 17, 2026",
-        "November 17, 2026",
-        "Treasury, IRS Issue Final Rules to Help Hardworking Americans Build a Financially Secure Retirement"
+        "November 18, 2026",
+        "November 18, 2026",
+        "November 18, 2026",
+        "Operation Economic Outcast Targets Iran’s Proxy Networks",
+        "Treasury International Capital Data for September",
+        "Treasury’s Office of Cybersecurity and Critical Infrastructure Protection Issues Annual Consumer Advisory on Holiday Scams"
       ],
       "removed": [
-        "November 4, 2026",
-        "November 4, 2026",
-        "Operation Economic Outcast Targets Global Maritime Fraud Network Supporting Iranian Regime",
-        "Quarterly Refunding Statement of Assistant Secretary for Financial Markets Hunter McMaster"
+        "November 5, 2026",
+        "November 5, 2026",
+        "READOUT: Secretary of the Treasury Scott Bessent’s Call with China’s Vice Premier He Lifeng",
+        "Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them",
+        "Treasury, IRS Announce Opportunity Zones Designations for Over 6,500 Communities Across America"
       ]
     },
     {
@@ -147,12 +114,45 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-18 12:29:16",
+      "checked_at": "2026-11-19 12:01:53",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-11-19 12:01:53",
+      "name": "米財務省 プレスリリース",
+      "url": "https://home.treasury.gov/news/press-releases",
+      "added": [
+        "November 18, 2026",
+        "November 18, 2026",
+        "November 18, 2026",
+        "Operation Economic Outcast Targets Iran’s Proxy Networks",
+        "Treasury International Capital Data for September",
+        "Treasury’s Office of Cybersecurity and Critical Infrastructure Protection Issues Annual Consumer Advisory on Holiday Scams"
+      ],
+      "removed": [
+        "November 5, 2026",
+        "November 5, 2026",
+        "READOUT: Secretary of the Treasury Scott Bessent’s Call with China’s Vice Premier He Lifeng",
+        "Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them",
+        "Treasury, IRS Announce Opportunity Zones Designations for Over 6,500 Communities Across America"
+      ]
+    },
+    {
+      "at": "2026-11-19 12:01:53",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年11月18日",
+        "外国為替市況（11月18日） [PDF 62KB]"
+      ],
+      "removed": [
+        "2026年11月11日",
+        "外国為替市況（11月11日） [PDF 61KB]"
+      ]
+    },
     {
       "at": "2026-11-18 12:29:16",
       "name": "米財務省 プレスリリース",
