@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-19 12:01:53",
+  "generated_at": "2026-11-20 11:54:12",
   "summary": {
-    "changed": 2,
-    "same": 7
+    "changed": 4,
+    "same": 5
   },
   "items": [
     {
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-19 12:01:53",
+      "checked_at": "2026-11-20 11:54:12",
       "changed_at": "2026-11-09 10:31:59",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-19 12:01:53",
+      "checked_at": "2026-11-20 11:54:12",
       "changed_at": "2026-11-09 10:31:59",
       "line_count": 123
     },
@@ -31,16 +31,16 @@
       "note": "毎営業日・17時レート",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-19 12:01:53",
-      "changed_at": "2026-11-19 12:01:53",
+      "checked_at": "2026-11-20 11:54:12",
+      "changed_at": "2026-11-20 11:54:12",
       "line_count": 406,
       "added": [
-        "2026年11月18日",
-        "外国為替市況（11月18日） [PDF 62KB]"
+        "2026年11月19日",
+        "外国為替市況（11月19日） [PDF 61KB]"
       ],
       "removed": [
-        "2026年11月11日",
-        "外国為替市況（11月11日） [PDF 61KB]"
+        "2026年11月12日",
+        "外国為替市況（11月12日） [PDF 61KB]"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-19 12:01:53",
+      "checked_at": "2026-11-20 11:54:12",
       "changed_at": "2026-11-03 12:23:26",
       "line_count": 261
     },
@@ -59,7 +59,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-19 12:01:53",
+      "checked_at": "2026-11-20 11:54:12",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -67,21 +67,41 @@
       "name": "米SEC プレスリリース",
       "url": "https://www.sec.gov/news/pressreleases.rss",
       "note": "規則案・採択（HTMLは403のためRSS）",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-19 12:01:53",
-      "changed_at": "2026-11-14 11:06:28",
-      "line_count": 129
+      "checked_at": "2026-11-20 11:54:12",
+      "changed_at": "2026-11-20 11:54:12",
+      "line_count": 129,
+      "added": [
+        "77d246bf-0461-4b0b-9d94-36dfdb30f94d",
+        "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
+        "The Securities and Exchange Commission today charged eight Colorado-based entities, likely operated by individuals located overseas, for defrauding U.S. investo…",
+        "Thu, 19 Nov 2026 09:39:02 -0500",
+        "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors"
+      ],
+      "removed": [
+        "29d9b3fa-0eed-432e-850c-0978c0f4c49b",
+        "SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment",
+        "The SEC is taking a significant step forward, within its statutory authority, to bring America’s capital markets into the digital age by facilitating onchain …",
+        "Thu, 17 Sep 2026 08:55:00 -0400",
+        "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"
+      ]
     },
     {
       "name": "BIS FSI Briefs",
       "url": "https://www.bis.org/publications/",
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-19 12:01:53",
-      "changed_at": "2026-11-18 12:29:16",
-      "line_count": 3006
+      "checked_at": "2026-11-20 11:54:12",
+      "changed_at": "2026-11-20 11:54:12",
+      "line_count": 3006,
+      "added": [
+        "Prof Stanley Fischer (2)"
+      ],
+      "removed": [
+        "Stanley Fischer (2)"
+      ]
     },
     {
       "name": "米財務省 プレスリリース",
@@ -89,23 +109,18 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-19 12:01:53",
-      "changed_at": "2026-11-19 12:01:53",
+      "checked_at": "2026-11-20 11:54:12",
+      "changed_at": "2026-11-20 11:54:12",
       "line_count": 379,
       "added": [
-        "November 18, 2026",
-        "November 18, 2026",
-        "November 18, 2026",
-        "Operation Economic Outcast Targets Iran’s Proxy Networks",
-        "Treasury International Capital Data for September",
-        "Treasury’s Office of Cybersecurity and Critical Infrastructure Protection Issues Annual Consumer Advisory on Holiday Scams"
+        "November 19, 2026",
+        "November 19, 2026",
+        "Treasury Sanctions Major Drug Trafficking Organizations Supporting Terrorist Cartels",
+        "Treasury Targets Cyber Scam Operators and Armed Group Facilitators in Southeast Asia"
       ],
       "removed": [
-        "November 5, 2026",
-        "November 5, 2026",
-        "READOUT: Secretary of the Treasury Scott Bessent’s Call with China’s Vice Premier He Lifeng",
-        "Treasury Targets Global Scam Networks and the Corporate Infrastructure That Enables Them",
-        "Treasury, IRS Announce Opportunity Zones Designations for Over 6,500 Communities Across America"
+        "Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime",
+        "Operation Economic Outcast Severs MEXC Global’s Access to the U.S. Financial System"
       ]
     },
     {
@@ -114,12 +129,70 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-19 12:01:53",
+      "checked_at": "2026-11-20 11:54:12",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-11-20 11:54:12",
+      "name": "米財務省 プレスリリース",
+      "url": "https://home.treasury.gov/news/press-releases",
+      "added": [
+        "November 19, 2026",
+        "November 19, 2026",
+        "Treasury Sanctions Major Drug Trafficking Organizations Supporting Terrorist Cartels",
+        "Treasury Targets Cyber Scam Operators and Armed Group Facilitators in Southeast Asia"
+      ],
+      "removed": [
+        "Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime",
+        "Operation Economic Outcast Severs MEXC Global’s Access to the U.S. Financial System"
+      ]
+    },
+    {
+      "at": "2026-11-20 11:54:12",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "Prof Stanley Fischer (2)"
+      ],
+      "removed": [
+        "Stanley Fischer (2)"
+      ]
+    },
+    {
+      "at": "2026-11-20 11:54:12",
+      "name": "米SEC プレスリリース",
+      "url": "https://www.sec.gov/news/pressreleases.rss",
+      "added": [
+        "77d246bf-0461-4b0b-9d94-36dfdb30f94d",
+        "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
+        "The Securities and Exchange Commission today charged eight Colorado-based entities, likely operated by individuals located overseas, for defrauding U.S. investo…",
+        "Thu, 19 Nov 2026 09:39:02 -0500",
+        "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors"
+      ],
+      "removed": [
+        "29d9b3fa-0eed-432e-850c-0978c0f4c49b",
+        "SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment",
+        "The SEC is taking a significant step forward, within its statutory authority, to bring America’s capital markets into the digital age by facilitating onchain …",
+        "Thu, 17 Sep 2026 08:55:00 -0400",
+        "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"
+      ]
+    },
+    {
+      "at": "2026-11-20 11:54:12",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年11月19日",
+        "外国為替市況（11月19日） [PDF 61KB]"
+      ],
+      "removed": [
+        "2026年11月12日",
+        "外国為替市況（11月12日） [PDF 61KB]"
+      ]
+    },
     {
       "at": "2026-11-19 12:01:53",
       "name": "米財務省 プレスリリース",
