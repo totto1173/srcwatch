@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-20 11:54:12",
+  "generated_at": "2026-11-21 12:02:10",
   "summary": {
-    "changed": 4,
-    "same": 5
+    "changed": 3,
+    "same": 6
   },
   "items": [
     {
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-20 11:54:12",
+      "checked_at": "2026-11-21 12:02:10",
       "changed_at": "2026-11-09 10:31:59",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-20 11:54:12",
+      "checked_at": "2026-11-21 12:02:10",
       "changed_at": "2026-11-09 10:31:59",
       "line_count": 123
     },
@@ -31,16 +31,16 @@
       "note": "毎営業日・17時レート",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-20 11:54:12",
-      "changed_at": "2026-11-20 11:54:12",
+      "checked_at": "2026-11-21 12:02:10",
+      "changed_at": "2026-11-21 12:02:10",
       "line_count": 406,
       "added": [
-        "2026年11月19日",
-        "外国為替市況（11月19日） [PDF 61KB]"
+        "2026年11月20日",
+        "外国為替市況（11月20日） [PDF 61KB]"
       ],
       "removed": [
-        "2026年11月12日",
-        "外国為替市況（11月12日） [PDF 61KB]"
+        "2026年11月13日",
+        "外国為替市況（11月13日） [PDF 61KB]"
       ]
     },
     {
@@ -49,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-20 11:54:12",
+      "checked_at": "2026-11-21 12:02:10",
       "changed_at": "2026-11-03 12:23:26",
       "line_count": 261
     },
@@ -59,7 +59,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-20 11:54:12",
+      "checked_at": "2026-11-21 12:02:10",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -69,39 +69,43 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-20 11:54:12",
-      "changed_at": "2026-11-20 11:54:12",
+      "checked_at": "2026-11-21 12:02:10",
+      "changed_at": "2026-11-21 12:02:10",
       "line_count": 129,
       "added": [
-        "77d246bf-0461-4b0b-9d94-36dfdb30f94d",
-        "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
-        "The Securities and Exchange Commission today charged eight Colorado-based entities, likely operated by individuals located overseas, for defrauding U.S. investo…",
-        "Thu, 19 Nov 2026 09:39:02 -0500",
-        "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors"
+        "0ffb24a1-44c1-4fbe-ba45-fb7725313d44",
+        "1c720e0a-bf4e-4c42-9b9b-af997adb9b8e",
+        "Fri, 20 Nov 2026 09:28:28 -0500",
+        "Fri, 20 Nov 2026 13:03:24 -0500",
+        "SEC Charges Indianapolis-Based Backward Hat Capital and Its Co-Founders With $560 Million Dollar Offering Fraud and Obtains Emergency Relief",
+        "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
+        "The Securities and Exchange Commission today announced that it has obtained a temporary restraining order, asset freeze, expedited discovery, and other relief a…",
+        "The Securities and Exchange Commission today issued a proposal to address the inefficiencies in the current governance and funding model of the Consolidated Aud…",
+        "https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering",
+        "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail"
       ],
       "removed": [
-        "29d9b3fa-0eed-432e-850c-0978c0f4c49b",
-        "SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment",
-        "The SEC is taking a significant step forward, within its statutory authority, to bring America’s capital markets into the digital age by facilitating onchain …",
-        "Thu, 17 Sep 2026 08:55:00 -0400",
-        "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"
+        "18593a6f-56eb-420e-9422-c536d03eaae1",
+        "6cc659ac-93f2-4e3b-87d1-ebfbb4f2421f",
+        "SEC Censures OTC Link LLC for Repeated Compliance Failures Related to Regulation SCI",
+        "SEC Charges South Florida Resident and His Company for Alleged Investment Scheme Defrauding Law Enforcement",
+        "The Securities and Exchange Commission today censured New York-based broker dealer OTC Link LLC and ordered it to pay a $575,000 civil penalty for longstanding …",
+        "The Securities and Exchange Commission today charged CMI Capital LLC and its founder and manager, Michael D. Williams, for an alleged fraudulent investment sche…",
+        "Tue, 22 Sep 2026 12:41:11 -0400",
+        "Wed, 23 Sep 2026 12:00:00 -0400",
+        "https://www.sec.gov/newsroom/press-releases/2026-91-sec-censures-otc-link-llc-repeated-compliance-failures-related-regulation-sci",
+        "https://www.sec.gov/newsroom/press-releases/2026-92-sec-charges-south-florida-resident-his-company-alleged-investment-scheme-defrauding-law-enforcement"
       ]
     },
     {
       "name": "BIS FSI Briefs",
       "url": "https://www.bis.org/publications/",
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-11-20 11:54:12",
+      "checked_at": "2026-11-21 12:02:10",
       "changed_at": "2026-11-20 11:54:12",
-      "line_count": 3006,
-      "added": [
-        "Prof Stanley Fischer (2)"
-      ],
-      "removed": [
-        "Stanley Fischer (2)"
-      ]
+      "line_count": 3006
     },
     {
       "name": "米財務省 プレスリリース",
@@ -109,18 +113,16 @@
       "note": "GENIUS法の規則・為替報告",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-20 11:54:12",
-      "changed_at": "2026-11-20 11:54:12",
+      "checked_at": "2026-11-21 12:02:10",
+      "changed_at": "2026-11-21 12:02:10",
       "line_count": 379,
       "added": [
-        "November 19, 2026",
-        "November 19, 2026",
-        "Treasury Sanctions Major Drug Trafficking Organizations Supporting Terrorist Cartels",
-        "Treasury Targets Cyber Scam Operators and Armed Group Facilitators in Southeast Asia"
+        "November 20, 2026",
+        "Operation Economic Outcast Targets Corrupt Regime Insiders Exploiting Iran’s Oil Sector for Personal Gain"
       ],
       "removed": [
-        "Operation Economic Outcast Sanctions Eight Canadian Money Services Businesses Enabling Iranian Regime",
-        "Operation Economic Outcast Severs MEXC Global’s Access to the U.S. Financial System"
+        "FATF Recognizes Effectiveness of U.S. AML/CFT System, Advances Key Illicit Finance Initiatives",
+        "November 6, 2026"
       ]
     },
     {
@@ -129,12 +131,67 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-20 11:54:12",
+      "checked_at": "2026-11-21 12:02:10",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-11-21 12:02:10",
+      "name": "米財務省 プレスリリース",
+      "url": "https://home.treasury.gov/news/press-releases",
+      "added": [
+        "November 20, 2026",
+        "Operation Economic Outcast Targets Corrupt Regime Insiders Exploiting Iran’s Oil Sector for Personal Gain"
+      ],
+      "removed": [
+        "FATF Recognizes Effectiveness of U.S. AML/CFT System, Advances Key Illicit Finance Initiatives",
+        "November 6, 2026"
+      ]
+    },
+    {
+      "at": "2026-11-21 12:02:10",
+      "name": "米SEC プレスリリース",
+      "url": "https://www.sec.gov/news/pressreleases.rss",
+      "added": [
+        "0ffb24a1-44c1-4fbe-ba45-fb7725313d44",
+        "1c720e0a-bf4e-4c42-9b9b-af997adb9b8e",
+        "Fri, 20 Nov 2026 09:28:28 -0500",
+        "Fri, 20 Nov 2026 13:03:24 -0500",
+        "SEC Charges Indianapolis-Based Backward Hat Capital and Its Co-Founders With $560 Million Dollar Offering Fraud and Obtains Emergency Relief",
+        "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
+        "The Securities and Exchange Commission today announced that it has obtained a temporary restraining order, asset freeze, expedited discovery, and other relief a…",
+        "The Securities and Exchange Commission today issued a proposal to address the inefficiencies in the current governance and funding model of the Consolidated Aud…",
+        "https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering",
+        "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail"
+      ],
+      "removed": [
+        "18593a6f-56eb-420e-9422-c536d03eaae1",
+        "6cc659ac-93f2-4e3b-87d1-ebfbb4f2421f",
+        "SEC Censures OTC Link LLC for Repeated Compliance Failures Related to Regulation SCI",
+        "SEC Charges South Florida Resident and His Company for Alleged Investment Scheme Defrauding Law Enforcement",
+        "The Securities and Exchange Commission today censured New York-based broker dealer OTC Link LLC and ordered it to pay a $575,000 civil penalty for longstanding …",
+        "The Securities and Exchange Commission today charged CMI Capital LLC and its founder and manager, Michael D. Williams, for an alleged fraudulent investment sche…",
+        "Tue, 22 Sep 2026 12:41:11 -0400",
+        "Wed, 23 Sep 2026 12:00:00 -0400",
+        "https://www.sec.gov/newsroom/press-releases/2026-91-sec-censures-otc-link-llc-repeated-compliance-failures-related-regulation-sci",
+        "https://www.sec.gov/newsroom/press-releases/2026-92-sec-charges-south-florida-resident-his-company-alleged-investment-scheme-defrauding-law-enforcement"
+      ]
+    },
+    {
+      "at": "2026-11-21 12:02:10",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年11月20日",
+        "外国為替市況（11月20日） [PDF 61KB]"
+      ],
+      "removed": [
+        "2026年11月13日",
+        "外国為替市況（11月13日） [PDF 61KB]"
+      ]
+    },
     {
       "at": "2026-11-20 11:54:12",
       "name": "米財務省 プレスリリース",

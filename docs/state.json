@@ -1,8 +1,8 @@
 {
   "https://home.treasury.gov/news/press-releases": {
-    "hash": "7c203fca368482a9f1b8d84d6a8fc4536956d64925c426907c8efb39dbbb8332",
-    "checked_at": "2026-11-20 11:54:12",
-    "changed_at": "2026-11-20 11:54:12",
+    "hash": "0fc5e1872c8e31e17b4fd2ab5c04c894bd163a44119b0b5a0fa46f7e499e7afd",
+    "checked_at": "2026-11-21 12:02:10",
+    "changed_at": "2026-11-21 12:02:10",
     "lines": [
       "Press Releases | U.S. Department of the Treasury",
       "Skip to main content",
@@ -305,6 +305,8 @@
       "Webcasts",
       "Press Contacts",
       "Press Releases",
+      "November 20, 2026",
+      "Operation Economic Outcast Targets Corrupt Regime Insiders Exploiting Iran’s Oil Sector for Personal Gain",
       "November 19, 2026",
       "Treasury Sanctions Major Drug Trafficking Organizations Supporting Terrorist Cartels",
       "November 19, 2026",
@@ -324,8 +326,6 @@
       "November 11, 2026",
       "Statements \u0026 Remarks",
       "Remarks from Secretary of the Treasury Scott Bessent at the National Committee on U.S.-China Relations Gala",
-      "November 6, 2026",
-      "FATF Recognizes Effectiveness of U.S. AML/CFT System, Advances Key Illicit Finance Initiatives",
       "Pagination",
       "Current page 1",
       "Page 2",
@@ -388,7 +388,7 @@
   },
   "https://www.bis.org/publications/": {
     "hash": "68d99e25f50c036ba4b4fa318e5e917752a0acd42513fc83d8833eee376958c1",
-    "checked_at": "2026-11-20 11:54:12",
+    "checked_at": "2026-11-21 12:02:10",
     "changed_at": "2026-11-20 11:54:12",
     "lines": [
       "Publications | Bank for International Settlements",
@@ -3402,7 +3402,7 @@
   },
   "https://www.boj.or.jp/mopo/mpmdeci/index.htm": {
     "hash": "602b4d245e765c49a9f314b7449e86e3fca98d29835f8c2b38770158fe4569f9",
-    "checked_at": "2026-11-20 11:54:12",
+    "checked_at": "2026-11-21 12:02:10",
     "changed_at": "2026-11-03 12:23:26",
     "lines": [
       "金融政策に関する決定事項等 : 日本銀行 Bank of Japan",
@@ -3670,9 +3670,9 @@
     "status": 200
   },
   "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm": {
-    "hash": "524f250ce0ec4e2e98076f56e1e401335241b53497b38830299100829f7d637a",
-    "checked_at": "2026-11-20 11:54:12",
-    "changed_at": "2026-11-20 11:54:12",
+    "hash": "a2c11a77e128614d6bcc134585b2e5b1f28ad34a4241c624276875c0327ade87",
+    "checked_at": "2026-11-21 12:02:10",
+    "changed_at": "2026-11-21 12:02:10",
     "lines": [
       "外国為替市況（日次） : 日本銀行 Bank of Japan",
       "このページの本文へ移動",
@@ -3922,6 +3922,8 @@
       "表 公表データ",
       "掲載日",
       "データ",
+      "2026年11月20日",
+      "外国為替市況（11月20日） [PDF 61KB]",
       "2026年11月19日",
       "外国為替市況（11月19日） [PDF 61KB]",
       "2026年11月18日",
@@ -3930,8 +3932,6 @@
       "外国為替市況（11月17日） [PDF 61KB]",
       "2026年11月16日",
       "外国為替市況（11月16日） [PDF 61KB]",
-      "2026年11月13日",
-      "外国為替市況（11月13日） [PDF 61KB]",
       "外国為替市況（日次）一覧",
       "参考計数（東京外為市場における取引状況）",
       "表 参考計数（東京外為市場における取引状況）",
@@ -4085,7 +4085,7 @@
   },
   "https://www.fsa.go.jp/news/index.html": {
     "hash": "ee8109996ad8737721659c7a88f1aa97b730a0348cea80a719087d6e7430e7ee",
-    "checked_at": "2026-11-20 11:54:12",
+    "checked_at": "2026-11-21 12:02:10",
     "changed_at": "2026-10-01 10:09:57",
     "lines": [
       "--\u003e",
@@ -4397,14 +4397,14 @@
   },
   "https://www.mas.gov.sg/news": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "checked_at": "2026-11-20 11:54:12",
+    "checked_at": "2026-11-21 12:02:10",
     "changed_at": "2026-09-07 16:35:42",
     "lines": null,
     "status": 200
   },
   "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html": {
     "hash": "eaa46cbcde0621d08ec49037538896e680642d85923b603a0cb3070a279ba8e8",
-    "checked_at": "2026-11-20 11:54:12",
+    "checked_at": "2026-11-21 12:02:10",
     "changed_at": "2026-11-09 10:31:59",
     "lines": [
       "﻿",
@@ -4531,7 +4531,7 @@
   },
   "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm": {
     "hash": "297589e481ed326b05309714116986dc8bbe813aa5a952e5821ffacc3e0e61b3",
-    "checked_at": "2026-11-20 11:54:12",
+    "checked_at": "2026-11-21 12:02:10",
     "changed_at": "2026-11-09 10:31:59",
     "lines": [
       "﻿",
@@ -4661,14 +4661,24 @@
     "status": 200
   },
   "https://www.sec.gov/news/pressreleases.rss": {
-    "hash": "7ec85431cf814ac726a2ae8366d789b8dd2714c1c7d251825c5c00467b2f25ce",
-    "checked_at": "2026-11-20 11:54:12",
-    "changed_at": "2026-11-20 11:54:12",
+    "hash": "7c2f197578055684e2fe948e5a14c55fbaab88ba1472916a578e7394f534942e",
+    "checked_at": "2026-11-21 12:02:10",
+    "changed_at": "2026-11-21 12:02:10",
     "lines": [
       "Press Releases",
       "https://www.sec.gov/",
       "Official announcements highlighting recent actions taken by the SEC and other newsworthy information.",
       "en",
+      "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
+      "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
+      "The Securities and Exchange Commission today issued a proposal to address the inefficiencies in the current governance and funding model of the Consolidated Audit Trail (CAT). The Commission is proposing to rescind Rule 613 of Regulation NMS, which…",
+      "Fri, 20 Nov 2026 13:03:24 -0500",
+      "1c720e0a-bf4e-4c42-9b9b-af997adb9b8e",
+      "SEC Charges Indianapolis-Based Backward Hat Capital and Its Co-Founders With $560 Million Dollar Offering Fraud and Obtains Emergency Relief",
+      "https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering",
+      "The Securities and Exchange Commission today announced that it has obtained a temporary restraining order, asset freeze, expedited discovery, and other relief against Indianapolis-based Backward Hat Capital, its co-founders Phillip Williams and Devin…",
+      "Fri, 20 Nov 2026 09:28:28 -0500",
+      "0ffb24a1-44c1-4fbe-ba45-fb7725313d44",
       "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
       "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
       "The Securities and Exchange Commission today charged eight Colorado-based entities, likely operated by individuals located overseas, for defrauding U.S. investors out of more than $37 million. The defendants allegedly lured investors to believe they were…",
@@ -4783,17 +4793,7 @@
       "https://www.sec.gov/newsroom/press-releases/2026-93-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised",
       "The Securities and Exchange Commission’s Division of Economic and Risk Analysis (DERA) published updated statistics and data visualizations covering key segments of the U.S. capital markets, including a notable increase in the number of initial public…",
       "Wed, 23 Sep 2026 14:27:00 -0400",
-      "fb47e924-a7a1-41a4-92c3-a177cb83af75",
-      "SEC Charges South Florida Resident and His Company for Alleged Investment Scheme Defrauding Law Enforcement",
-      "https://www.sec.gov/newsroom/press-releases/2026-92-sec-charges-south-florida-resident-his-company-alleged-investment-scheme-defrauding-law-enforcement",
-      "The Securities and Exchange Commission today charged CMI Capital LLC and its founder and manager, Michael D. Williams, for an alleged fraudulent investment scheme that raised approximately $860,000 from at least 18 investors, many of whom are current or…",
-      "Wed, 23 Sep 2026 12:00:00 -0400",
-      "6cc659ac-93f2-4e3b-87d1-ebfbb4f2421f",
-      "SEC Censures OTC Link LLC for Repeated Compliance Failures Related to Regulation SCI",
-      "https://www.sec.gov/newsroom/press-releases/2026-91-sec-censures-otc-link-llc-repeated-compliance-failures-related-regulation-sci",
-      "The Securities and Exchange Commission today censured New York-based broker dealer OTC Link LLC and ordered it to pay a $575,000 civil penalty for longstanding violations of Regulation Systems Compliance and Integrity (SCI).According to the SEC’s settled…",
-      "Tue, 22 Sep 2026 12:41:11 -0400",
-      "18593a6f-56eb-420e-9422-c536d03eaae1"
+      "fb47e924-a7a1-41a4-92c3-a177cb83af75"
     ],
     "status": 200
   }
