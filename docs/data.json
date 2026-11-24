@@ -1,7 +1,8 @@
 {
-  "generated_at": "2026-11-23 11:24:38",
+  "generated_at": "2026-11-24 14:48:10",
   "summary": {
-    "same": 9
+    "changed": 2,
+    "same": 7
   },
   "items": [
     {
@@ -10,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-23 11:24:38",
+      "checked_at": "2026-11-24 14:48:10",
       "changed_at": "2026-11-09 10:31:59",
       "line_count": 119
     },
@@ -20,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-23 11:24:38",
+      "checked_at": "2026-11-24 14:48:10",
       "changed_at": "2026-11-09 10:31:59",
       "line_count": 123
     },
@@ -30,7 +31,7 @@
       "note": "毎営業日・17時レート",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-23 11:24:38",
+      "checked_at": "2026-11-24 14:48:10",
       "changed_at": "2026-11-21 12:02:10",
       "line_count": 406
     },
@@ -40,7 +41,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-23 11:24:38",
+      "checked_at": "2026-11-24 14:48:10",
       "changed_at": "2026-11-03 12:23:26",
       "line_count": 261
     },
@@ -50,7 +51,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-23 11:24:38",
+      "checked_at": "2026-11-24 14:48:10",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -60,7 +61,7 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-23 11:24:38",
+      "checked_at": "2026-11-24 14:48:10",
       "changed_at": "2026-11-21 12:02:10",
       "line_count": 129
     },
@@ -68,21 +69,39 @@
       "name": "BIS FSI Briefs",
       "url": "https://www.bis.org/publications/",
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-23 11:24:38",
-      "changed_at": "2026-11-20 11:54:12",
-      "line_count": 3006
+      "checked_at": "2026-11-24 14:48:10",
+      "changed_at": "2026-11-24 14:48:10",
+      "line_count": 3006,
+      "added": [
+        "José Darío Uribe Escobar (1)"
+      ],
+      "removed": [
+        "José Darío Uribe (1)"
+      ]
     },
     {
       "name": "米財務省 プレスリリース",
       "url": "https://home.treasury.gov/news/press-releases",
       "note": "GENIUS法の規則・為替報告",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-23 11:24:38",
-      "changed_at": "2026-11-21 12:02:10",
-      "line_count": 379
+      "checked_at": "2026-11-24 14:48:10",
+      "changed_at": "2026-11-24 14:48:10",
+      "line_count": 378,
+      "added": [
+        "November 23, 2026",
+        "November 23, 2026",
+        "Operation Economic Outcast Disrupts Iran’s Global Shadow Banking Networks",
+        "Treasury Identifies Nearly $15 Billion in Potential Iranian Shadow Banking"
+      ],
+      "removed": [
+        "November 11, 2026",
+        "November 13, 2026",
+        "Remarks from Secretary of the Treasury Scott Bessent at the National Committee on U.S.-China Relations Gala",
+        "Treasury Sanctions Guatemalan Drug Trafficking Organizations Supporting Mexican Narco-Terrorist Cartels"
+      ]
     },
     {
       "name": "MAS メディアリリース",
@@ -90,12 +109,40 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-23 11:24:38",
+      "checked_at": "2026-11-24 14:48:10",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-11-24 14:48:10",
+      "name": "米財務省 プレスリリース",
+      "url": "https://home.treasury.gov/news/press-releases",
+      "added": [
+        "November 23, 2026",
+        "November 23, 2026",
+        "Operation Economic Outcast Disrupts Iran’s Global Shadow Banking Networks",
+        "Treasury Identifies Nearly $15 Billion in Potential Iranian Shadow Banking"
+      ],
+      "removed": [
+        "November 11, 2026",
+        "November 13, 2026",
+        "Remarks from Secretary of the Treasury Scott Bessent at the National Committee on U.S.-China Relations Gala",
+        "Treasury Sanctions Guatemalan Drug Trafficking Organizations Supporting Mexican Narco-Terrorist Cartels"
+      ]
+    },
+    {
+      "at": "2026-11-24 14:48:10",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "José Darío Uribe Escobar (1)"
+      ],
+      "removed": [
+        "José Darío Uribe (1)"
+      ]
+    },
     {
       "at": "2026-11-21 12:02:10",
       "name": "米財務省 プレスリリース",
