@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24 14:48:10",
+  "generated_at": "2026-11-25 13:49:47",
   "summary": {
     "changed": 2,
     "same": 7
@@ -11,7 +11,7 @@
       "note": "介入額の月次公表。毎月末更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-24 14:48:10",
+      "checked_at": "2026-11-25 13:49:47",
       "changed_at": "2026-11-09 10:31:59",
       "line_count": 119
     },
@@ -21,7 +21,7 @@
       "note": "毎月上旬更新",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-24 14:48:10",
+      "checked_at": "2026-11-25 13:49:47",
       "changed_at": "2026-11-09 10:31:59",
       "line_count": 123
     },
@@ -29,11 +29,19 @@
       "name": "日銀 外国為替市況（日次一覧）",
       "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
       "note": "毎営業日・17時レート",
-      "result": "same",
+      "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-24 14:48:10",
-      "changed_at": "2026-11-21 12:02:10",
-      "line_count": 406
+      "checked_at": "2026-11-25 13:49:47",
+      "changed_at": "2026-11-25 13:49:47",
+      "line_count": 406,
+      "added": [
+        "2026年11月24日",
+        "外国為替市況（11月24日） [PDF 62KB]"
+      ],
+      "removed": [
+        "2026年11月16日",
+        "外国為替市況（11月16日） [PDF 61KB]"
+      ]
     },
     {
       "name": "日銀 金融政策決定会合",
@@ -41,7 +49,7 @@
       "note": "会合結果・声明",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-24 14:48:10",
+      "checked_at": "2026-11-25 13:49:47",
       "changed_at": "2026-11-03 12:23:26",
       "line_count": 261
     },
@@ -51,7 +59,7 @@
       "note": "規制・監督の発表",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-24 14:48:10",
+      "checked_at": "2026-11-25 13:49:47",
       "changed_at": "2026-10-01 10:09:57",
       "line_count": 304
     },
@@ -61,7 +69,7 @@
       "note": "規則案・採択（HTMLは403のためRSS）",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-24 14:48:10",
+      "checked_at": "2026-11-25 13:49:47",
       "changed_at": "2026-11-21 12:02:10",
       "line_count": 129
     },
@@ -71,37 +79,65 @@
       "note": "BISの刊行物一覧（FSI Briefsを含む）",
       "result": "changed",
       "status": 200,
-      "checked_at": "2026-11-24 14:48:10",
-      "changed_at": "2026-11-24 14:48:10",
-      "line_count": 3006,
+      "checked_at": "2026-11-25 13:49:47",
+      "changed_at": "2026-11-25 13:49:47",
+      "line_count": 3009,
       "added": [
-        "José Darío Uribe Escobar (1)"
+        "24 Nov 2026",
+        "24 Nov 2026",
+        "BIS Working Paper (1405)",
+        "Bank for International Settlements (2861)",
+        "Christiane Baumeister (1)",
+        "Christiane Baumeister , Fiorella De Fiore and Jasmine Xiao",
+        "D84 (16)",
+        "Displaying 1-10 of 5101",
+        "Dr Nout Wellink (1)",
+        "Dr Zeti Akhtar Aziz (1)",
+        "E31 (112)",
+        "E52 (259)",
+        "E58 (270)",
+        "Fiorella De Fiore (21)",
+        "Focus",
+        "Inflation",
+        "Inflation (4)",
+        "Jasmine Xiao (1)",
+        "No 1398",
+        "Project Danu explored how the concept of a digital twin can be used for climate-related risk analysis. A digital twin is a virtual representation of a real-worl…",
+        "Project Danu: monitoring emerging risks by leveraging the concept of a digital twin",
+        "Public perceptions of monetary policy play a central role in determining the effectiveness of policy actions. Despite central banks’ efforts to improve commun…",
+        "When the unthinkable happens: perceptions of monetary policy in tail events"
       ],
       "removed": [
-        "José Darío Uribe (1)"
+        "04 Nov 2026",
+        "05 Nov 2026",
+        "BIS Working Paper (1404)",
+        "Bank for International Settlements (2859)",
+        "Christian Schmieder , Renzo Corrias and Oliver Wünsch",
+        "Consolidated guidelines – consequential amendments",
+        "D84 (15)",
+        "Displaying 1-10 of 5099",
+        "E31 (111)",
+        "E52 (258)",
+        "E58 (269)",
+        "Fiorella De Fiore (20)",
+        "Inflation (3)",
+        "No 1391",
+        "Nout Wellink (1)",
+        "Scenarios for future banking: implications for profitability, liquidity and solvency",
+        "The Basel Committee on Banking supervision has finalised a new section of its website that sets out a consolidated version of its guidelines and sound practices…",
+        "Who will perform banking’s core functions a decade from now, and how will risks and profitability evolve? Our framework structures expert judgement rather tha…",
+        "Zeti Akhtar Aziz (1)"
       ]
     },
     {
       "name": "米財務省 プレスリリース",
       "url": "https://home.treasury.gov/news/press-releases",
       "note": "GENIUS法の規則・為替報告",
-      "result": "changed",
+      "result": "same",
       "status": 200,
-      "checked_at": "2026-11-24 14:48:10",
+      "checked_at": "2026-11-25 13:49:47",
       "changed_at": "2026-11-24 14:48:10",
-      "line_count": 378,
-      "added": [
-        "November 23, 2026",
-        "November 23, 2026",
-        "Operation Economic Outcast Disrupts Iran’s Global Shadow Banking Networks",
-        "Treasury Identifies Nearly $15 Billion in Potential Iranian Shadow Banking"
-      ],
-      "removed": [
-        "November 11, 2026",
-        "November 13, 2026",
-        "Remarks from Secretary of the Treasury Scott Bessent at the National Committee on U.S.-China Relations Gala",
-        "Treasury Sanctions Guatemalan Drug Trafficking Organizations Supporting Mexican Narco-Terrorist Cartels"
-      ]
+      "line_count": 378
     },
     {
       "name": "MAS メディアリリース",
@@ -109,12 +145,76 @@
       "note": "ボット遮断ページが返る＝行が20行前後で毎回変わる場合は偽陽性。実ブラウザで確認",
       "result": "same",
       "status": 200,
-      "checked_at": "2026-11-24 14:48:10",
+      "checked_at": "2026-11-25 13:49:47",
       "changed_at": "2026-09-07 16:35:42",
       "line_count": 0
     }
   ],
   "history": [
+    {
+      "at": "2026-11-25 13:49:47",
+      "name": "BIS FSI Briefs",
+      "url": "https://www.bis.org/publications/",
+      "added": [
+        "24 Nov 2026",
+        "24 Nov 2026",
+        "BIS Working Paper (1405)",
+        "Bank for International Settlements (2861)",
+        "Christiane Baumeister (1)",
+        "Christiane Baumeister , Fiorella De Fiore and Jasmine Xiao",
+        "D84 (16)",
+        "Displaying 1-10 of 5101",
+        "Dr Nout Wellink (1)",
+        "Dr Zeti Akhtar Aziz (1)",
+        "E31 (112)",
+        "E52 (259)",
+        "E58 (270)",
+        "Fiorella De Fiore (21)",
+        "Focus",
+        "Inflation",
+        "Inflation (4)",
+        "Jasmine Xiao (1)",
+        "No 1398",
+        "Project Danu explored how the concept of a digital twin can be used for climate-related risk analysis. A digital twin is a virtual representation of a real-worl…",
+        "Project Danu: monitoring emerging risks by leveraging the concept of a digital twin",
+        "Public perceptions of monetary policy play a central role in determining the effectiveness of policy actions. Despite central banks’ efforts to improve commun…",
+        "When the unthinkable happens: perceptions of monetary policy in tail events"
+      ],
+      "removed": [
+        "04 Nov 2026",
+        "05 Nov 2026",
+        "BIS Working Paper (1404)",
+        "Bank for International Settlements (2859)",
+        "Christian Schmieder , Renzo Corrias and Oliver Wünsch",
+        "Consolidated guidelines – consequential amendments",
+        "D84 (15)",
+        "Displaying 1-10 of 5099",
+        "E31 (111)",
+        "E52 (258)",
+        "E58 (269)",
+        "Fiorella De Fiore (20)",
+        "Inflation (3)",
+        "No 1391",
+        "Nout Wellink (1)",
+        "Scenarios for future banking: implications for profitability, liquidity and solvency",
+        "The Basel Committee on Banking supervision has finalised a new section of its website that sets out a consolidated version of its guidelines and sound practices…",
+        "Who will perform banking’s core functions a decade from now, and how will risks and profitability evolve? Our framework structures expert judgement rather tha…",
+        "Zeti Akhtar Aziz (1)"
+      ]
+    },
+    {
+      "at": "2026-11-25 13:49:47",
+      "name": "日銀 外国為替市況（日次一覧）",
+      "url": "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm",
+      "added": [
+        "2026年11月24日",
+        "外国為替市況（11月24日） [PDF 62KB]"
+      ],
+      "removed": [
+        "2026年11月16日",
+        "外国為替市況（11月16日） [PDF 61KB]"
+      ]
+    },
     {
       "at": "2026-11-24 14:48:10",
       "name": "米財務省 プレスリリース",
