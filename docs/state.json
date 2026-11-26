@@ -1,7 +1,7 @@
 {
   "https://home.treasury.gov/news/press-releases": {
     "hash": "c8f467e9fdf9f144d6343b0370e6d62cd56a53b2ea8f5e62ff29e4a04b30e26f",
-    "checked_at": "2026-11-25 13:49:47",
+    "checked_at": "2026-11-26 13:02:06",
     "changed_at": "2026-11-24 14:48:10",
     "lines": [
       "Press Releases | U.S. Department of the Treasury",
@@ -386,9 +386,9 @@
     "status": 200
   },
   "https://www.bis.org/publications/": {
-    "hash": "e55ade75bf7c30d2b103b4f0a95d350e7385234cb2448371c4b9bf6559f3906b",
-    "checked_at": "2026-11-25 13:49:47",
-    "changed_at": "2026-11-25 13:49:47",
+    "hash": "4c7ccfda8bd276f2feccbbeed8d9599d2b4a909f396282d552cc5d0c84270168",
+    "checked_at": "2026-11-26 13:02:06",
+    "changed_at": "2026-11-26 13:02:06",
     "lines": [
       "Publications | Bank for International Settlements",
       "Skip to main content",
@@ -3228,7 +3228,7 @@
       "IFC Report (19)",
       "IFC Working Papers (24)",
       "Implementation reports (149)",
-      "Innovation Hub project report (51)",
+      "Innovation Hub project report (52)",
       "Markets Committee Papers (19)",
       "OTC derivatives (57)",
       "Others (86)",
@@ -3289,10 +3289,6 @@
       "Technological innovation (1)",
       "Displaying 1-10 of 5101",
       "Publication",
-      "24 Nov 2026",
-      "Project Danu: monitoring emerging risks by leveraging the concept of a digital twin",
-      "Project Danu explored how the concept of a digital twin can be used for climate-related risk analysis. A digital twin is a virtual representation of a real-world system. Building on a proof of concept developed by the Bank of France, De Nederlandsche Bank…",
-      "Publication",
       "BIS Working Paper",
       "No 1398",
       "24 Nov 2026",
@@ -3302,6 +3298,11 @@
       "Authors:",
       "Christiane Baumeister , Fiorella De Fiore and Jasmine Xiao",
       "Inflation",
+      "Publication",
+      "Innovation Hub project report",
+      "24 Nov 2026",
+      "Project Danu: monitoring emerging risks by leveraging the concept of a digital twin",
+      "Project Danu explored how the concept of a digital twin can be used for climate-related risk analysis. A digital twin is a virtual representation of a real-world system. Building on a proof of concept developed by the Bank of France, De Nederlandsche Bank…",
       "Publication",
       "BIS Working Paper",
       "No 1397",
@@ -3404,7 +3405,7 @@
   },
   "https://www.boj.or.jp/mopo/mpmdeci/index.htm": {
     "hash": "602b4d245e765c49a9f314b7449e86e3fca98d29835f8c2b38770158fe4569f9",
-    "checked_at": "2026-11-25 13:49:47",
+    "checked_at": "2026-11-26 13:02:06",
     "changed_at": "2026-11-03 12:23:26",
     "lines": [
       "金融政策に関する決定事項等 : 日本銀行 Bank of Japan",
@@ -3672,9 +3673,9 @@
     "status": 200
   },
   "https://www.boj.or.jp/statistics/market/forex/fxdaily/index.htm": {
-    "hash": "912e65ad0202c5714e9603f9d8b81d2762325858b2db58b31726d7fe5d1d3b1a",
-    "checked_at": "2026-11-25 13:49:47",
-    "changed_at": "2026-11-25 13:49:47",
+    "hash": "dfba11459ff16d0b251a1f2482e44a138de76c2765438051703c5405ece0d1a2",
+    "checked_at": "2026-11-26 13:02:06",
+    "changed_at": "2026-11-26 13:02:06",
     "lines": [
       "外国為替市況（日次） : 日本銀行 Bank of Japan",
       "このページの本文へ移動",
@@ -3924,6 +3925,8 @@
       "表 公表データ",
       "掲載日",
       "データ",
+      "2026年11月25日",
+      "外国為替市況（11月25日） [PDF 61KB]",
       "2026年11月24日",
       "外国為替市況（11月24日） [PDF 62KB]",
       "2026年11月20日",
@@ -3932,8 +3935,6 @@
       "外国為替市況（11月19日） [PDF 61KB]",
       "2026年11月18日",
       "外国為替市況（11月18日） [PDF 62KB]",
-      "2026年11月17日",
-      "外国為替市況（11月17日） [PDF 61KB]",
       "外国為替市況（日次）一覧",
       "参考計数（東京外為市場における取引状況）",
       "表 参考計数（東京外為市場における取引状況）",
@@ -4087,7 +4088,7 @@
   },
   "https://www.fsa.go.jp/news/index.html": {
     "hash": "ee8109996ad8737721659c7a88f1aa97b730a0348cea80a719087d6e7430e7ee",
-    "checked_at": "2026-11-25 13:49:47",
+    "checked_at": "2026-11-26 13:02:06",
     "changed_at": "2026-10-01 10:09:57",
     "lines": [
       "--\u003e",
@@ -4399,14 +4400,14 @@
   },
   "https://www.mas.gov.sg/news": {
     "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "checked_at": "2026-11-25 13:49:47",
+    "checked_at": "2026-11-26 13:02:06",
     "changed_at": "2026-09-07 16:35:42",
     "lines": null,
     "status": 200
   },
   "https://www.mof.go.jp/policy/international_policy/reference/feio/index.html": {
     "hash": "eaa46cbcde0621d08ec49037538896e680642d85923b603a0cb3070a279ba8e8",
-    "checked_at": "2026-11-25 13:49:47",
+    "checked_at": "2026-11-26 13:02:06",
     "changed_at": "2026-11-09 10:31:59",
     "lines": [
       "﻿",
@@ -4533,7 +4534,7 @@
   },
   "https://www.mof.go.jp/policy/international_policy/reference/official_reserve_assets/index.htm": {
     "hash": "297589e481ed326b05309714116986dc8bbe813aa5a952e5821ffacc3e0e61b3",
-    "checked_at": "2026-11-25 13:49:47",
+    "checked_at": "2026-11-26 13:02:06",
     "changed_at": "2026-11-09 10:31:59",
     "lines": [
       "﻿",
@@ -4663,14 +4664,19 @@
     "status": 200
   },
   "https://www.sec.gov/news/pressreleases.rss": {
-    "hash": "7c2f197578055684e2fe948e5a14c55fbaab88ba1472916a578e7394f534942e",
-    "checked_at": "2026-11-25 13:49:47",
-    "changed_at": "2026-11-21 12:02:10",
+    "hash": "0312381112f34684e4197c83fd9c06b24784ed88aec4ef7e1292f6e11d539f01",
+    "checked_at": "2026-11-26 13:02:06",
+    "changed_at": "2026-11-26 13:02:06",
     "lines": [
       "Press Releases",
       "https://www.sec.gov/",
       "Official announcements highlighting recent actions taken by the SEC and other newsworthy information.",
       "en",
+      "SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting",
+      "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting",
+      "The Securities and Exchange Commission’s\u0026nbsp;Investor Advisory Committee will hold a virtual public meeting on Dec. 3, at 9:30 a.m. ET to discuss the trading of tokenized securities, bankruptcy, and accounting oversight.\u0026nbsp;The meeting will be webcast…",
+      "Wed, 25 Nov 2026 09:10:24 -0500",
+      "44e5413d-75cf-45be-9c2b-c1ca6c06f4dd",
       "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
       "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
       "The Securities and Exchange Commission today issued a proposal to address the inefficiencies in the current governance and funding model of the Consolidated Audit Trail (CAT). The Commission is proposing to rescind Rule 613 of Regulation NMS, which…",
@@ -4790,12 +4796,7 @@
       "https://www.sec.gov/newsroom/press-releases/2026-94-sec-charges-registered-investment-adviser-zoe-financial-failure-disclose-conflict-interest",
       "The Securities and Exchange Commission today announced settled charges against New York-based investment adviser Zoe Financial Inc. for failing to fully and fairly disclose material facts concerning conflicts of interest to its clients and prospective…",
       "Mon, 28 Sep 2026 13:46:30 -0400",
-      "054c4054-b2b9-48f6-b30d-dc6f219db7e1",
-      "SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised",
-      "https://www.sec.gov/newsroom/press-releases/2026-93-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised",
-      "The Securities and Exchange Commission’s Division of Economic and Risk Analysis (DERA) published updated statistics and data visualizations covering key segments of the U.S. capital markets, including a notable increase in the number of initial public…",
-      "Wed, 23 Sep 2026 14:27:00 -0400",
-      "fb47e924-a7a1-41a4-92c3-a177cb83af75"
+      "054c4054-b2b9-48f6-b30d-dc6f219db7e1"
     ],
     "status": 200
   }
